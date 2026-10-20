@@ -1,0 +1,117 @@
+---
+land: BY
+abkuerzung: BayBewAV
+titel: Verordnung zur Ausführung des Bewertungsgesetzes
+stand: Fassung gültig ab 31.12.2012
+gilt_ab: '2012-12-31'
+quelle: https://www.gesetze-bayern.de/Content/Document/BayBewAV
+---
+
+# Verordnung zur Ausführung des Bewertungsgesetzes (BayBewAV)
+
+Stand: Fassung gültig ab 31.12.2012
+
+Quelle: <https://www.gesetze-bayern.de/Content/Document/BayBewAV>
+
+Nichtamtliche Fassung des Landesportals.
+
+<!-- norm id="eingangsformel" -->
+## Eingangsformel
+
+Auf Grund von § 67 Abs. 3 Nr. 3 Satz 4, § 80 Abs. 2, § 110 Abs. 1 Nr. 12 Satz 3 des Bewertungsgesetzes in der Fassung der Bekanntmachung vom 1. Februar 1991 (BGBl I S. 230) erläßt die Bayerische Staatsregierung folgende Verordnung:
+
+<!-- norm id="par1" -->
+## § 1
+
+*(aufgehoben)*
+
+<!-- norm id="par2" -->
+## § 2
+
+(1) Die nachstehend aufgeführten Gemeinden werden abweichend von ihrer Einwohnerzahl nach dem Stand vom 1. Januar 1964 in folgende Gemeindegrößenklassen eingegliedert:
+
+- 1\. **Südbayern**
+  - a) Finanzamtsbezirk Augsburg-Land:  
+    in die Gemeindegrößenklasse über 50 000 bis 100 000 Einwohner die Gemeinde Stadtbergen und die frühere Gemeinde Steppach b. Augsburg,  
+    in die Gemeindegrößenklasse über 100 000 bis 200 000 Einwohner die Gemeinde Gersthofen und die früheren Gemeinden Leitershofen und Westheim b. Augsburg,  
+    in die Gemeindegrößenklasse über 200 000 bis 500 000 Einwohner die Gemeinde Neusäß und die früheren Gemeinden Göggingen und Haunstetten;
+  - b) Finanzamtsbezirk Bad Tölz:  
+    in die Gemeindegrößenklasse über 50 000 bis 100 000 Einwohner die Gemeinde Bad Tölz;
+  - c) Finanzamtsbezirk Berchtesgaden:  
+    in die Gemeindegrößenklasse über 50 000 bis 100 000 Einwohner die Gemeinden Bayerisch Gmain, Berchtesgaden, Bischofswiesen, Schönau a. Königssee und die früheren Gemeinden Königssee und Salzberg,  
+    in die Gemeindegrößenklasse über 100 000 bis 200 000 Einwohner die Gemeinde Bad Reichenhall;
+  - d) Finanzamtsbezirk Dachau:  
+    in die Gemeindegrößenklasse über 100 000 bis 200 000 Einwohner die Gemeinden Dachau und Karlsfeld;
+  - e) Finanzamtsbezirk Fürstenfeldbruck:  
+    in die Gemeindegrößenklasse über 100 000 bis 50 000 Einwohner die Gemeinden Maisach, Olching, Puchheim und die frühere Gemeinde Esting,  
+    in die Gemeindegrößenklasse über 50 000 bis 100 000 Einwohner die Gemeinden Eichenau, Fürstenfeldbruck und Gröbenzell,  
+    in die Gemeindegrößenklasse über 100 000 bis 200 000 Einwohner die Gemeinde Germering und die frühere Gemeinde Unterpfaffenhofen;
+  - f) Finanzamtsbezirk Garmisch-Partenkirchen:  
+    in die Gemeindegrößenklasse über 100 000 bis 200 000 Einwohner die Gemeinde Mittenwald,  
+    in die Gemeindegrößenklasse über 200 000 bis 500 000 Einwohner die Gemeinde Garmisch-Partenkirchen;
+  - g) Finanzamtsbezirk Immenstadt i. Allgäu:  
+    in die Gemeindegrößenklasse über 200 000 bis 500 000 Einwohner die Gemeinde Oberstdorf;
+  - h) Finanzamtsbezirk Ingolstadt:  
+    in die Gemeindegrößenklasse über 10 000 bis 50 000 Einwohner die Gemeinde Manching und die früheren Gemeinden Friedrichshofen und Mailing,  
+    in die Gemeindegrößenklasse über 50 000 bis 100 000 Einwohner die frühere Gemeinde Oberhaunstadt;
+  - i) Finanzamtsbezirk Miesbach:  
+    in die Gemeindegrößenklasse über 50 000 bis 100 000 Einwohner die Gemeinden Rottach-Egern und Tegernsee,  
+    in die Gemeindegrößenklasse über 100 000 bis 200 000 Einwohner die Gemeinde Bad Wiessee;
+  - k) Finanzamtsbezirk Mindelheim:  
+    in die Gemeindegrößenklasse über 50 000 bis 100 000 Einwohner die Gemeinde Bad Wörishofen;
+  - l) Finanzamtsbezirk München für Grundbesitz und Verkehrsteuern:  
+    in die Gemeindegrößenklasse über 50 000 bis 100 000 Einwohner die Gemeindeteile Höhenkirchen und Wächterhof der Gemeinde Höhenkirchen-Siegertsbrunn und die Gemeinde Unterföhring,  
+    in die Gemeindegrößenklasse über 100 000 bis 200 000 Einwohner die Gemeinden Haar, Neuried, Unterhaching und die frühere Gemeinde Unterbiberg,  
+    in die Gemeindegrößenklasse über 200 000 bis 500 000 Einwohner die Gemeinden Ottobrunn und Planegg,  
+    in die Gemeindegrößenklasse über 500 000 Einwohner die Gemeinden Gräfelfing, Grünwald und Pullach i. Isartal;
+  - m) Finanzamtsbezirk Neu-Ulm:  
+    in die Gemeindegrößenklasse über 5 000 bis 10 000 Einwohner die frühere Gemeinde Ay a. d. Iller,  
+    in die Gemeindegrößenklasse über 50 000 bis 100 000 Einwohner die Gemeinde Neu-Ulm und die frühere Gemeinde Pfuhl;
+  - n) Finanzamtsbezirk Starnberg:  
+    in die Gemeindegrößenklasse über 100 000 bis 200 000 Einwohner die Gemeinden Gauting und Starnberg,  
+    in die Gemeindegrößenklasse über 200 000 bis 500 000 Einwohner die Gemeinde Krailling;
+  - o) Finanzamtsbezirk Wolfratshausen:  
+    in die Gemeindegrößenklasse über 10 000 bis 50 000 Einwohner die Gemeinde Baierbrunn.
+- 2\. **Nordbayern**
+  - a) Finanzamtsbezirk Aschaffenburg:  
+    in die Gemeindegrößenklasse über 2 000 bis 5 000 Einwohner die frühere Gemeinde Grünmorsbach,  
+    in die Gemeindegrößenklasse über 5 000 bis 10 000 Einwohner die Gemeinden Glattbach und Mainaschaff,  
+    in die Gemeindegrößenklasse über 10 000 bis 50 000 Einwohner die Gemeinden Goldbach, Haibach, Kahl a. Main und die früheren Gemeinden Dettingen a. Main und Großwelzheim;
+  - b) Finanzamtsbezirk Bad Kissingen:  
+    in die Gemeindegrößenklasse über 50 000 bis 100 000 Einwohner die Gemeinde Bad Kissingen;
+  - c) Finanzamtsbezirk Erlangen:  
+    in die Gemeindegrößenklasse über 2 000 bis 5 000 Einwohner die frühere Gemeinde Wellerstadt,  
+    in die Gemeindegrößenklasse über 5 000 bis 10 000 Einwohner die Gemeinde Bubenreuth,  
+    in die Gemeindegrößenklasse über 50 000 bis 100 000 Einwohner die Gemeinde Buckenhof;
+  - d) Finanzamtsbezirk Fürth:  
+    in die Gemeindegrößenklasse über 10 000 bis 50 000 Einwohner die Gemeinde Oberasbach und die frühere Gemeinde Stadeln;
+  - e) Finanzamtsbezirk Hersbruck:  
+    in die Gemeindegrößenklasse über 10 000 bis 50 000 Einwohner die Gemeinde Rückersdorf und die früheren Gemeinden Behringersdorf und Heuchling;
+  - f) Finanzamtsbezirk Schwabach:  
+    in die Gemeindegrößenklasse über 5 000 bis 10 000 Einwohner die frühere Gemeinde Katzwang;
+  - g) Finanzamtsbezirk Zentralfinanzamt Nürnberg:  
+    in die Gemeindegrößenklasse über 10 000 bis 50 000 Einwohner die Gemeinde Stein und die frühere Gemeinde Fischbach b. Nürnberg, nördlich der Bahnlinie Nürnberg – Regensburg, – ohne den Gemeindeteil Birnthon,  
+    in die Gemeindegrößenklasse über 200 000 bis 500 000 Einwohner die Gemeinde Schwaig b. Nürnberg und die frühere Gemeinde Fischbach b. Nürnberg, südlich der Bahnlinie Nürnberg – Regensburg.
+
+(2) Absatz 1 ist anzuwenden bei der Ermittlung des Einheitswerts nach den Wertverhältnissen vom 1. Januar 1964.
+
+<!-- norm id="par3" -->
+## § 3
+
+*(aufgehoben)*
+
+<!-- norm id="par4" -->
+## § 4
+
+(1) Diese Verordnung tritt mit Wirkung vom 1. Januar 1991 in Kraft.
+
+(2) *(aufgehoben)*
+
+<!-- norm id="schlussformel" -->
+## Schlussformel
+
+München, den 4. Februar 1992
+
+**Der Bayerische Ministerpräsident**
+
+Dr. h. c. Max Streibl

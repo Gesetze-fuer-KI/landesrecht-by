@@ -1,0 +1,863 @@
+---
+land: BY
+abkuerzung: HG 2022
+titel: Gesetz über die Feststellung des Haushaltsplans des Freistaates Bayern für das Haushaltsjahr 2022
+kurztitel: Haushaltsgesetz 2022
+stand: Fassung gültig ab 01.01.2024
+gilt_ab: '2024-01-01'
+quelle: https://www.gesetze-bayern.de/Content/Document/BayHG2022
+---
+
+# Gesetz über die Feststellung des Haushaltsplans des Freistaates Bayern für das Haushaltsjahr 2022 (HG 2022)
+
+Stand: Fassung gültig ab 01.01.2024
+
+Quelle: <https://www.gesetze-bayern.de/Content/Document/BayHG2022>
+
+Nichtamtliche Fassung des Landesportals.
+
+<!-- norm id="eingangsformel" -->
+## Eingangsformel
+
+Der Landtag des Freistaates Bayern hat das folgende Gesetz beschlossen, das hiermit bekannt gemacht wird:
+
+<!-- norm id="art1" -->
+## Art. 1 Feststellung des Haushaltsplans
+
+Der diesem Gesetz als Anlage beigefügte Haushaltsplan des Freistaates Bayern für das Haushaltsjahr 2022 wird in Einnahmen und Ausgaben auf 71 188 667 600 € festgestellt.
+
+<!-- norm id="art2" -->
+## Art. 2 Kreditermächtigungen
+
+(1) Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, zur Deckung von Ausgaben im Haushaltsjahr 2022 Kredite am Kreditmarkt bis zur Höhe von 0 € aufzunehmen.
+
+(2) ¹Die Kreditermächtigung des Abs. 1 erhöht sich um die Beträge, die bei den Kapiteln 13 06 und 13 60 im betreffenden Haushaltsjahr zur Tilgung von Krediten am Kreditmarkt sowie zur Kursstützung von Staatsanleihen erforderlich sind, sowie um die in den vorausgegangenen Haushaltsjahren nach Art. 8 Abs. 3 des jeweiligen Haushaltsgesetzes oder der ihr vorangegangenen Vorschrift übertragenen und nicht beanspruchten Ermächtigungen für Anschlussfinanzierungen. ²Sie erhöht sich ferner um die Beträge, die zur Umfinanzierung von Krediten auf Grund längerer Laufzeiten oder sonstiger günstigerer Konditionen notwendig werden. ³Das Staatsministerium der Finanzen und für Heimat darf im Rahmen von Kreditfinanzierungen ergänzende Vereinbarungen treffen, die der Steuerung von Zinsänderungsrisiken sowie der Erzielung günstiger Konditionen bei neuen Krediten und bestehenden Schulden dienen.
+
+(3) ¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, ab November eines Haushaltsjahres im Vorgriff auf die Kreditermächtigung des nächsten Haushaltsjahres Kredite bis zur Höhe von 2 % des in Art. 1 für das laufende Jahr festgestellten Betrags aufzunehmen. ²Die nach Satz 1 aufgenommenen Kredite sind auf die Kreditermächtigung des nächsten Haushaltsjahres anzurechnen.
+
+(4) ¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, zur vorübergehenden Verstärkung der Betriebsmittel des Staates Kassenverstärkungskredite bis zur Höhe von 8 % des festgestellten Haushaltsvolumens aufzunehmen. ²Über diesen Betrag hinaus kann das Staatsministerium der Finanzen und für Heimat weitere Kassenverstärkungskredite aufnehmen, soweit es von der Kreditermächtigung nach den Abs. 1 und 2 keinen Gebrauch macht.
+
+<!-- norm id="art2a" -->
+## Art. 2a Kreditermächtigung – Kapitel 13 19 (Sonderfonds Corona-Pandemie)
+
+(1) ¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, zur Deckung von Ausgaben für Kapitel 13 18 (Corona-Investitionsprogramm), Kapitel 13 19 (Sonderfonds Corona-Pandemie) und die Hightech Agenda Plus sowie den in Kapitel 13 19 auszugleichenden Mindereinnahmen im Haushaltsjahr 2022 Kredite am Kreditmarkt bis zur Höhe von 5 806 256 000 € aufzunehmen. ²Die Kreditermächtigung kann übertragen werden, soweit diese Kreditmittel nicht bis zum Ablauf des Haushaltsjahres 2022 aufgenommen wurden und zur Deckung noch benötigt werden.
+
+(2) Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, im Haushaltsjahr 2022 Kredite am Kreditmarkt aufzunehmen, soweit die Kreditermächtigung im vorausgegangenen Haushaltsjahr für Kapitel 13 19 (Sonderfonds Corona-Pandemie) bis zum Ablauf des Haushaltsjahres 2021 nicht in Anspruch genommen wurde und zur Deckung noch benötigt wird.
+
+(3) *(außer Kraft)*
+
+(4) Art. 2 Abs. 2 bis 4 gilt sinngemäß.
+
+<!-- norm id="art3" -->
+## Art. 3 Konjunkturpolitisch bedingte Maßnahmen
+
+(1) Die Staatsregierung kann bei einer allgemeinen Abschwächung der Wirtschaftstätigkeit gemäß § 6 Abs. 2 in Verbindung mit § 14 des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft zusätzliche Ausgaben beschließen, wenn und soweit hierfür zusätzliche Finanzhilfen des Bundes gemäß Art. 104b Abs. 1 Satz 1 Nr. 1 des Grundgesetzes zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts zur Verfügung stehen.
+
+(2) ¹Im Fall einer die volkswirtschaftliche Leistungsfähigkeit übersteigenden Nachfrageausweitung kann die Staatsregierung das Staatsministerium der Finanzen und für Heimat ermächtigen, die Verfügung über bestimmte Ausgabemittel, den Beginn von Baumaßnahmen und das Eingehen von Verpflichtungen zulasten künftiger Haushaltsjahre von seiner Einwilligung abhängig zu machen. ²Das Staatsministerium der Finanzen und für Heimat hat die dadurch nach Ablauf eines Haushaltsjahres frei gewordenen Mittel, soweit sie nicht zur Verminderung des Kreditbedarfs verwendet werden können, einer Ausgleichsrücklage zuzuführen.
+
+<!-- norm id="art4" -->
+## Art. 4 Haushaltswirtschaftliche Sperren
+
+(1) Die Staatsregierung kann das Staatsministerium der Finanzen und für Heimat, unbeschadet seiner Befugnisse gemäß Art. 41 der Bayerischen Haushaltsordnung (BayHO), ermächtigen, im Benehmen mit dem Ausschuss für Staatshaushalt und Finanzfragen des Landtags zur Erwirtschaftung der bei Kap. 13 03 Tit. 972 01 veranschlagten Minderausgabe die Ausgabemittel im erforderlichen Umfang zu kürzen oder zu sperren.
+
+(2) Nach Abs. 1 und Art. 41 BayHO gesperrte Beträge sind in der Haushaltsrechnung als Minderausgabe nachzuweisen.
+
+(3) Daneben sind aus Bundesmitteln finanzierte Ausgaben zu sperren, soweit im Zuge der Aufstellung des Bundeshaushalts absehbar ist, dass gegenüber den im Haushaltsplan veranschlagten Einnahmen geringere Bundesmittel eingehen werden.
+
+<!-- norm id="art5" -->
+## Art. 5 (nicht besetzt)
+
+<!-- norm id="art6" -->
+## Art. 6 Bewirtschaftung der Personalausgaben, Stellenbesetzung
+
+(1) ¹Bei der Bewirtschaftung der Personalausgaben sind die Verwaltungen an die Stellenpläne für planmäßige Beamte und Richter, Beamte und Richter auf Zeit, Beamte und Richter auf Probe (Titel 422 01 bis 422 08 und 422 11 bis 422 15), für Beamte auf Widerruf im Vorbereitungsdienst (Titel 422 21 bis 422 25), für abgeordnete Beamte und Richter (Titel 422 31 bis 422 35) sowie für Arbeitnehmer (Titel 428 01 bis 428 08) gebunden. ²Bei der Bewirtschaftung der Stellenpläne und der Personalausgaben sind neben den folgenden Absätzen die Nrn. 2 und 3 der Durchführungsbestimmungen zum Haushaltsgesetz 2022 (Anlage 2 – DBestHG 2022) verbindlich zu beachten.
+
+(2) ¹Die im Haushaltsplan neu ausgebrachten Stellen für Beamte, Richter und Arbeitnehmer sind gesperrt; die Aufhebung der Sperre richtet sich nach Art. 36 BayHO. ²Frei werdende Stellen für Beamte, Richter und Arbeitnehmer dürfen frühestens nach Ablauf von drei Monaten vom Tag des Freiwerdens an besetzt werden (Wiederbesetzungssperre); dies gilt auch für Stellen in Titelgruppen und für Stellen, die bei den Titeln 428 21 und 428 22 veranschlagt sind. ³Satz 2 gilt nicht bei einer Neueinstellung eines schwerbehinderten Menschen. ⁴Die zuständige oberste Dienstbehörde kann im Einvernehmen mit dem Staatsministerium der Finanzen und für Heimat in besonderen Fällen Ausnahmen von Satz 2 zulassen. ⁵Abweichend von Art. 50 Abs. 1 Satz 2 BayHO können im Haushaltsjahr 2022 kw-Vermerke, die im Rahmen der Neugliederung der Geschäftsbereiche oder der Verwaltungsreform auszubringen sind, mit einer zeitlichen Einschränkung versehen werden.
+
+(3) Bei der Stellenbesetzung ist Folgendes zu beachten:
+
+- 1\. Innerhalb der einzelnen Haushaltskapitel können, soweit und solange dienstliche Bedürfnisse es erfordern, die im Haushaltsplan ausgebrachten Planstellen und Stellen nach folgenden Maßgaben auch anderweitig besetzt werden:
+  - a) ¹Freie und besetzbare Planstellen und andere Stellen können wie folgt besetzt werden:
+    - aa) Stellen für planmäßige Beamte oder Richter (Titel 422 0.)
+      - – durch planmäßige Beamte oder Richter (Titel 422 0.),
+      - – durch Beamte oder Richter auf Zeit, durch Beamte oder Richter auf Probe sowie durch abgeordnete Beamte oder Richter (Titel 422 3.),
+      - – durch Beamte auf Widerruf im Vorbereitungsdienst (Titel 422 21 bis 422 25),
+      - – durch Arbeitnehmer (Titel 428 0., 428 2. und 428 3.) oder
+      - – durch Arbeitnehmer für sonstige Hilfsleistungen und dergleichen (Titel 428 1.);
+    - bb) Stellen für Beamte auf Widerruf im Vorbereitungsdienst (Titel 422 21 bis 422 25)
+      - – durch Beamte auf Widerruf im Vorbereitungsdienst mit gleichem oder niedrigerem Anwärtergrundbetrag (Art. 77 des Bayerischen Besoldungsgesetzes – BayBesG),
+      - – in Kapitel 03 18 durch Polizeioberwachtmeister der Besoldungsgruppe A 5,
+      - – durch dual Studierende in ausbildungsintegrierten dualen Studiengängen, durch Auszubildende oder durch Praktikanten jeweils mit betragsmäßig gleichen oder niedrigeren Bezügen oder
+      - – durch Dienstanfänger;
+    - cc) Stellen für Arbeitnehmer (Titel 428 0.)
+      - – durch Arbeitnehmer (Titel 428 0.),
+      - – durch Arbeitnehmer (Titel 428 2.),
+      - – durch Arbeitnehmer für sonstige Hilfsleistungen und dergleichen (Titel 428 1.),
+      - – durch dual Studierende in ausbildungsintegrierten dualen Studiengängen oder
+      - – durch Auszubildende.
+    ²Die in Satz 1 genannten Stellenbesetzungen dürfen nur mit Beschäftigten gleicher oder niedrigerer Besoldungs- oder Entgeltgruppen vorgenommen werden; bei der Besetzung von Stellen für planmäßige Beamte durch Beamte auf Widerruf im Vorbereitungsdienst (Titel 422 21 bis 422 25) sind für die zu besetzenden Planstellen die Eingangsämter maßgebend, in die die Beamten auf Widerruf im Vorbereitungsdienst nach Abschluss des Vorbereitungsdienstes voraussichtlich eintreten. ³Planstellen mit einer Amtszulage (Art. 34 Abs. 1 BayBesG), mit einer Zulage für besondere Berufsgruppen (Art. 34 Abs. 2 BayBesG) oder mit einer besonderen Zulage für Richter (Art. 56 BayBesG) sowie Planstellen mit einer Kombination der genannten Zulagen gelten als eigene Besoldungsgruppe. ⁴Gleiches gilt für Planstellen mit einer Stellenzulage (Art. 51 BayBesG), soweit der Ausweis der Stellenzulage im Haushaltsplan durch Gesetz oder Rechtsverordnung vorgeschrieben ist. ⁵Planstellen derselben Besoldungsgruppe mit einer Amtszulage oder mit einer Zulage für besondere Berufsgruppen gelten bei der Stellenverrechnung als gleichwertig; dies gilt nicht, wenn Planstellen sowohl mit einer Amtszulage als auch mit einer Zulage für besondere Berufsgruppen ausgebracht sind. ⁶Soweit gemäß Satz 1 Doppelbuchst. aa Planstellen der Titel 422 0. durch Arbeitnehmer (Titel 428 3.) besetzt werden, sind die Ausgaben bei Titel 428 07 nachzuweisen; die Ausgaben können mit Zustimmung des Staatsministeriums der Finanzen und für Heimat auch bei Titel 428 08 nachgewiesen werden.
+  - b) Ein Beamter, der vom Landtag auf Grund der Verfassung oder auf Grund eines Landesgesetzes gewählt wurde, kann nach dem Ende seiner Amtszeit bis zur Einweisung in eine für ihn geeignete Planstelle auf einer Planstelle niedrigerer Wertigkeit, mindestens jedoch der Besoldungsgruppe A 13, verrechnet werden.
+  - c) ¹Auf Stellen für Beamte auf Widerruf im Vorbereitungsdienst und auf Stellen für Polizeivollzugsbeamte in Ausbildung (Titel 422 21 bis 422 25) dürfen mit Zustimmung des Staatsministeriums der Finanzen und für Heimat bis zur Bekanntmachung des nächsten Haushaltsgesetzes Beamte auf Probe oder Beamte auf Lebenszeit im jeweiligen Eingangsamt verrechnet werden. ²Die Zustimmung des Staatsministeriums der Finanzen und für Heimat ist nicht erforderlich, wenn die Verrechnung zwölf Monate nicht überschreitet und die dadurch entstehenden Mehrkosten an geeigneter Stelle bei den Personalausgaben des entsprechenden Einzelplans zusätzlich eingespart werden.
+  - d) ¹Von den Stellenplänen darf vorübergehend nur dann abgewichen werden, wenn Höhergruppierungen von Arbeitnehmern auf Grund für den Freistaat Bayern verbindlicher Tarifverträge durchzuführen sind. ²Nach Möglichkeit sind hierfür jedoch besetzbare freie Stellen zu verwenden. ³In der Aufzeichnung über die Stellenbesetzung ist die höhere Eingruppierung unter Hinweis auf den entsprechenden Tarifvertrag zu vermerken.
+  - e) ¹Von den Stellenplänen darf mit Zustimmung des Staatsministeriums der Finanzen und für Heimat vorübergehend abgewichen werden, wenn Höhergruppierungen von Arbeitnehmern auf Grund einer höchstrichterlichen Entscheidung durchzuführen sind. ²Vorrangig sind hierfür jedoch geeignete besetzbare freie Stellen zu verwenden. ³In der Aufzeichnung über die Stellenbesetzung ist die höhere Eingruppierung unter Hinweis auf die Zustimmung des Staatsministeriums der Finanzen und für Heimat zu vermerken.
+  - f) Im Haushaltsjahr 2022 dürfen Stellen für Auszubildende ausnahmsweise mit dual Studierenden in ausbildungsintegrierten dualen Studiengängen besetzt werden.
+- 2\. Beamte, die eine Zulage für die Wahrnehmung befristeter Funktionen (Art. 53 BayBesG) und deshalb eine Besoldung entsprechend einer höheren Besoldungsgruppe erhalten, sind, soweit im Haushaltsplan nichts anderes bestimmt ist, in eine Planstelle dieser Besoldungsgruppe einzuweisen.
+- 3\. ¹Beamte oder Arbeitnehmer, die auf Grund gesetzlicher oder tariflicher Vorschrift für ihre Person betragsmäßig dauerhaft Besoldung oder Entgelte einer höheren Besoldungs- oder Entgeltgruppe erhalten, sind in die nächste besetzbar werdende Stelle dieser oder einer höheren Besoldungs- oder Entgeltgruppe einzuweisen. ²Für den Ausgleich von Amtszulagen und Zulagen für besondere Berufsgruppen gilt Entsprechendes. ³Satz 1 gilt nicht für Zulagen gemäß Art. 57 BayBesG.
+- 4\. ¹Nr. 3 gilt entsprechend, wenn Arbeitnehmern höherwertige Tätigkeiten übertragen werden sollen und dadurch tarifrechtliche Ansprüche auf Höhergruppierung begründet werden oder bei einer vorübergehenden Übertragung einer höherwertigen Tätigkeit nach § 14 des Tarifvertrags für den öffentlichen Dienst der Länder (TV-L) eine Zulage zu zahlen ist. ²Dies gilt jedoch nicht bei einer vorübergehenden Übertragung einer höherwertigen Tätigkeit nach § 14 TV-L für die Zeit der Vertretung eines erkrankten Bediensteten, für die Zeit der Vertretung einer Bediensteten, die den Beschäftigungsverboten nach den mutterschutzrechtlichen Vorschriften unterliegt, oder für die Zeit der vollumfänglichen Urlaubsvertretung.
+- 5\. Wird einem Beamten, der ein Amt der Besoldungsordnung A (Art. 22 BayBesG) innehat, ein Amt der Besoldungsordnung R (Art. 46 BayBesG) verliehen und erhält dieser Beamte gemäß Art. 21 BayBesG weiterhin das höhere Grundgehalt des Amtes der Besoldungsordnung A, kann von der Anwendung der Nr. 3 abgesehen werden.
+- 6\. Wird einem Bediensteten Elternzeit gewährt, kann zur Überbrückung eines unabweisbaren Aushilfsbedarfs das ganze oder teilweise freie Stellengehalt der betreffenden Stelle für die Beschäftigung von Aushilfskräften verwendet werden.
+- 7\. ¹Wird ein Bediensteter unter Fortfall der Bezüge beurlaubt und auf einer Leerstelle geführt, kann zur Überbrückung eines unabweisbaren Aushilfsbedarfs das ganze oder teilweise freie Stellengehalt der betreffenden Stelle – für die gemäß Abs. 1 Stellenbindung bestehen muss – zur Verstärkung des Titels 428 1. verwendet werden. ²Die Verstärkung kann nur zum Abschluss befristeter Arbeitsverträge verwendet werden. ³Abs. 2 Satz 2 bleibt unberührt.
+- 8\. ¹Wird eine Elternzeit zur Inanspruchnahme der Schutzfristen vor und nach der Entbindung entsprechend der mutterschutzrechtlichen Vorschriften vorzeitig beendet, so ist die Beamtin während der Schutzfristen in eine zur Verrechnung ihrer Bezüge geeignete freie und besetzbare Planstelle ihrer Verwaltung einzuweisen. ²Bis zu einer Einweisung in eine geeignete freie und besetzbare Planstelle ist die Beamtin während der Schutzfristen auf einer freien und besetzbaren Planstelle einer um bis zu vier Besoldungsgruppen niedrigeren Besoldungsgruppe zu führen. ³Ist eine Einweisung im Sinne der Sätze 1 und 2 mangels freier und besetzbarer Planstellen oder auf Grund einer geplanten zwingend notwendigen Inanspruchnahme der Planstellen nicht möglich und wurde die Beamtin während der Elternzeit auf einer Leerstelle geführt, kann die Beamtin vorübergehend, höchstens für die Dauer der Schutzfristen, weiterhin auf der Leerstelle geführt werden. ⁴Die Sätze 1 bis 3 gelten für Arbeitnehmerinnen entsprechend.
+- 9\. Im Übrigen sind Abweichungen bei der Stellenbesetzung nur in besonderen unvorhergesehenen und unabweisbaren Einzelfällen mit Zustimmung des Staatsministeriums der Finanzen und für Heimat kostenneutral möglich.
+
+(4) ¹In den Kapiteln 15 05, 15 28 und 15 49 kann das Staatsministerium für Wissenschaft und Kunst, in den Kapiteln 15 06 bis 15 27, 15 32 bis 15 48, 15 50 sowie 15 59 bis 15 64 können die Hochschulen und das Elitenetzwerk Bayern sowie die Bayerische Akademie der Wissenschaften innerhalb ihres jeweiligen Kapitels die Amtsbezeichnungen, Stellenwertigkeiten und Stellenzahlen der ausgebrachten Stellen für Forschung und Lehre kostenneutral neu festsetzen, soweit die Stellen frei sind oder frei werden und ein unabweisbarer Bedarf für die Neufestsetzung besteht. ²Veränderungen im Bereich der Stellen für die Hochschulverwaltung bedürfen der vorherigen Zustimmung durch das Staatsministerium der Finanzen und für Heimat. ³Im Benehmen mit der jeweiligen Hochschule können Stellen nach Kapitel 15 28 oder 15 49 umgesetzt und vom Staatsministerium für Wissenschaft und Kunst den vorgenannten Kapiteln zur Abdeckung eines unabweisbaren Personalbedarfs zugewiesen werden. ⁴Hierbei können die Amtsbezeichnungen, Stellenwertigkeiten und die Stellenzahlen kostenneutral geändert werden. ⁵Das Staatsministerium für Wissenschaft und Kunst wird ermächtigt, im Rahmen der zur Verfügung stehenden Mittel die Wertigkeiten der in Kapitel 15 06 Titelgruppe 86 ausgebrachten Stellen kostenneutral neu festzusetzen.
+
+(5) ¹Sind im Vollzug von Art. 25 Abs. 1 und 6 des Kommunal-Wahlbeamten-Gesetzes Beamte oder Arbeitnehmer in den Staatsdienst zu übernehmen, so gelten die dafür erforderlichen Stellen zusätzlich in der entsprechenden Wertigkeit für die Dauer von zwei Jahren als im Staatshaushalt bewilligt. ²Nach diesem Zeitraum sind diese Beschäftigten in andere geeignete, freie und besetzbare Stellen einzuweisen. ³Soweit bei der entsprechenden Verwaltung hierfür keine geeigneten Stellen zur Verfügung stehen, gelten Leerstellen der entsprechenden Wertigkeit als bewilligt; Art. 50 Abs. 5 BayHO ist entsprechend anzuwenden.
+
+(6) ¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, aus ausschließlich durch den Freistaat Bayern für bestimmte Zwecke und Programme bereit gestellten Mitteln im Einzelplan 15 Planstellen und Stellen für Arbeitnehmer zu schaffen, jedoch aus den Ausgaben zur Verbesserung der Studienbedingungen bei in Kapitel 15 06 Titelgruppe 96 veranschlagten Mitteln nur bis zu 65 %, dabei zur Schaffung von Planstellen höchstens bis zu 40 %, der veranschlagten Mittel. ²Die Stellen erhalten den Vermerk „kw mit Auslaufen der Finanzierung“.
+
+(7) ¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, aus Zuwendungen Dritter – EU, Bund, Sonstige – einschließlich der Bund-/Länderprogramme zur Förderung der Gleichstellung von Frauen und Männern in Wissenschaft und Forschung an deutschen Hochschulen (Professorinnenprogramm), für bessere Studienbedingungen und mehr Qualität in der Lehre und zur Förderung der Gewinnung und Entwicklung von professoralem Personal an Fachhochschulen sowie der Mittel zur Einrichtung von Projekten in den beiden Förderlinien der Exzellenzstrategie, Planstellen und Stellen für Arbeitnehmer zu schaffen. ²Die Stellen erhalten den Vermerk „kw mit Auslaufen der Finanzierung“. ³Die geschaffenen Stellen dürfen nur so lange in Anspruch genommen werden, als die Personalaufwendungen, im Fall von Planstellen grundsätzlich mit Versorgungszuschlag, von dritter Seite erstattet werden und die Anschlussfinanzierung gesichert ist. ⁴Gesetzliche und arbeitsvertraglich vereinbarte Beihilfeleistungen für Beamte und Arbeitnehmer auf nach Satz 1 aus Zuwendungen Dritter geschaffenen Stellen können abweichend von Satz 3 auch zulasten der Beihilfeansätze bei Kapitel 15 02 Titelgruppe 61 bis 65 gewährt werden, wenn die betreffenden Dienststellen im Gegenzug einen Beitrag in Höhe des Durchschnittsbetrags der jährlichen Beihilfe- und Verwaltungsaufwendungen pro Beihilfeanspruch an den Staatshaushalt abführen; das Staatsministerium der Finanzen und für Heimat teilt den betroffenen Dienststellen die nach den Aufwendungen des Vorjahres zu bestimmenden Beträge mit. ⁵Auf diesen Stellen geführtes Lehrpersonal hat grundsätzlich die volle Lehrverpflichtung zu erbringen.
+
+(8) ¹Zuschläge zur Sicherung der Funktions- und Wettbewerbsfähigkeit gemäß Art. 60 BayBesG sowie Anwärtersonderzuschläge gemäß Art. 78 BayBesG dürfen nur geleistet werden, soweit hierfür im Haushaltsplan Ausgabemittel veranschlagt sind. ²Im Haushaltsjahr 2022 sind für Zuschläge gemäß Art. 60 BayBesG Ausgabemittel für 340 Vergabemöglichkeiten veranschlagt; für die Justizvollzugsanstalten sind Ausgabemittel für Zuschläge gemäß Art. 78 BayBesG veranschlagt. ³Für die Zahlung von Zuschlägen zur Gewinnung von IT-Fachkräften gemäß Art. 60a BayBesG und die Zahlung von Zuschlägen zur Gewinnung von Personal für den öffentlichen Gesundheitsdienst gemäß Art. 60b BayBesG sind Ausgabemittel zu veranschlagen. ⁴Außertarifliche Zulagen zur Gewinnung und Bindung von Fachkräften dürfen nur geleistet werden, soweit im Haushaltsplan geeignete Ausgabemittel oder Stellen zur Verfügung stehen. ⁵Notwendige Abweichungen bei der Stellenbesetzung bedürfen der Zustimmung des Staatsministeriums der Finanzen und für Heimat.
+
+(9) ¹Über Stellen und die entsprechenden Ausgabemittel, die der Stellenplan als „kw gemäß Art. 6 Abs. 9 Haushaltsgesetz 2022“ bezeichnet, darf mit ihrem Freiwerden ab dem 1. August 2024 nicht mehr verfügt werden. ²Satz 1 gilt unabhängig vom Grund des Freiwerdens. ³Art. 47 Abs. 2 BayHO ist nicht anzuwenden. ⁴Soweit eine Ernennung gemäß § 8 Abs. 1 des Beamtenstatusgesetzes (BeamtStG), der ein vor dem 31. Juli 2024 zum Freistaat Bayern begründetes Beamtenverhältnis auf Widerruf im Vorbereitungsdienst unmittelbar vorausgegangen ist, auf Grund des in Satz 1 genannten Zeitpunkts nicht möglich ist, verschiebt sich dieser Zeitpunkt auf den ersten Kalendertag, der nach dem Zeitpunkt des Wirksamwerdens der Ernennung liegt. ⁵Schließt sich unmittelbar nach dem Beamtenverhältnis auf Widerruf im Vorbereitungsdienst ein Arbeitsverhältnis nach den Vorschriften des Tarifvertrags für den öffentlichen Dienst der Länder an oder ist vor der Ernennung ein Arbeitsverhältnis nach den Vorschriften des Tarifvertrags für den öffentlichen Dienst der Länder vorgeschrieben, gilt Satz 4 entsprechend. ⁶Satz 4 gilt nicht für Stellen für Beamte auf Widerruf im Vorbereitungsdienst. ⁷Soweit die mit einem kw-Vermerk gemäß Satz 1 versehenen Stellen mit befristet beschäftigten Arbeitnehmern besetzt wurden, verschiebt sich der in Satz 1 genannte Zeitpunkt auf das Ende des jeweiligen befristeten Arbeitsvertrags, höchstens jedoch um zwölf Monate. ⁸Die Art. 6c und 6f bleiben unberührt.
+
+(10) Das Staatsministerium für Ernährung, Landwirtschaft und Forsten wird ermächtigt, im Einvernehmen mit dem Staatsministerium der Finanzen und für Heimat kostenneutral bis zu 20 Stellen innerhalb des Einzelplans 08 in das Kapitel 08 20 zur Errichtung eines Kompetenzzentrums für Ernährung umzusetzen, das verwaltungsmäßig in die Landesanstalt für Landwirtschaft eingebunden ist.
+
+(11) Art. 68 Abs. 1 Satz 2 und 3 BayBesG ist mit der Maßgabe anzuwenden, dass jeweils an die Stelle des Betrags „12 200 000 €“ der Betrag „8 800 000 €“ und an die Stelle des Prozentsatzes „0,2“ der Prozentsatz „0,14“ tritt.
+
+(12) ¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, im Einvernehmen mit den betroffenen obersten Dienstbehörden, Stellen und die entsprechenden Personalmittel aus den Einzelplänen 02 bis 16 in die für die Einführung und für den Betrieb der elektronischen Akte zuständigen Behörden umzusetzen und die Stellen bei Bedarf kostenneutral umzuwandeln. ²Stellen im Sinne des Satzes 1 sind Stellen, die der Stellenbindung gemäß Abs. 1 Satz 1 unterliegen oder für die der Abschluss unbefristeter Arbeitsverhältnisse zugelassen ist. ³Die Stellen können mit einem Vermerk versehen werden, der eine Rückumsetzung oder kostenneutrale Rückumwandlung oder beides vorsieht. ⁴Sätze 1 bis 3 gelten entsprechend für die Einführung und für den Betrieb eines zentralen Lizenzmanagements.
+
+(13) ¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, im Einvernehmen mit den betroffenen obersten Dienstbehörden, zur Deckung des personellen Bedarfs in der Unterbringungsverwaltung der Regierungen, in den Verwaltungsgerichten und in den sonstigen für Asylbewerber oder für den Vollzug der Regelungen zur Fachkräfteeinwanderung zuständigen staatlichen Behörden Stellen, die der Stellenbindung gemäß Abs. 1 Satz 1 unterliegen, umzusetzen und bei Bedarf kostenneutral umzuwandeln. ²Satz 1 gilt entsprechend für Stellen, die nicht der Stellenbindung gemäß Abs. 1 Satz 1 unterliegen, aber für die im Haushaltsplan der Abschluss unbefristeter Beschäftigungsverhältnisse zugelassen ist. ³Die für die umgesetzten Stellen veranschlagten Haushaltsmittel sind zusammen mit den Stellen umzusetzen. ⁴Die Stellen können mit einem Vermerk versehen werden, der eine Rückumsetzung oder kostenneutrale Rückumwandlung oder beides vorsieht.
+
+(14) ¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, im Einvernehmen mit den betroffenen obersten Dienstbehörden, Stellen und die entsprechenden Personalmittel im Rahmen von Behördenverlagerungen sowie im Rahmen der Einrichtung von Behördensatelliten in besonderen Einzelfällen umzusetzen und die Stellen bei Bedarf kostenneutral umzuwandeln. ²Stellen im Sinne des Satzes 1 sind Stellen, die der Stellenbindung gemäß Abs. 1 Satz 1 unterliegen oder für die der Abschluss unbefristeter Arbeitsverhältnisse zugelassen ist.
+
+(15) Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, im Einvernehmen mit den betroffenen obersten Dienstbehörden, die Stellen und die entsprechenden Personalmittel sowie die Amtsentschädigung und die Mittel, die für die Beauftragten der Bayerischen Staatsregierung und ihre Geschäftsstellen veranschlagt sind, umzusetzen und die Stellen bei Bedarf kostenneutral umzuwandeln.
+
+(16) ¹Das Staatsministerium für Ernährung, Landwirtschaft und Forsten wird ermächtigt, im Einvernehmen mit dem Staatsministerium der Finanzen und für Heimat
+
+- 1\. insgesamt bis zu 50 Stellen des Einzelplans 08 nach Kapitel 08 03, Titelgruppen 65–66 umzusetzen und bei Bedarf kostenneutral umzuwandeln und
+- 2\. insgesamt bis zu 50 Stellen der Bayerischen Staatsgüter (Kapitel 08 03, Titelgruppen 65–66) in das Kapitel 08 20 umzusetzen und bei Bedarf kostenneutral umzuwandeln.
+
+²Stellen im Sinne von Satz 1 Nr. 2 sind neben den im Stellenplan ausgewiesenen Planstellen der Bayerischen Staatsgüter auch die im Wirtschaftsplan vorgesehenen Haushaltsmittel für Arbeitnehmer. ³Die für die umgesetzten Stellen veranschlagten Haushaltsmittel sind zusammen mit den Stellen umzusetzen.
+
+(17) Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, im Einvernehmen mit den betroffenen obersten Dienstbehörden, Stellen, die entsprechenden Personalmittel sowie Mittel für den Aufbau und den Betrieb des Arbeitsmedizinischen Instituts für Schulen nach Kapitel 14 23 umzusetzen und die Stellen bei Bedarf kostenneutral umzuwandeln.
+
+(18) ¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, im Einvernehmen mit den betroffenen obersten Dienstbehörden, Stellen und die entsprechenden Personalmittel zur Deckung des personellen Bedarfs für Maßnahmen der Verwaltungsdigitalisierung umzusetzen und die Stellen bei Bedarf kostenneutral umzuwandeln. ²Stellen im Sinne des Satzes 1 sind Stellen, die der Stellenbindung gemäß Abs. 1 Satz 1 unterliegen oder für die der Abschluss unbefristeter Arbeitsverhältnisse zugelassen ist.
+
+<!-- norm id="art6a" -->
+## Art. 6a Vergleichbare Stellen
+
+(1) Folgende Stellen gelten bei der Anwendung haushaltsrechtlicher Vorschriften als vergleichbar:
+
+| Besoldungsgruppe | Entgeltgruppe |  |
+|---|---|---|
+| A 16 | E 15Ü | – |
+| A 15 | E 15 | – |
+| A 14 | E 14 | S 18 |
+| A 13 | E 13, E 13Ü | – |
+| A 12 | E 12 | S 17 |
+| A 11 | E 11 | S 16, S 15 |
+| A 10 | E 10 | S 14–S 8b |
+| A 9 | E 9 | S 8a, S 7 |
+| A 8 | E 8 | S 4 |
+| A 7 | E 7, E 6 | S 3 |
+| A 6 | E 5, E 4 | – |
+| A 5 | E 3 | S 2 |
+| A 4 | - | – |
+| A 3 | E 2Ü, E 2, E 1 | – |
+
+(2) Abs. 1 hat keine Bedeutung für die Eingruppierung von Arbeitnehmern; hierfür sind ausschließlich die Tätigkeitsmerkmale maßgebend.
+
+<!-- norm id="art6b" -->
+## Art. 6b (nicht besetzt)
+
+<!-- norm id="art6c" -->
+## Art. 6c Beschäftigung schwerbehinderter Menschen
+
+(1) ¹Im Jahr 2022 sind 200 vorhandene freie und frei werdende Stellen gesperrt und der Einstellung zusätzlicher schwerbehinderter Menschen vorbehalten, wobei eine Übererfüllung der Quote des Vorjahres auf die Quote des jeweiligen Haushaltsjahres angerechnet werden kann. ²Die Stellensperre verteilt sich auf die Ressorts im Verhältnis ihres Anteils an den nach dem Teil 3 des Neunten Buches Sozialgesetzbuch (SGB IX) maßgeblichen Arbeitsplätzen des Freistaates Bayern. ³Als Stellen im Sinne des Satzes 1 gelten alle Arbeitsplätze im Sinne des Teils 3 SGB IX.
+
+(2) ¹Können nach Abs. 1 gesperrte Stellen nicht mit neu eingestellten schwerbehinderten Menschen besetzt werden, so werden in entsprechendem Umfang Stellen, für die gemäß Art. 6 Abs. 1 Stellenbindung besteht, nach Kap. 13 03 Tit. 422 05 umgesetzt. ²Sie sind grundsätzlich entsprechend dem Stellenbestand des jeweiligen Ressorts zu verteilen.
+
+(3) Das Staatsministerium der Finanzen und für Heimat kann die Amtsbezeichnungen, Wertigkeiten und Stellenzahlen der Stellen im Kap. 13 03 Tit. 422 05 kostenneutral ändern.
+
+(4) ¹Das Staatsministerium der Finanzen und für Heimat setzt die Stellen im Kap. 13 03 Tit. 422 05 auf Antrag in andere Verwaltungen für die Neueinstellung schwerbehinderter Menschen um. ²Scheidet ein neu eingestellter schwerbehinderter Mensch innerhalb von zehn Jahren nach der Umsetzung aus dem Staatsdienst aus, fällt die umgesetzte Stelle wieder nach Kap. 13 03 Tit. 422 05 zurück, soweit sie nicht innerhalb eines Jahres wieder mit einem neu eingestellten schwerbehinderten Menschen besetzt wird.
+
+<!-- norm id="art6d" -->
+## Art. 6d Ersatzstellen bei Altersteilzeit, begrenzter Dienstfähigkeit und bei Arbeitszeitmodellen
+
+(1) Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, Stellen auszubringen, wenn Beamten die Arbeitszeit wegen begrenzter Dienstfähigkeit (§§ 27 und 29 Abs. 3 BeamtStG) herabgesetzt wird oder Teilzeitbeschäftigung als Altersteilzeit (Art. 91 Abs. 1 bis 3 des Bayerischen Beamtengesetzes – BayBG) bewilligt worden ist und jeweils ein Bedarf besteht, die durch die Herabsetzung der Arbeitszeit oder durch die Gewährung von Altersteilzeitbeschäftigung entstehenden personellen Kapazitätsverluste zu ersetzen (Ersatzstellen).
+
+(2) ¹Als Ausgleich für einen begrenzt dienstfähigen Beamten kann für die Dauer der begrenzten Dienstfähigkeit eine Ersatzstelle in der gleichen Wertigkeit ausgebracht werden. ²Die Ersatzstelle fällt mit dem Ende der begrenzten Dienstfähigkeit weg. ³Die Ausbringung der Ersatzstelle ist auf den dem Gehaltsbruchteil entsprechenden Stellenbruchteil beschränkt, der sich aus der Differenz der Besoldung gemäß Art. 7 BayBesG und der Besoldung gemäß Art. 6 BayBesG ergibt. ⁴Ändert sich der Umfang der begrenzten Dienstfähigkeit, ändert sich der Stellenbruchteil entsprechend. ⁵Wird der Beamte während der begrenzten Dienstfähigkeit befördert, ändert sich die Wertigkeit des Stellenbruchteils entsprechend.
+
+(3) ¹Als Ausgleich für einen Beamten in Altersteilzeit kann in den Fällen des Teilzeitmodells (Art. 91 Abs. 2 Satz 1 Nr. 1 BayBG) mit Beginn der Altersteilzeitbeschäftigung, in den Fällen des Blockmodells (Art. 91 Abs. 2 Satz 1 Nr. 2 BayBG) mit Beginn der Freistellungsphase jeweils bis zum Ende der Altersteilzeitbeschäftigung eine Ersatzstelle in der Wertigkeit des Eingangsamts des Beamten in Altersteilzeit ausgebracht werden. ²Die Ersatzstelle kann auch bis zur Wertigkeit der Planstelle des Beamten in Altersteilzeit ausgebracht werden, wenn die dadurch entstehenden Mehrkosten durch eine entsprechende Stellensperre bei den gemäß Art. 6 Abs. 1 Satz 1 gebundenen Stellen ausgeglichen werden. ³Die Ersatzstelle fällt mit Ablauf der Altersteilzeitbeschäftigung weg. ⁴Die Ausbringung der Ersatzstelle ist im Fall des Blockmodells auf den durchschnittlichen Stellenbruchteil, im Fall des Teilzeitmodells auf 40 % des durchschnittlichen Stellenbruchteils beschränkt. ⁵Der durchschnittliche Stellenbruchteil entspricht dem durchschnittlichen Gehaltsbruchteil der letzten fünf Jahre vor Beginn der Altersteilzeitbeschäftigung.
+
+(4) ¹Der Unterschied zwischen dem durch den Beamten in Altersteilzeit ohnehin belegten Stellenanteil und dem durchschnittlichen Stellenbruchteil im Sinne des Abs. 3 Satz 5 ist bis zum Wegfall der Ersatzstelle gesperrt. ²Im Anschluss daran kann der durchschnittliche Stellenbruchteil nach Ablauf der Wiederbesetzungssperre (Art. 6 Abs. 2) wieder besetzt werden.
+
+(5) Für Lehrer an öffentlichen Schulen ist für jeden Altersteilzeitfall, bei dem eine Ersatzstelle ausgebracht wird, ein Bruchteil von einem Achtzehntel einer Planstelle mindestens in der Wertigkeit des Eingangsamts des Beamten in Altersteilzeit zu sperren, wenn der Beginn der Altersteilzeitbeschäftigung vor dem 1. Januar 2004 lag; begann oder beginnt die Altersteilzeitbeschäftigung nach dem 31. Dezember 2003, beträgt die Sperre ein Zwölftel.
+
+(6) ¹Die Abs. 1 bis 4 gelten für die Altersteilzeit bei Richtern (Art. 10 des Bayerischen Richter- und Staatsanwaltsgesetzes – BayRiStAG) und für die begrenzte Dienstfähigkeit bei Richtern (Art. 66 BayRiStAG) entsprechend. ²Der durchschnittliche Stellenbruchteil im Sinne des Abs. 3 Satz 5 entspricht in den Fällen des Teilzeitmodells (Art. 10 Abs. 2 Nr. 1 BayRiStAG), in den Fällen des Blockmodells (Art. 10 Abs. 2 Nr. 2 BayRiStAG) und in den Fällen des modifizierten Blockmodells (Art. 10 Abs. 3 BayRiStAG) dem durchschnittlichen Gehaltsbruchteil der letzten fünf Jahre vor Beginn der Altersdienstermäßigung, höchstens jedoch dem durchschnittlichen Gehaltsbruchteil der letzten zwei Jahre vor Beginn der Altersdienstermäßigung. ³Die Ausbringung der Ersatzstelle ist in den Fällen des modifizierten Blockmodells zeitlich auf die Freistellungsphase und im Umfang auf den durchschnittlichen Stellenbruchteil beschränkt. ⁴Ist in den Fällen des modifizierten Blockmodells die Differenz aus dem fiktiven Stellenbruchteil, der dem während der Arbeitsphase durchschnittlich geleisteten tatsächlichen Dienst-Anteil entspricht, und dem durchschnittlichen Stellenbruchteil größer als null, ist diese Differenz vorrangig während der Arbeitsphase wertmäßig zu sperren.
+
+(7) ¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, bei Arbeitszeitmodellen mit einer längerfristigen ungleichmäßigen Verteilung der regelmäßigen Arbeitszeit, die zu einer zeitweisen völligen Freistellung von der Arbeitsleistung (Freistellungsphase) führen, für die Dauer der Freistellungsphase eine Ersatzstelle auszubringen. ²Die Ersatzstelle wird in der Wertigkeit des Bediensteten ausgebracht, der das Arbeitszeitmodell in Anspruch nimmt. ³Der Umfang der Ersatzstelle ist auf den Stellenbruchteil begrenzt, der dem während des Arbeitszeitmodells außerhalb der Freistellungsphase durchschnittlich geleisteten tatsächlichen Arbeitszeitanteil entspricht. ⁴Die Ersatzstelle kann nur mit einem bis zur Beendigung der Freistellung zeitlich befristet beschäftigten Bediensteten besetzt werden. ⁵Auf einer für einen Beamten oder Richter ausgebrachten Ersatzstelle kann stattdessen ein Beamter oder Richter in der Wertigkeit des Eingangsamts des Beamten, der das Arbeitszeitmodell in Anspruch nimmt, beschäftigt werden, sofern nach dem Wegfall der Ersatzstelle eine sofortige Übernahme dieses Beamten auf anderweitig frei werdenden, besetzbaren Planstellen gesichert ist. ⁶Die Ersatzstelle kann auch bis zu ihrer ausgebrachten Wertigkeit besetzt werden, wenn der Beschäftigte, der das Arbeitszeitmodell in Anspruch nimmt, unmittelbar im Anschluss an die Freistellungsphase aus dem Staatsdienst ausscheidet und nach dem Wegfall der Ersatzstelle eine sofortige Übernahme des Beschäftigten, der auf der Ersatzstelle verrechnet wird, auf frei werdenden, besetzbaren Stellen gesichert ist; Gleiches gilt auch bei Versetzung oder Eintritt in den Ruhestand. ⁷Zum Ausgleich für die Ersatzstelle ist die Stelle des Bediensteten, der das Arbeitszeitmodell in Anspruch nimmt, während der Gesamtdauer des Arbeitszeitmodells in Höhe des Unterschieds zwischen dem durch den Bediensteten ohnehin belegten Stellenanteil und dem Stellenanteil, der dem außerhalb der Freistellungsphase durchschnittlich geleisteten tatsächlichen Arbeitszeitanteil entspricht, zu sperren.
+
+(8) ¹Über den weiteren Verbleib der nach den Abs. 1 bis 7 ausgebrachten Stellen ist im nächsten Haushaltsplan zu bestimmen. ²Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, in besonderen Fällen Ausnahmen zuzulassen.
+
+(9) Wenn Beamte die Altersteilzeit vor dem 1. Januar 2010 angetreten haben und als Ausgleich Ersatzstellen ausgebracht werden oder wurden, gilt insoweit Art. 6d des Haushaltsgesetzes 2009/2010 in der am 31. Dezember 2009 geltenden Fassung entsprechend.
+
+<!-- norm id="art6e" -->
+## Art. 6e (nicht besetzt)
+
+<!-- norm id="art6f" -->
+## Art. 6f Sperre frei werdender Stellen im Rahmen der Verlängerung der Arbeitszeit der Arbeitnehmer
+
+(1) ¹Im Rahmen der Verlängerung der Arbeitszeit der Arbeitnehmer sind insgesamt 500 frei werdende Stellen für Arbeitnehmer zu sperren (6f-Sperre). ²In die 6f-Sperre können vergleichbare Planstellen einbezogen werden. ³In die 6f-Sperre nicht einbezogen werden Stellen der staatlichen Schulen im Einzelplan 05, der staatlichen Hochschulen, der staatlichen Kliniken und Krankenhäuser, der Theater und Bühnen, der Straßenmeistereien und Autobahnmeistereien sowie Leerstellen, Stellen für abgeordnete Beamte und Ersatzstellen. ⁴In die 6f-Sperre sollen die Stellen für Auszubildende nicht einbezogen werden.
+
+(2) ¹Die 6f-Sperre verteilt sich wie folgt auf die Einzelpläne (Sperrekontingente), wobei bei Stellenumsetzungen zwischen den Einzelplänen entsprechende anteilige Sperrekontingente auf die aufnehmende Verwaltung übergehen können:
+
+| Einzelplan | Sperrekontingente |
+|---|---|
+| 02 | 1 |
+| 03 | 164 |
+| 04 | 80 |
+| 05 | 5 |
+| 06 | 69 |
+| 07 | 2 |
+| 08 | 44 |
+| 09 | 26 |
+| 10 | 19 |
+| 12 | 67 |
+| 15 | 23 |
+| Summe | 500 |
+
+²Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, anhand der derzeitigen Stellenstruktur die Sperrekontingente in monetäre oder vergleichbare Einheiten umzurechnen und entsprechend dieser Einheiten die 6f-Sperre zu vollziehen. ³Die 6f-Sperre sowie die Sperrekontingente können daher von den in Abs. 1 und Satz 1 genannten absoluten Zahlen abweichen.
+
+(3) Die nach den Abs. 1 und 2 gesperrten Stellen sind in den nachfolgenden Haushaltsplänen einzuziehen.
+
+(4) Art. 6c bleibt unberührt.
+
+<!-- norm id="art6g" -->
+## Art. 6g Besetzung von Stellen für Arbeitnehmer
+
+(1) Abweichungen bei der Stellenbesetzung, die durch die Entgeltordnung (Anlage A TV-L in der ab 1. Januar 2012 geltenden Fassung) oder durch die Stellenplanüberleitung gemäß Art. 6 Abs. 10 des Haushaltsgesetzes 2007/2008 bedingt sind, sind mit Zustimmung des Staatsministeriums der Finanzen und für Heimat möglich.
+
+(2) ¹Wären Stellen auf Grund der Entgeltordnung (Anlage A TV-L in der ab 1. Januar 2012 geltenden Fassung) abzusenken gewesen oder sind Stellen auf Grund dieser neuen Entgeltordnung abzusenken, dürfen diese bei einer Neubesetzung nur in der entsprechenden niederwertigen Entgeltgruppe besetzt werden. ²Ausnahmen in besonderen Fällen bedürfen der Zustimmung des Staatsministeriums der Finanzen und für Heimat; sie sollen kostenneutral erfolgen. ³Die Stellen sollen im nächsten Haushaltsplan abgesenkt werden. ⁴Die Sätze 1 bis 3 gelten nicht, soweit im Haushaltsplan für diese Arbeitnehmer Umwandlungsvermerke (Art. 21 Abs. 2 BayHO) ausgebracht wurden.
+
+(3) ¹Die Abs. 1 und 2 gelten nur für Stellen, die gemäß Art. 6 Abs. 1 Satz 1 der Stellenbindung unterliegen oder für verbindlich erklärt wurden. ²Art. 6 Abs. 1 und 3 bleibt unberührt.
+
+<!-- norm id="art6h" -->
+## Art. 6h (nicht besetzt)
+
+<!-- norm id="art6i" -->
+## Art. 6i (nicht besetzt)
+
+<!-- norm id="art6j" -->
+## Art. 6j Stellenansparung – Lernzeitverlängerung am Gymnasium
+
+¹In den Jahren 2019 bis 2025 sind die am Gymnasium im Kapitel 05 19 in der Aufwuchsphase des neuen neunjährigen Gymnasiums im jeweiligen Schuljahr nicht benötigten Stellen längstens bis zum 31. Juli 2025 gesperrt. ²Die zahlenmäßige Festlegung des Gesamtumfangs der zum 1. August des jeweiligen Jahres nicht benötigten Stellen erfolgt in Abstimmung zwischen dem Staatsministerium für Unterricht und Kultus und dem Staatsministerium der Finanzen und für Heimat.
+
+<!-- norm id="art6k" -->
+## Art. 6k (nicht besetzt)
+
+<!-- norm id="art6l" -->
+## Art. 6l Personalübergang auf eine Infrastrukturgesellschaft für Autobahnen und andere Bundesstraßen
+
+¹Kehrt ein im Vollzug des Fernstraßen-Überleitungsgesetzes versetzter oder übergegangener Beschäftigter, dem ein Rückkehrrecht eingeräumt worden ist, in den Staatsdienst zurück, ist der Beschäftigte in eine zur Verrechnung seiner Bezüge geeignete freie besetzbare Stelle einzuweisen. ²Sofern eine solche besetzbare Stelle nicht zur Verfügung steht, ist bis zu deren Freiwerden Art. 50 Abs. 5 Satz 2 bis 6 BayHO entsprechend anzuwenden; soweit der Beschäftigte auf einer Leerstelle geführt werden kann, gilt die Leerstelle in der entsprechenden Wertigkeit als ausgebracht.
+
+<!-- norm id="art7" -->
+## Art. 7 Übertragung von Ausgaben
+
+(1) Ausgabereste und Haushaltsvorgriffe können mit Einwilligung des Staatsministeriums der Finanzen und für Heimat auf für gleiche Zwecke, aber mit anderer Bezeichnung und Titelnummer, im Haushaltsplan vorgesehene Titel übertragen werden.
+
+(2) Das Staatsministerium der Finanzen und für Heimat kann unbeschadet der Regelung in Art. 45 Abs. 3 BayHO unverbrauchte Mittel aus übertragbaren Ausgabebewilligungen des Haushaltsplans 2022 einziehen, soweit dies zur Vermeidung oder Verminderung eines Fehlbetrags erforderlich ist.
+
+(3) Abs. 2 gilt nicht für übertragbare Ausgabebewilligungen, soweit bei diesen Ansätzen zweckgebundene Einnahmen (Art. 8 Satz 2 Nr. 1 BayHO) ihrem Verwendungszweck noch nicht zugeführt wurden.
+
+<!-- norm id="art8" -->
+## Art. 8 Sonstige Ermächtigungen und Regelungen
+
+(1) Folgende Regelungen und Ermächtigungen gelten weiter:
+
+- 1\. Art. 4 Abs. 4 des Haushaltsgesetzes 1971/1972,
+- 2\. Art. 8 Abs. 4 des Haushaltsgesetzes 1979/1980,
+- 3\. Art. 8 Abs. 3 des Haushaltsgesetzes 1993/1994,
+- 4\. Art. 8 Abs. 12 des Haushaltsgesetzes 2011/2012,
+- 5\. Art. 8 Abs. 6 und 12 des Haushaltsgesetzes 2015/2016,
+- 6\. Art. 8 Abs. 6 bis 8, 13, 16, 19 und 20 des Haushaltsgesetzes 2017/2018,
+- 7\. Art. 8 Abs. 5, 6, 9, 11, 13 bis 16 und 20 des Haushaltsgesetzes 2019/2020 und
+- 8\. Art. 8 Abs. 6 bis 12 und 14 des Haushaltsgesetzes 2021.
+
+(2) ¹Das Staatsministerium für Wohnen, Bau und Verkehr wird ermächtigt, für Vorhaben zur Durchführung von Energieeinsparmaßnahmen in bestehenden staatlichen Gebäuden dem Abschluss von Energiespar-Contracting-Verträgen mit einem Gesamtvolumen von bis zu 10 000 000 € jährlich zuzustimmen, wenn sämtliche entstehenden Kosten, einschließlich Zins- und Tilgungsaufwand, innerhalb einer Vertragslaufzeit von höchstens zwölf Jahren aus den erwarteten Energieeinsparungen getragen werden können und die Wirtschaftlichkeit gewährleistet ist. ²Dabei kann eine einwendungs- und einredefreie Forfaitierung der Grundvergütung bis zu einem Anteil von höchstens 70 % zugelassen werden. ³Ist der Anteil der laufenden Zahlungsverpflichtungen, der auf die getätigten Investitionen des Contractors in technische Geräte, Anlagen und Sachen entfällt, geringer, gilt der niedrigere Prozentwert.
+
+(2a) ¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, zum Bezug von Nutzenergie für staatliche Gebäude im Weg von Energieliefer-Contracting dem Abschluss von Verträgen des Freistaates Bayern zuzustimmen, die eine einwendungs- und einredefreie Forfaitierung von bis zu 100 % des die Investitionen abbildenden Grundpreises der vertragsgegenständlichen Energielieferung vorsehen, wenn der Freistaat Bayern unbelastetes Eigentum an sämtlichen Sachen erhält, die der Contractor zur Erfüllung seiner Verpflichtungen aus dem Energieliefer-Contracting-Vertrag einbringt oder mit einem Grundstück des Freistaates Bayern verbindet. ²Soweit die Summe der Raten des die Investitionskosten abbildenden Grundpreises im Einzelfall 1 000 000 € bezogen auf die Vertragslaufzeit nicht überschreitet, gilt die Ermächtigung nach Satz 1 bis zu einem Gesamtvolumen von 10 000 000 €; das Gesamtvolumen bemisst sich nach der Jahressumme des die Investitionskosten abbildenden Grundpreises aus den Energieliefer-Contracting-Verträgen.
+
+(3) ¹Die Bestände der Rücklagen und Sondervermögen können bis zu ihrer Inanspruchnahme im Rahmen der Liquiditätssteuerung des Gesamthaushalts eingesetzt werden. ²Soweit dadurch oder aus sonstigen liquiditätsmäßigen Gründen die bestehende Kreditermächtigung für die Anschlussfinanzierung auslaufender Altschulden noch nicht beansprucht werden muss, kann sie in die folgenden Haushaltsjahre übertragen werden.
+
+(4) Nach Art. 63 Abs. 5 BayHO in Verbindung mit Art. 63 Abs. 3 Satz 2 BayHO wird zugelassen, dass Betreibern von Kinderbetreuungseinrichtungen Räumlichkeiten in staatseigenen Liegenschaften gegen einen verbilligten Mietzins oder unter vollständigem Verzicht auf einen Mietzins überlassen werden, wenn
+
+- 1\. der Elternbeitrag für den Besuch den in der jeweiligen kommunalen Beitragssatzung festgelegten Besuchsbeitrag, hilfsweise den durchschnittlichen Besuchsbeitrag freigemeinnütziger Träger in der Gemeinde, nicht überschreitet und
+- 2\. in der Kindertageseinrichtung Betreuungsplätze für Kinder von staatlichen Bediensteten bereitgehalten werden.
+
+(5) ¹Das Staatsministerium für Wohnen, Bau und Verkehr wird ermächtigt, der Stadibau – Gesellschaft für den Staatsbedienstetenwohnungsbau in Bayern mit beschränkter Haftung an den staatseigenen Grundstücken Flurstück-Nr. 554/5 der Gemarkung Dachau mit 3840 m², Flurstück-Nrn. 12844/7, 12844/23 und 12844/24 jeweils der Gemarkung München, Sektion 7, mit insgesamt 3781 m² und Flurstück-Nrn. 5637 und 5638 jeweils der Gemarkung München, Sektion 3, mit insgesamt 765 m² jeweils ein auf die Dauer von 60 Jahren befristetes, unentgeltliches Erbbaurecht für Zwecke des Staatsbedienstetenwohnungsbaus einzuräumen. ²Auf die Zahlung von Ablösesummen hinsichtlich etwaiger Gebäuderestwerte auf diesen Grundstücken kann verzichtet werden.
+
+(6) ¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, der Stadibau – Gesellschaft für den Staatsbedienstetenwohnungsbau in Bayern mit beschränkter Haftung an einer noch zu vermessenden Teilfläche von etwa 2400 m² des staatseigenen Grundstücks mit der Flurstück-Nr. 9/9 der Gemarkung Oberschleißheim ein auf die Dauer von 60 Jahren befristetes, unentgeltliches Erbbaurecht für Zwecke des Staatsbedienstetenwohnungsbaus einzuräumen. ²Ferner wird das Staatsministerium der Finanzen und für Heimat ermächtigt, zugunsten der Erbbaurechtsnehmerin die für die Zeit des Erbbaurechts zur Nutzung des Erbbaugrundstücks notwendigen Grunddienstbarkeiten und Geh- und Fahrtrechte unentgeltlich zu bestellen und die Mitnutzung staatseigener Grundstücke für die Dauer der Bauzeit insoweit unentgeltlich zu gestatten, als dies zur Durchführung der Bauarbeiten erforderlich ist.
+
+(7) ¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, eine Ausfallbürgschaft in Höhe von 80 % zu Gunsten der Flughafen München Gesellschaft mit beschränkter Haftung zur Absicherung von Bankkrediten der Flughafen München GmbH von bis zu 300 000 000 € auf die Dauer von bis zu sechs Jahren zu übernehmen. ²Die Ermächtigung steht unter dem Vorbehalt, dass die Bundesrepublik Deutschland und die Landeshauptstadt München zum gleichen Zeitpunkt Bürgschaften zu Gunsten der Flughafen München GmbH in dem ihrem Beteiligungsverhältnis entsprechenden Volumen und zu gleichen Bedingungen übernehmen.
+
+(8) Das Staatsministerium für Wohnen, Bau und Verkehr wird ermächtigt, im Einvernehmen mit dem Staatsministerium der Finanzen und für Heimat Bürgschaften, Garantien und sonstige Gewährleistungen zulasten des Freistaates Bayern für die Absicherung von Darlehen einschließlich der dazugehörigen Zinsen an Eigentümer und Erbbauberechtigte entsprechend der Richtlinie für das Darlehensprogramm zur Schaffung von energieeffizientem Mietwohnraum gegenüber der Bayerischen Landesbodenkreditanstalt (BayernLabo) bis zur Höhe von insgesamt 400 000 000 € zu übernehmen.
+
+(9) ¹Das Staatsministerium für Wohnen, Bau und Verkehr wird ermächtigt, die Abgabe von einer oder mehreren Garantien im Rahmen der Ausschreibungen von Verkehrsleistungen im Schienenpersonennahverkehr für das Projekt „1. Münchner S-Bahn-Vertrag“ bis zu einem Betrag von 4 100 000 000 € anzubieten, mit denen es für die ordnungsgemäße Erfüllung der je nach Art der Finanzierung bestehenden Zahlungspflichten im Zusammenhang mit der Finanzierung der Schienenfahrzeuge gegenüber einem oder mehreren Finanziers einsteht (Kapitaldienstgarantie). ²Die Laufzeit jeder dieser Garantien darf höchstens 30 Jahre betragen. ³Damit verbunden ist die Verpflichtung, den Wiedereinsatz der Schienenfahrzeuge während der Amortisationszeit von 30 Jahren zu garantieren (Wiedereinsatzgarantie). ⁴Das Staatsministerium für Wohnen, Bau und Verkehr wird ferner ermächtigt, jede der Garantien auch auf den Zeitraum ab dem Abschluss der Finanzierungsverträge (Bauzeitphase) zu erstrecken, um damit ohne Unterbrechung auch während dieses Zeitraums jeweils für die ordnungsgemäße Erfüllung der je nach Art der Finanzierung bestehenden Zahlungspflichten sowohl in Bezug auf die Finanzierung der Bauzeitphase als auch in Bezug auf die Finanzierung der Betriebsphase gegenüber einem oder mehreren Finanziers einzustehen. ⁵Diese zeitliche Ausweitung der Garantien darf zusätzlich zu der in Satz 2 genannten maximalen Laufzeit jeder Garantie bis zu zwölf weitere Jahre umfassen. ⁶Der in Satz 1 genannte Höchstbetrag der Garantien insgesamt bleibt hiervon unberührt.
+
+(10) ¹Das Staatsministerium für Wohnen, Bau und Verkehr wird ermächtigt, die Abgabe von Garantien im Rahmen der Ausschreibung von Verkehrsleistungen im Schienenpersonennahverkehr für das Projekt „Werdenfels 2026+“ bis zu einem Betrag von insgesamt 450 000 000 € und für das Projekt „Expressverkehr Ostbayern“ bis zu einem Betrag von insgesamt 340 000 000 € anzubieten, mit denen es umfassend für die ordnungsgemäße Erfüllung der Verbindlichkeiten im Zusammenhang mit der Finanzierung der Schienenfahrzeuge gegenüber Dritten einsteht. ²Die Laufzeit der Garantien darf jeweils maximal 28 Jahre betragen; sie kann bei Bedarf bis zum Ende des bei Ablauf der Laufzeit laufenden Rechnungsjahres verlängert werden. ³Damit verbunden ist die Verpflichtung, den Wiedereinsatz der Schienenfahrzeuge während der Amortisationszeit sicherzustellen (Wiedereinsatzgarantie).
+
+(11) ¹Bei Ausgabeansätzen, die mit Einnahmen aus Mitteln des Bundes oder der Europäischen Union gekoppelt sind, ist abweichend von Art. 34 Abs. 1 und Art. 37 Abs. 1 BayHO eine Vorfinanzierung zulässig, soweit die bewirtschaftende Dienststelle sicherstellt, dass die vorfinanzierten Drittmittel noch im selben Haushaltsjahr vereinnahmt werden. ²Die Vorfinanzierung sollte die Dauer von einem Monat nicht überschreiten.
+
+(12) Nach Art. 63 Abs. 5 BayHO in Verbindung mit Art. 63 Abs. 3 Satz 2 BayHO wird zugelassen, Gemeinden und Gemeindeverbänden die Anbringung und den Betrieb von Sirenenanlagen zur Warnung der Bevölkerung auf staatlichen Liegenschaften unentgeltlich zu gestatten, sofern nicht genügend geeignete gemeindeeigene Standorte für die Anbringung einer Sirene vorhanden sind.
+
+(13) Das Staatsministerium für Wohnen, Bau und Verkehr wird ermächtigt, den Reitvereinen Reiterfreunde Landshut e.V. und Reit- und Fahrverein Landshut e.V. ein Erbbaurecht an einem Teilgrundstück der Flurstück-Nr. 791 der Gemarkung Landshut von etwa 1860 m² zur teilweisen oder vollständigen Neuerrichtung einer Reithalle durch die Erbbaurechtsnehmer einzuräumen und für die Laufzeit des Erbbaurechts von 27 Jahren auf die Erhebung des Erbbauzinses zu verzichten.
+
+(14) Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, gegenüber der LfA Förderbank Bayern im Jahr 2022 eine globale Rückbürgschaft in Höhe des im Jahr 2021 nicht ausgeschöpften Ermächtigungsrahmens gemäß Art. 8 Abs. 13 des Haushaltsgesetzes 2021 (HG 2021) vom 9. April 2021 (GVBl. S. 150, BayRS 630-2-23-F) für Bürgschaften oder Haftungsfreistellungen der LfA Förderbank Bayern zu Gunsten kleiner und mittelständischer Unternehmen in Bayern zu übernehmen, die angesichts des Coronavirus oder infolge des Kriegs in der Ukraine vorübergehend in finanzielle Schwierigkeiten geraten sind.
+
+(15) Die Staatsregierung wird ermächtigt, Bürgschaften, Garantien und sonstige Gewährleistungen zulasten des Freistaates Bayern für die Absicherung von Darlehen einschließlich der dazugehörigen Zinsen an Eigentümer und Erbbauberechtigte gegenüber der Bayerischen Landesbodenkreditanstalt zur energetischen Sanierung und dauerhaften Erhaltung von bestehenden Staatsbedienstetenwohnungen bis zur Höhe von insgesamt 100 000 000 € zu übernehmen.
+
+(16) ¹Das Staatsministerium für Wirtschaft, Landesentwicklung und Energie wird ermächtigt, der Forschungszentrum Jülich Gesellschaft mit beschränkter Haftung an dem staatseigenen Grundstück Flurstück-Nr. 1946/745 der Gemarkung Erlangen mit 3132 m² ein auf die Dauer von bis zu 60 Jahren befristetes, unentgeltliches Erbbaurecht einzuräumen. ²Die Ermächtigung beinhaltet die unentgeltliche Übertragung des vom bisherigen Erbbaurechtsnehmer Bayerisches Zentrum für Angewandte Energieforschung e.V. erstellten Gebäudes unter der Maßgabe, dass bei Ablauf oder Heimfall des Erbbaurechts eine Gebäudewertentschädigung entfällt.
+
+<!-- norm id="art9" -->
+## Art. 9 Änderung des Bayerischen Besoldungsgesetzes
+
+Anlage 1 des Bayerischen Besoldungsgesetzes (BayBesG) vom 5. August 2010 (GVBl. S. 410, 764, BayRS 2032-1-1-F), das zuletzt durch die §§ 3, 4 und 5 des Gesetzes vom 23. Dezember 2021 (GVBl. S. 663) geändert worden ist, wird wie folgt geändert:
+
+- 1\. Der Besoldungsgruppe B 2 wird die Zeile „Vizepräsident, Vizepräsidentin der Landesbaudirektion Bayern“ angefügt.
+- 2\. In der Besoldungsgruppe B 3 wird die Zeile „Präsident, Präsidentin der Landesbaudirektion Bayern“ gestrichen.
+- 3\. In der Besoldungsgruppe B 4 wird nach der Zeile „Polizeipräsident, Polizeipräsidentin^(3))“ die Zeile „Präsident, Präsidentin der Landesbaudirektion Bayern“ eingefügt.
+
+<!-- norm id="art10" -->
+## Art. 10 Änderung des BayernFonds- und Finanzagentur-Gesetzes
+
+Das BayernFonds- und Finanzagentur-Gesetz (BayFoG) vom 27. April 2020 (GVBl. S. 230, BayRS 670-1-F) wird wie folgt geändert:
+
+- 1\. In Art. 7 Abs. 1 Satz 1 wird die Angabe „26“ durch die Angabe „6,5“ und die Angabe „31. Dezember 2021“ durch die Angabe „30. Juni 2022“ ersetzt.
+- 2\. In Art. 9 Abs. 1 wird die Angabe „20“ durch die Angabe „10“ ersetzt.
+- 3\. Art. 11 wird wie folgt geändert:
+  - a) Abs. 1 wird wie folgt geändert:
+    - aa) In Satz 1 wird die Angabe „31. Dezember 2021“ durch die Angabe „30. Juni 2022“ ersetzt.
+    - bb) Nach Satz 1 wird folgender Satz 2 eingefügt:  
+      ²Anträge auf Stabilisierungsmaßnahmen nach Art. 7 und 8 können bis zum 30. April 2022 gestellt werden.
+    - cc) Die bisherigen Sätze 2 bis 4 werden die Sätze 3 bis 5.
+  - b) In Abs. 2 wird die Angabe „31. Dezember 2021“ durch die Angabe „30. Juni 2022“ ersetzt.
+
+<!-- norm id="art11" -->
+## Art. 11 Änderung des Bayerischen Jagdgesetzes
+
+Das Bayerische Jagdgesetz (BayJG) in der in der Bayerischen Rechtssammlung (BayRS 792-1-L) veröffentlichten bereinigten Fassung, das zuletzt durch § 1 Abs. 345 der Verordnung vom 26. März 2019 (GVBl. S. 98) geändert worden ist, wird wie folgt geändert:
+
+- 1\. Art. 33 wird wie folgt geändert:
+  - a) Abs. 3 wird wie folgt geändert:
+    - aa) In Nr. 4 wird der Punkt am Ende durch ein Komma ersetzt.
+    - bb) Folgende Nr. 5 wird angefügt:  
+      - 5\. abweichend von § 22 Abs. 4 Satz 4 des Bundesjagdgesetzes unter Beachtung der in Art. 9 Abs. 2 der Richtlinie 2009/147/EG genannten Maßgaben das Ausnehmen oder Unfruchtbarmachen der Gelege von Federwild aus den in Art. 9 Abs. 1 der Richtlinie 2009/147/EG genannten Gründen zu gestatten, sofern es keine andere zufriedenstellende Lösung gibt.
+  - b) In Abs. 5 Nr. 2 werden die Wörter „Absatz 3 Nr. 1 und 2“ durch die Angabe „Abs. 3 Nr. 1, 2 und 5“ ersetzt.
+- 2\. Art. 37 wird wie folgt geändert:
+  - a) In Abs. 4 Satz 1 werden die Wörter „Absätze 1 und 3“ durch die Angabe „Abs. 1, 3 und 6“ ersetzt.
+  - b) Folgender Abs. 6 wird angefügt:  
+    (6) ¹Das Staatsministerium für Ernährung, Landwirtschaft und Forsten wird ermächtigt, durch Rechtsverordnung abweichend von den Abs. 1, 2 und 3 Vorschriften zur Wildfolge durch anerkannte Nachsuchengespanne zu erlassen. ²Es kann insbesondere die Anforderungen, die Anerkennung und die Befugnisse von Nachsuchengespannen einschließlich des Führens von und des Schießens mit Schusswaffen regeln.
+- 3\. Art. 52 Abs. 2 wird wie folgt geändert:
+  - a) Die Nrn. 2 bis 4 werden die Nrn. 1 bis 3.
+  - b) Nach Nr. 3 wird folgende Nr. 4 eingefügt:  
+    - 4\. die Anerkennung von Nachsuchengespannen nach Art. 37 Abs. 6,  
+    .
+
+<!-- norm id="art12" -->
+## Art. 12 Durchführungsbestimmungen
+
+Für die Ausführung des Haushaltsplans und die Aufstellung der Haushaltsrechnung gelten neben den allgemeinen haushaltsrechtlichen Vorschriften die weiteren haushaltsgesetzlichen Regelungen in den Durchführungsbestimmungen zu diesem Gesetz.
+
+<!-- norm id="art13" -->
+## Art. 13 Inkrafttreten, Außerkrafttreten
+
+(1) ¹Dieses Gesetz tritt mit Wirkung vom 1. Januar 2022 in Kraft. ²Abweichend von Satz 1 tritt Art. 11 am 1. Mai 2022 in Kraft.
+
+(2) Die Bestimmungen dieses Gesetzes gelten bis zum Tag der Bekanntmachung des Haushaltsgesetzes des folgenden Haushaltsjahres weiter.
+
+(3) Art. 2a Abs. 3 tritt mit Ablauf des 31. Dezember 2023 außer Kraft.
+
+<!-- norm id="schlussformel" -->
+## Schlussformel
+
+München, den 22. April 2022
+
+**Der Bayerische Ministerpräsident**
+
+Dr. Markus Söder
+
+<!-- norm id="anlage1" -->
+## Anlage 1 Haushaltsplan des Freistaates Bayern für das Haushaltsjahr 2022
+
+**Gesamtplan**
+
+|  |  |
+|---|---|
+| Teil I: | Haushaltsübersicht<br>einschließlich Übersicht über die Verpflichtungsermächtigungen |
+| Teil II: | Finanzierungsübersicht |
+| Teil III: | Kreditfinanzierungsplan |
+
+**Teil I: Haushaltsübersicht 2022**
+
+| **Ausgaben** |  |  | **+Überschuss /–Zuschuss** |  |  |  |
+|---|---|---|---|---|---|---|
+| Betrag für 2022 | Betrag für 2021 | gegenüber 2021<br>mehr (+)<br>weniger (–) | Betrag für 2022 | Betrag für 2021 | Verpflichtungsermächtigungen2022 | Einzelplan |
+| Tsd. € | Tsd. € | Tsd. € | Tsd. € | Tsd. € | Tsd. € |  |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 174.895,1 | 169.814,1 | +5.081,0 | –174.123,1 | –169.042,1 | 10.050,0 | 01 |
+| 141.813,8 | 131.742,1 | +10.071,7 | –141.318,3 | –131.246,6 | 11.276,0 | 02 |
+| 6.872.050,9 | 6.570.510,8 | +301.540,1 | –6.250.773,4 | –5.919.438,0 | 893.890,4 | 03 |
+| 2.829.231,5 | 2.744.129,8 | +85.101,7 | –1.584.095,0 | –1.575.592,3 | 297.867,8 | 04 |
+| 14.442.444,1 | 14.176.325,7 | +266.118,4 | –14.317.684,5 | –14.082.362,8 | 614.703,0 | 05 |
+| 3.078.875,8 | 3.032.230,3 | +46.645,5 | –2.588.153,3 | –2.554.146,8 | 1.044.351,3 | 06 |
+| 1.787.767,6 | 1.606.717,2 | +181.050,4 | –1.459.167,2 | –1.398.446,9 | 1.380.392,0 | 07 |
+| 1.802.348,2 | 1.688.207,4 | +114.140,8 | –1.319.766,1 | –1.266.630,3 | 400.836,3 | 08 |
+| 4.697.956,7 | 4.448.373,5 | +249.583,2 | –2.255.087,5 | –2.251.592,2 | 4.676.961,5 | 09 |
+| 7.355.857,0 | 7.036.254,4 | +319.602,6 | –5.082.117,4 | –5.012.642,6 | 278.182,6 | 10 |
+| 41.441,9 | 40.626,6 | +815,3 | –41.427,3 | –40.612,0 | – | 11 |
+| 1.156.665,2 | 1.119.532,0 | +37.133,2 | –1.040.105,3 | –1.006.266,1 | 248.142,2 | 12 |
+| 17.364.938,9 | 19.383.550,6 | –2.018.611,7 | +43.718.228,6 | +42.632.821,3 | 2.428.034,2 | 13 |
+| 890.400,9 | 836.701,3 | +53.699,6 | –874.944,0 | –822.288,8 | 183.165,1 | 14 |
+| 8.433.290,2 | 8.264.804,8 | +168.485,4 | –6.474.465,4 | –6.300.952,8 | 1.191.757,4 | 15 |
+| 118.689,8 | 103.835,2 | +14.854,6 | –115.000,8 | –101.561,0 | 36.218,0 | 16 |
+| 71.188.667,6 | 71.353.355,8 | –164.688,2 | – | – | 13.695.827,8 |  |
+
+**Teil II: Finanzierungsübersicht für das Haushaltsjahr 2022**
+
+|  |  |  | Betrag für 2022 | Betrag für 2021 |  |
+|---|---|---|---|---|---|
+|  |  |  | Tsd. € | Tsd. € |  |
+| **A. Ermittlung des Finanzierungssaldos** |  |  |  |  |  |
+| 1. | Einnahmen<br>(ohne Einnahmen aus Krediten vom Kreditmarkt, Entnahmen aus Rücklagen, Einnahmen aus Überschüssen) |  | 62.499.623,5 | 57.600.091,6 |  |
+| 2. | Ausgaben<br>(ohne Ausgaben zur Schuldentilgung am Kreditmarkt, Zuführungen an Rücklagen und Ausgaben zur Deckung eines Fehlbetrags) |  | 71.057.167,6 | 71.222.355,8 |  |
+| 3. | Finanzierungssaldo (Nr. 1 abzüglich Nr. 2) |  | –8.557.544,1 | –13.622.264,2 |  |
+| **B. Deckung des Finanzierungssaldos** |  |  |  |  |  |
+| **1.** |  | **Netto-Neuverschuldung am Kreditmarkt** |  |  |  |
+| 1.1 |  | Einnahmen aus Krediten vom Kreditmarkt |  |  |  |
+| 1.1.1 |  | im allgemeinen Haushalt | 666.000,0 | 1.085.000,0 |  |
+| 1.1.2 |  | im Stabilisierungsfonds Finanzmarkt und BayernLB | 571.000,0 | 230.000,0 |  |
+| 1.1.3 |  | im Sonderfonds Corona-Pandemie | 5.806.256,0 | 11.635.359,0 |  |
+| 1.2 |  | Ausgaben zur Schuldentilgung für Kreditmarktmittel<br>(einschließlich Marktpflege) |  |  |  |
+| 1.2.1 |  | im allgemeinen Haushalt | 666.000,0 | 1.085.000,0 |  |
+| 1.2.2 |  | im Stabilisierungsfonds Finanzmarkt und BayernLB | 571.000,0 | 280.000,0 |  |
+| 1.2.3 |  | im Sonderfonds Corona-Pandemie | – | – |  |
+| 1.3 |  | Nettokreditaufnahme am Kreditmarkt (Nr. 1.1 abzüglich Nr. 1.2) | 5.806.256,0 | 11.585.359,0 |  |
+| **2.** |  | **Abwicklung der Rechnungsergebnisse aus Vorjahren** |  |  |  |
+| 2.1 |  | Einnahmen aus Überschüssen | – | – |  |
+| 2.2 |  | Ausgaben zur Deckung von Fehlbeträgen | – | – |  |
+| **3.** |  | **Rücklagenbewegung** |  |  |  |
+| 3.1 |  | Entnahmen aus Rücklagen, Fonds und Stöcken | 2.882.788,1 | 2.167.905,2 |  |
+| 3.2 |  | Zuführungen an Rücklagen, Fonds und Stöcke | 131.500,0 | 131.000,0 |  |
+| 3.3 |  | Saldo (Nr. 3.1 abzüglich Nr. 3.2) | 2.751.288,1 | 2.036.905,2 |  |
+| **4.** |  | **Deckung insgesamt (Nr. 1.3 und Nr. 3.3)** | 8.557.544,1 | 13.622.264,2 |  |
+
+**Teil III: Kreditfinanzierungsplan für das Haushaltsjahr 2022**
+
+|  |  | Betrag für 2022 | Betrag für 2021 |  |
+|---|---|---|---|---|
+|  |  | Tsd. € | Tsd. € |  |
+| **1.** | **Kredite am Kreditmarkt** |  |  |  |
+| 1.1 | Einnahmen aus Krediten vom Kreditmarkt |  |  |  |
+| 1.1.1 | im allgemeinen Haushalt | 666.000,0 | 1.085.000,0 |  |
+| 1.1.2 | im Stabilisierungsfonds Finanzmarkt und BayernLB | 571.000,0 | 230.000,0 |  |
+| 1.1.3 | im Sonderfonds Corona-Pandemie | 5.806.256,0 | 11.635.359,0 |  |
+| 1.2 | Ausgaben zur Schuldentilgung für Kreditmarktmittel<br>(einschließlich Marktpflege) |  |  |  |
+| 1.2.1 | im allgemeinen Haushalt | 666.000,0 | 1.085.000,0 |  |
+| 1.2.2 | im Stabilisierungsfonds Finanzmarkt und BayernLB | 571.000,0 | 280.000,0 |  |
+| 1.2.3 | im Sonderfonds Corona-Pandemie | – | – |  |
+| 1.3 | Saldo (Nr. 1.1 abzüglich Nr. 1.2) | 5.806.256,0 | 11.585.359,0 |  |
+| **2.** | **Kredite im öffentlichen Bereich** |  |  |  |
+| 2.1 | Einnahmen aus zweckbestimmten Krediten von Gebietskörperschaften u.Ä. | – | – |  |
+| 2.2 | Ausgaben zur Schuldentilgung bei Gebietskörperschaften u.Ä. | 35.000,0 | 36.000,0 |  |
+| 2.3 | Nettokreditaufnahme (Nr. 2.1 abzüglich Nr. 2.2) | –35.000,0 | –36.000,0 |  |
+| **3.** | **Kreditaufnahmen insgesamt** |  |  |  |
+| 3.1 | Bruttokreditaufnahme (Nr. 1.1 und Nr. 2.1) | 7.043.256,0 | 12.950.359,0 |  |
+| 3.2 | Ausgaben zur Schuldentilgung (Nr. 1.2 und Nr. 2.2) | 1.272.000,0 | 1.401.000,0 |  |
+| 3.3 | Nettokreditaufnahme (Nr. 1.3 und Nr. 2.3) | 5.771.256,0 | 11.549.359,0 |  |
+
+<!-- norm id="anlage2" -->
+## Anlage 2 (zu Art. 12) Durchführungsbestimmungen zum Haushaltsgesetz 2022 (DBestHG 2022)
+
+**1. Deckungsfähigkeit**
+
+**1.1**
+
+Soweit nicht Nr. 12.1 zur Anwendung kommt, sind innerhalb der einzelnen Haushaltskapitel gegenseitig deckungsfähig die Mittel der Titel
+
+**1.1.1**
+
+|  |  |
+|---|---|
+| 517 01 | Bewirtschaftung der Grundstücke, Gebäude und Räume, |
+| 517 05 | Bewirtschaftung durch Heizung, Beleuchtung und elektrische Kraft und |
+| 518 0. | Mieten und Pachten für Grundstücke, Gebäude und Räume, |
+
+**1.1.2**
+
+|  |  |
+|---|---|
+| 514 0. | Haltung von Dienstfahrzeugen und |
+| 527 0. | Reisekostenvergütungen für Dienstreisen, |
+
+**1.1.3**
+
+|  |  |
+|---|---|
+| 531 1. | Fachveröffentlichungen und |
+| 531 2. | Sonstige Veröffentlichungen. |
+
+**1.2**
+
+Innerhalb desselben Einzelplans sind die Mittel der Titel 519 0. (Unterhaltung der Grundstücke und baulichen Anlagen), 701 0. (kleine Neu-, Um- und Erweiterungsbauten) und 702 0. (grundlegende Erneuerung und Sanierung von Kanal-, Schachtbau- und Abwasseranlagen) gegenseitig deckungsfähig.
+
+**1.3**
+
+¹Mit Einwilligung der zuständigen obersten Staatsbehörde können die bei den einzelnen Titeln der Anlagen S (staatlicher Hochbau) veranschlagten Ausgaben und Verpflichtungsermächtigungen nach dem Baufortschritt erhöht werden, wenn der Mehrbetrag innerhalb der Hochbauausgaben oder -verpflichtungsermächtigungen desselben Einzelplans eingespart wird. ²Die danach zulässige gegenseitige Deckung darf nicht zu einer Abweichung von den den einzelnen Bauvorhaben zugrunde liegenden Unterlagen gemäß Art. 24 oder 54 BayHO oder zu einer Überschreitung der festgesetzten Gesamtkosten der einzelnen Maßnahmen führen. ³Bei grundstockfinanzierten Ansätzen ist eine Umschichtung nur zugunsten grundstockkonformer Hochbaumaßnahmen zulässig; das Nähere regelt das Staatsministerium der Finanzen und für Heimat.
+
+**1.4**
+
+¹Bei der Landesagentur für Energie und Klimaschutz kann zur CO₂-Kompensation unvermeidlicher dienstlicher Flugreisen Kapitel 12 09 Titel 533 85 zulasten der Titel der Gruppe 527 in allen Einzelplänen gedeckt werden. ²Eine ausschließlich zu diesem Zweck erforderliche Deckung zulasten eines Titels der Gruppe 527, der selbst bereits zulasten anderer Ansätze gedeckt wurde oder später zulasten anderer Ansätze gedeckt wird (Deckungskette), ist zulässig.
+
+**1.5**
+
+Im Übrigen ergibt sich die Deckungsfähigkeit von Ausgabemitteln aus den im Haushaltsplan enthaltenen Vermerken.
+
+**2. Bewirtschaftung der Personalausgaben**
+
+**2.1**
+
+¹Bei der Bewirtschaftung der Personalausgaben sind die Verwaltungen an die in Art. 6 Abs. 1 genannten Stellenpläne unter Beachtung der Nr. 3 gebunden. ²Soweit keine Stellenbindung besteht, richtet sich die Bewirtschaftung grundsätzlich nach den veranschlagten Haushaltsbeträgen; dabei können innerhalb der einzelnen Kapitel die Erstattungsleistungen der Bundesagentur für Arbeit nach dem Altersteilzeitgesetz entsprechend dem Entstehungsgrund den betroffenen Haushaltsansätzen zugeführt werden.
+
+**2.2**
+
+¹Die in einem Einzelplan bei den in Art. 6 Abs. 1 genannten Titeln veranschlagten Mittel für Personalausgaben (einschließlich Titel 421 0.) dürfen – insoweit in Abweichung von Art. 45 Abs. 1 BayHO – bei der Ausführung des Haushaltsplans zu einer Summe zusammengefasst und innerhalb des Einzelplans gemeinsam bewirtschaftet werden. ²Soweit bei den in die gemeinsame Bewirtschaftung einbezogenen Ansätzen außerplanmäßige Ausgaben und bei den nicht in die gemeinsame Bewirtschaftung einbezogenen Ansätzen über- und außerplanmäßige Ausgaben erforderlich werden, gilt die Einwilligung des Staatsministeriums der Finanzen und für Heimat hierzu allgemein als erteilt, wenn die über- und außerplanmäßigen Ausgaben ausschließlich auf Stellenbesetzungen nach Art. 6 Abs. 3 Nr. 1 zurückzuführen sind.
+
+**2.3**
+
+¹Für Beamte und Arbeitnehmer, bei denen gemäß Art. 6 Abs. 1 eine Stellenbindung besteht, dürfen Mehrarbeit oder Überstunden, für die eine Vergütung zu zahlen ist, nur angeordnet werden, wenn bei Titel 422 41 (Mehrarbeitsvergütungen für Beamte) oder Titel 428 41 (Überstundenentgelte für Arbeitnehmer) ausreichende Mittel zur Verfügung gestellt sind. ²Mehrarbeit oder Überstunden dürfen auch dann angeordnet werden, wenn hierfür bei Titeln des Einzelplans 13 mit den Zweckbestimmungen „Mehrarbeitsvergütungen für Beamte“ oder „Überstundenentgelte für Arbeitnehmer“ Mittel zur Verfügung gestellt sind.
+
+**2.4**
+
+Die Titel 422 0., 428 01 und 428 02 dürfen einseitig zulasten der Titel für Europäische Fonds verstärkt werden.
+
+**3. Besetzung von Planstellen und Stellen**
+
+Für die Besetzung von Planstellen und Stellen gelten Art. 6 dieses Gesetzes, Art. 47, 49 und 50 BayHO sowie die zu diesen Bestimmungen erlassenen Verwaltungsvorschriften unter Beachtung der nachstehenden Bestimmungen.
+
+**3.1 Besondere Regelungen für den Hochschulbereich**
+
+**3.1.1**
+
+¹Wissenschaftliche Mitarbeiter im Sinne des Art. 22 des Bayerischen Hochschulpersonalgesetzes (BayHSchPG) können auch auf gleich- oder höherwertigen Stellen für Akademische Räte, Akademische Oberräte, Akademische Direktoren oder Leitende Akademische Direktoren – jeweils ohne Lehrkräfte für besondere Aufgaben an einer Hochschule – sowie auf Stellen für Professoren verrechnet werden. ²Akademische Oberräte auf Zeit der Besoldungsgruppe A 14 können auf Stellen für Akademische Direktoren oder auf Stellen für Leitende Akademische Direktoren – jeweils ohne Lehrkräfte für besondere Aufgaben an einer Hochschule – sowie auf Stellen für Professoren verrechnet werden.
+
+**3.1.2**
+
+¹Inhaber der Ämter des Akademischen Rats, des Akademischen Oberrats, des Akademischen Direktors oder des Leitenden Akademischen Direktors – jeweils ausschließlich der Lehrkräfte für besondere Aufgaben an einer Hochschule – sowie wissenschaftliche Mitarbeiter können nicht auf Stellen, die für Lehrkräfte für besondere Aufgaben an einer Hochschule ausgewiesen sind, verrechnet werden. ²Dies gilt nicht für Akademische Räte, Akademische Oberräte, Akademische Direktoren oder Leitende Akademische Direktoren, die mit einer Lehrverpflichtung von mehr als acht Lehrveranstaltungsstunden aus Ämtern der alten Personalstruktur übernommen wurden.
+
+**3.1.3**
+
+Inhaber der Ämter des Akademischen Rats, des Akademischen Oberrats, des Akademischen Direktors oder des Leitenden Akademischen Direktors – jeweils einschließlich der Lehrkräfte für besondere Aufgaben – der Besoldungsgruppen A 13 bis A 16 (Art. 19 bis 21 und 24 BayHSchPG) sowie vergleichbare Arbeitnehmer können auf Stellen für Professoren der Besoldungsgruppen W 2 und W 3 verrechnet werden.
+
+**3.1.4**
+
+Stellen für Akademische Räte auf Zeit der Besoldungsgruppe A 13 und Akademische Oberräte auf Zeit der Besoldungsgruppe A 14 dürfen mit entsprechend eingestuften Arbeitnehmern sowie wissenschaftlichen Mitarbeitern mit einem Bachelor-Abschluss besetzt werden, wenn deren Arbeitsverhältnis den für wissenschaftliche Mitarbeiter geltenden Bestimmungen (Art. 22 BayHSchPG) entsprechend befristet ist, sowie mit Ärzten, die in einem befristeten Arbeitnehmerverhältnis zur Erlangung der Gebietsarztanerkennung beschäftigt werden.
+
+**3.1.5**
+
+Stellen der Entgeltgruppe 13 dürfen mit wissenschaftlichen Mitarbeitern im Arbeitnehmerverhältnis im Sinne des Art. 22 Abs. 2 Satz 1 BayHSchPG, die einen Bachelor-Abschluss erworben haben, besetzt werden.
+
+**3.1.6**
+
+Künstlerische Mitarbeiter werden bei der Stellenverrechnung wie wissenschaftliche Mitarbeiter behandelt.
+
+**3.1.7**
+
+¹Ärzte der klinisch-theoretischen Institute der Medizinischen Fakultäten, die vom Geltungsbereich des Tarifvertrags für Ärztinnen und Ärzte an Universitätskliniken erfasst sind, können in besonderen unabweisbaren Fällen auf Stellen der Besoldungsgruppe W 2, des akademischen Mittelbaus oder Arbeitnehmerstellen in den Entgeltgruppen 13 bis 15 verrechnet werden. ²Hierzu bedarf es mit Ausnahme der Nachbesetzungen der Bestandsfälle der vorherigen Zustimmung des Staatsministeriums der Finanzen und für Heimat.
+
+**3.1.8**
+
+Unter den Voraussetzungen der Nr. 3.1.4 dürfen auf Stellen für Juniorprofessoren der Besoldungsgruppe W 1 Akademische Räte auf Zeit der Besoldungsgruppe A 13 sowie entsprechend eingestufte Arbeitnehmer und wissenschaftliche Mitarbeiter mit einem Bachelor-Abschluss verrechnet werden.
+
+**3.2 Besondere Regelungen für den Richterbereich**
+
+**3.2.1**
+
+Auf Stellen für Richter der Besoldungsgruppe R 2 können auch Richter kraft Auftrags der Besoldungsgruppen A 13 bis A 16, auf Stellen für Richter der Besoldungsgruppe R 1 auch Richter kraft Auftrags der Besoldungsgruppen A 13 bis A 15 verrechnet werden.
+
+**3.2.2**
+
+¹Auf Planstellen der BesGr B 3 können vorübergehend Richter oder Staatsanwälte bis zur BesGr R 3, auf Planstellen der BesGr A 16 mit Amtszulage Richter oder Staatsanwälte bis zur BesGr R 2 mit Amtszulage, auf Planstellen der BesGr A 16 Richter oder Staatsanwälte bis zur BesGr R 2, auf Planstellen der BesGr A 15 Richter oder Staatsanwälte bis zur BesGr R 1 mit Amtszulage und auf Planstellen der BesGr A 14 Richter oder Staatsanwälte der BesGr R 1 verrechnet werden. ²Die Verrechnung soll nicht länger als zwölf Monate erfolgen.
+
+**3.2.3**
+
+¹Im Einvernehmen mit den betroffenen obersten Dienstbehörden können in besonderen, unvorhergesehenen Einzelfällen Stellen der Besoldungsordnung R zu Gunsten der Verfassungsgerichtsbarkeit, der ordentlichen Gerichtsbarkeit und der Fachgerichtsbarkeiten kapitel- und einzelplanübergreifend in Anspruch genommen werden. ²Die Inanspruchnahme soll nicht länger als zwölf Monate erfolgen.
+
+**3.3 Arbeitnehmer-Budget**
+
+**3.3.1**
+
+¹Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, zur Vorbereitung einer Einführung eines Arbeitnehmer-Budgets bei der Besetzung von Stellen für planmäßige Beamte und Richter, die gemäß Nr. 2.1 Satz 1 und Nr. 2.2 Satz 1 der gemeinsamen Bewirtschaftung unterliegen, mit Arbeitnehmern zu bestimmen, dass Entgelte abweichend auf den Titeln 428 07 und 428 08 gebucht werden können. ²Auf über- oder außerplanmäßige Ausgaben, die sich auf Grund der nach Satz 1 abweichenden Buchung ergeben, ist Art. 37 BayHO nicht anzuwenden; außerplanmäßige Ausgaben sind jedoch in der Haushaltsrechnung als solche zu bezeichnen.
+
+**3.3.2**
+
+Das Staatsministerium der Finanzen und für Heimat kann im Einvernehmen mit dem Bayerischen Obersten Rechnungshof für den Vollzug des Arbeitnehmer-Budgets einen von den Durchführungsbestimmungen zum Haushaltsgesetz, den Verwaltungsvorschriften zur Bayerischen Haushaltsordnung (VV-BayHO) und den Bestimmungen für die Auszahlung und den rechnungsmäßigen Nachweis der Bezüge und sonstigen Leistungen bei Versetzung, Abordnung und Zuweisung abweichenden Nachweis der Entgeltzahlungen bestimmen.
+
+**3.4 Feststellungen der Rechnungsprüfung**
+
+¹Stellen, die auf Grund von Feststellungen der Rechnungsprüfung nicht oder nicht in der veranschlagten Wertigkeit erforderlich sind, sind in die Verhandlungen zur Aufstellung des Haushaltsplans einzubeziehen. ²Art. 50 Abs. 1 BayHO bleibt unberührt.
+
+**4. Besondere Personalausgaben, Billigkeitsleistungen**
+
+**4.1**
+
+Aus Mitteln für Bezüge und dergleichen dürfen Fahrkostenzuschüsse für die regelmäßigen Fahrten zwischen Wohnung und Dienststätte nach Maßgabe der Fahrkostenzuschuss-Bekanntmachung des Staatsministeriums der Finanzen und für Heimat (FkzBek) vom 15. November 2001 (FMBl. S. 471; 2002 S. 69, StAnz. 2002 Nr. 27) in der jeweils geltenden Fassung einschließlich der darauf entfallenden Pauschalsteuern gewährt werden.
+
+**4.2**
+
+Aus Mitteln der Titel 546 49 (Vermischte Verwaltungsausgaben) können auch die Ausgaben geleistet werden:
+
+**4.2.1**
+
+für die Übernahme von Kosten des Rechtsschutzes für Bedienstete des Freistaates Bayern,
+
+**4.2.2**
+
+für die Kosten
+
+- a) der amtsärztlichen Untersuchung von
+  - – Beamten und Bewerbern,
+  - – Lehrkräften kirchlicher Genossenschaften, die auf Grund von Abstellungsverträgen im öffentlichen Volksschuldienst und Sondervolksschuldienst tätig sind, und
+  - – Geistlichen und Laienkatecheten, die an öffentlichen Volksschulen, Sondervolksschulen und staatlichen Berufsschulen Religionsunterricht erteilen, sowie
+- b) einer von der Ernennungsbehörde angeordneten klinischen oder fachärztlichen Untersuchung,
+
+**4.2.3**
+
+soweit Mittel nicht gesondert veranschlagt sind, für den Sachschadenersatz ehrenamtlicher Richter und ehrenamtlicher Mitglieder von bei Staatsbehörden gebildeten Ausschüssen (Abschnitt 13 der Verwaltungsvorschriften zum Beamtenrecht analog),
+
+**4.2.4**
+
+für die Erstattung von Auslagen bei Vorstellungsreisen nach den geltenden Bestimmungen des Staatsministeriums der Finanzen und für Heimat,
+
+**4.2.5**
+
+für die Übernahme von Kosten einer Impfung – Grundimmunisierung, Auffrischungsimpfung, Impfserum – gegen FSME; Voraussetzung für die Kostenübernahme ist, dass die beschäftigte Person die Tätigkeit in definierten FSME-Risikogebieten nach Robert Koch-Institut in der Land-, Forst- und Holzwirtschaft, im Gartenbau sowie in der Vermessungsverwaltung ausübt und die Gefährdungsbeurteilung nach dem Arbeitsschutzgesetz ergibt, dass die oder der Beschäftigte durch die Tätigkeit der Gefahr einer höheren Infektion durch das FSME-Virus im Vergleich zur Allgemeinbevölkerung ausgesetzt ist,
+
+**4.2.6**
+
+für die Übernahme der notwendigen Fahrkosten – bis zur Höhe der Kosten für die Benutzung öffentlicher Verkehrsmittel oder im Fall einer notwendigen Benutzung eines eigenen Fahrzeugs Wegstreckenentschädigung in sinngemäßer Anwendung des Art. 6 Abs. 6 des Bayerischen Reisekostengesetzes (BayRKG) – für die aus Anlass einer dienstlich angeordneten Inanspruchnahme des beim Betriebsärztlichen Dienst im jeweiligen Geschäftsbereich angesiedelten Psychologen.
+
+**4.3 Unterbringung in staatlichen Lehreinrichtungen**
+
+**4.3.1**
+
+Die Unterbringung in den in staatlichen Lehreinrichtungen verfügbaren Unterkünften kann im Rahmen von Fort- oder Weiterbildung oder Dienstreisen für staatliche Bedienstete oder im Rahmen einer Dozententätigkeit unentgeltlich erfolgen; die Regelungen der Erstattungsverordnung bleiben davon unberührt.
+
+**4.3.2**
+
+¹Den zur Ausbildung zugewiesenen Beamten (Art. 23 Abs. 2 BayRKG) werden die bei den staatlichen Lehreinrichtungen verfügbaren Unterkünfte überlassen. ²Der Fachbereich Allgemeine Innere Verwaltung der Hochschule für den öffentlichen Dienst in Bayern gilt insoweit als staatliche Lehreinrichtung für die gesamte Dauer des fachtheoretischen Studiums der Verwaltungsinformatiker. ³Lehreinrichtungen im Sinne dieser Vorschrift sind solche, die ausschließlich oder nahezu ausschließlich Bildungsaufgaben für die Beschäftigten des öffentlichen Dienstes wahrnehmen. ⁴Die Inanspruchnahme einer Unterkunft ist freiwillig. ⁵Für die Bereitstellung der Unterkunft werden Kosten nicht erhoben. ⁶Die staatliche Lehreinrichtung kann die Bereitstellung einer Unterkunft davon abhängig machen, dass der Beamte einen Kostenbeitrag zu einer Verpflegung entrichtet, wenn sie eine solche Verpflegung anbietet.
+
+**4.3.3**
+
+¹Studierenden der Hochschule für den öffentlichen Dienst in Bayern, die im Einzugsgebiet des Ortes der Lehreinrichtung wohnen (§ 8 Abs. 1 Satz 1 und 2 der Bayerischen Trennungsgeldverordnung – BayTGV – in Verbindung mit Art. 4 Abs. 3 Satz 2 des Bayerischen Umzugskostengesetzes – BayUKG) und nicht schwerbehindert sind, werden keine Unterkünfte überlassen. ²Wenn im Einzelfall durch den Verzicht auf die unentgeltliche Unterbringung höhere Anmietkosten eingespart werden, kann auf Antrag anstatt der unentgeltlichen Unterkunft ein Fahrtkostenzuschuss gewährt werden.
+
+**4.3.4**
+
+¹Ein Kostenbeitrag für die Verpflegung (Nr. 4.3.2 Satz 6) wird nicht erhoben, wenn die Beamtin oder der Beamte aus gesundheitlichen Gründen nicht in der Lage ist, die Verpflegung in Anspruch zu nehmen. ²Der Nachweis der gesundheitlichen Gründe ist durch ärztliche Bescheinigung einer Fachärztin oder eines Facharztes für Innere Medizin und Gastroenterologie zu führen. ³Die Bescheinigung muss eine entsprechende Feststellung, jedoch keine Diagnose enthalten.
+
+**4.3.5**
+
+¹Eine geschlossene Unterbringung (§ 8 Abs. 4 Satz 2 BayTGV) wird nicht begründet. ²Wenn keine Unterkunft zur Verfügung gestellt werden kann, kann befristet bis zum 31. Dezember 2022 im Einzelfall auch ein Mietkostenzuschuss gegen Nachweis bis höchstens 300 € monatlich gewährt werden. ³Art. 127 BayBG bleibt unberührt.
+
+**4.4**
+
+¹Aus Mitteln für Bezüge und dergleichen wird Beamten, die im Lauf des Kalenderjahres vom Arbeitnehmerverhältnis in das Beamtenverhältnis übernommen wurden, eine außertarifliche Leistung gewährt. ²Entsprechendes gilt, wenn Beschäftigte während des Kalenderjahres von einem Arbeitsverhältnis im Sinne des Tarifvertrags für den öffentlichen Dienst der Länder in ein Arbeitsverhältnis mit Besoldung nach Besoldungsrecht wechseln. ³Die außertarifliche Leistung beträgt für die Beschäftigten in den Entgeltgruppen E 1 bis E 11 70 %, für die übrigen Beschäftigten 65 % des monatlichen Entgelts, das dem Beschäftigten in den letzten drei Monaten vor dem Monat der Übernahme in das Beamtenverhältnis oder des Wechsels in ein Arbeitsverhältnis mit Besoldung nach Besoldungsrecht durchschnittlich gezahlt wurde; unberücksichtigt bleiben hierbei das zusätzlich für Überstunden und Mehrarbeit gezahlte Entgelt – mit Ausnahme der im Dienstplan vorgesehenen Mehrarbeits- und Überstunden –, Leistungszulagen, Leistungs- und Erfolgsprämien. ⁴Der Bemessungssatz bestimmt sich nach der Entgeltgruppe am Ersten des Monats, der dem Monat der Verbeamtung oder des Wechsels in ein Arbeitsverhältnis mit Besoldung nach Besoldungsrecht unmittelbar vorhergeht. ⁵Die außertarifliche Leistung vermindert sich um ein Zwölftel für jeden Kalendermonat, für den der Beschäftigte kein Entgelt aus dem Arbeitsverhältnis erhalten hat. ⁶Die außertarifliche Leistung ist zulasten der Haushaltsstelle zu leisten, auf der der Beamte vor der Übernahme in das Beamtenverhältnis oder vor dem Wechsel in ein Arbeitsverhältnis mit Besoldung nach Besoldungsrecht geführt wurde.
+
+**4.5**
+
+Aus Mitteln für Entgelte der Arbeitnehmer kann Arbeitnehmern für die Zeit für die ihnen Entgelt (§ 15 TV-L) zusteht, eine Zulage gezahlt werden, wenn ihre Tätigkeit mit Mehraufwendungen verbunden ist, die weder durch die Reisekostenvergütung noch durch das Entgelt abgegolten sind, und entsprechenden Beamten unter den gleichen Voraussetzungen und Umständen eine Aufwandsentschädigung gewährt wird.
+
+**4.6**
+
+Dienstleistern, die Maßnahmen im Rahmen des Gesundheitsmanagements unter Bezugnahme auf den vom Staatsministerium der Finanzen mit Schreiben vom 26. Juli 2010, Az. PE-P 1400 FV-028-29360/10, erlassenen Handlungsleitfaden zum Behördlichen Gesundheitsmanagement für Beschäftigte des Freistaates Bayern in Behördenräumen durchführen, kann für die Durchführung der Maßnahme die Nutzung der Diensträume unentgeltlich oder verbilligt überlassen werden.
+
+**4.7**
+
+¹Soweit nicht in Anspruch genommener Urlaub nach einem Gesetz, einer Rechtsverordnung oder einer tariflichen Vorschrift bei Beendigung eines Beamtenverhältnisses oder eines Arbeitsverhältnisses finanziell abzugelten ist, sind die Ausgaben auf der Haushaltsstelle zu verbuchen, auf der die Bezüge des Beschäftigten vor der Beendigung des Beamtenverhältnisses oder des Arbeitsverhältnisses verbucht wurden. ²Satz 1 gilt entsprechend soweit eine durch Gesetz, Rechtsverordnung oder Tarifvertrag geregelte finanzielle Abgeltung von nicht in Anspruch genommenem Urlaub bei Beendigung eines Beamtenverhältnisses oder eines Arbeitsverhältnisses in einer Bekanntmachung der Staatsregierung oder in einer Bekanntmachung des Staatsministeriums der Finanzen und für Heimat für entsprechend anwendbar erklärt wird.
+
+**4.8**
+
+¹Aus Mitteln für Entgelte der Arbeitnehmer können bei der Verlagerung von Arbeitsplätzen im Rahmen der Heimatstrategie und im Rahmen der Verlagerung des Landesamts für Statistik in entsprechender Anwendung der §§ 7 und 8 des Tarifvertrags über den Rationalisierungsschutz für Angestellte verdoppelte Abfindungen gezahlt werden. ²Die danach mögliche Abfindungssumme darf höchstens 70 % der Personaldurchschnittskosten – bezogen auf den Zeitpunkt des Ausscheidens – betragen, die ab dem Zeitpunkt des Ausscheidens bis zu dem Zeitpunkt anfallen würden, zu dem die oder der Beschäftigte das gesetzlich festgelegte Alter für eine Regelaltersrente erreicht hätte. ³Tritt die oder der Beschäftigte innerhalb eines Zeitraums, der kürzer ist als die der Abfindung zugrundeliegende Zahl der Monatsbezüge, in ein Arbeitsverhältnis zum Freistaat Bayern oder zu einem anderen Arbeitgeber, der vom Geltungsbereich des Tarifvertrags für den öffentlichen Dienst der Länder oder des Tarifvertrags für den öffentlichen Dienst erfasst ist, verringert sich die Abfindung entsprechend. ⁴Der überzahlte Betrag ist zurückzuzahlen. ⁵Beschäftigte haben bei Abschluss des Auflösungsvertrags unter Zahlung der verdoppelten Abfindung dem Arbeitgeber gegenüber schriftlich zu erklären, dass sie sich über die Auswirkungen der freiwilligen Beendigung des Arbeitsverhältnisses auf Leistungsansprüche gegenüber der Arbeitsverwaltung sowie über die Folgen in den übrigen Zweigen der Sozialversicherung – Kranken- und Rentenversicherung einschließlich Rentenansprüche, Pflegeversicherung – und in der Zusatzversorgung bei der Versorgungsanstalt des Bundes und der Länder eingehend informiert haben.
+
+**4.9**
+
+¹Bedienstete des Freistaates Bayern, deren bisherige Dienststelle im Sinne des Personalvertretungsrechts ganz oder teilweise im Rahmen der Heimatstrategie verlagert wird, können einmalig eine Mobilitätsprämie in Höhe von 3 000 € brutto erhalten. ²Die nähere Ausgestaltung regelt das Staatsministerium der Finanzen und für Heimat. ³Die Gewährung der Mobilitätsprämie erfolgt aus dem Haushaltsansatz bei Kap. 13 03 Tit. 443 06.
+
+**4.10**
+
+Gemäß Art. 52 Satz 1 BayHO und Art. 63 Abs. 5 in Verbindung mit Abs. 3 Satz 2 BayHO wird zugelassen, dass, wenn dienstliche Gründe dies erfordern, der Freistaat Bayern eigene oder angemietete und gegebenenfalls möblierte Wohnungen und Unterkünfte unentgeltlich seinen reisekosten- oder trennungsgeldberechtigten Bediensteten überlassen darf, soweit deren Mietwert oder die dafür vom Staat getragenen Kosten die nach dem Reisekosten- oder Trennungsgeldrecht erstattungsfähigen Kosten übersteigen.
+
+**5. Prüfungskosten, Personal- und Sachausgaben aus anderen Haushaltsansätzen**
+
+**5.1**
+
+Aus Mitteln der Titel 459 0. (Prüfungsvergütungen) sind auch sämtliche mit der Prüfung zusammenhängenden sächlichen Verwaltungsausgaben einschließlich der Reisekosten der mit der Durchführung der Prüfung beauftragten Prüfer und Prüfungshelfer zu bestreiten.
+
+**5.2**
+
+Soweit Bezüge der Beamten und Richter oder Entgelte der Beschäftigten im Staatshaushalt gebucht und nachgewiesen werden, aber ganz oder teilweise von Stellen außerhalb des Staatshaushalts finanziell zu tragen sind, sind auch die Ausgaben für Beihilfen, abzuführende Beihilfe- und Verwaltungskostenpauschalen in den Fällen von Art. 6 Abs. 7 Satz 4, Reisekosten, Umzugskosten, Trennungsgelder, Auslagenersatz im Sinne des Art. 12 BayUKG, Übergangsgelder sowie alle sonstigen personalbezogenen Ausgaben, z.B. Unfallfürsorgeleistungen, Sachschadenersatz und Fortbildungsreisen, zulasten der Ansätze aus Mitteln Dritter zu leisten.
+
+**5.3**
+
+Aus Mitteln der Titel 518 0. (Mieten und Pachten für Grundstücke, Gebäude und Räume) sind auch die Ausgaben für durchzuführende Ausschreibungsverfahren zur Anmietung von Immobilien, die ein privater Auftragnehmer nach den Vorgaben des Auftraggebers errichtet (Bestellbauten), insbesondere die für die Beauftragung privater Sachverständiger anfallenden Ausgaben, zu bestreiten.
+
+**6. Anlagen zum Haushaltsplan**
+
+**6.1**
+
+Soweit in Zweckbestimmungen für mehrere mit einem Gesamtbetrag veranschlagte Maßnahmen auf Anlagen zu den Einzelplänen verwiesen ist, sind die in diesen Anlagen aufgeführten Einzelzwecke mit ihren Beträgen ebenso bindend, wie wenn diese Beträge bei den Zweckbestimmungen einzeln aufgeführt wären, es sei denn, dass in den Anlagen etwas anderes bestimmt ist.
+
+**6.2**
+
+¹Soweit bei Titeln der Anlage S (staatlicher Hochbau) Ausgaben oder Verpflichtungsermächtigungen wegen Fehlens der in Art. 24 Abs. 1 BayHO bezeichneten Unterlagen als gesperrt oder als Planungstitel bezeichnet sind, bedarf die Leistung von Ausgaben oder die Inanspruchnahme von Verpflichtungsermächtigungen der Einwilligung des Ausschusses für Staatshaushalt und Finanzfragen des Landtags. ²Dies gilt nicht für die Leistung von Ausgaben und Inanspruchnahme von Verpflichtungsermächtigungen für die Erstellung der Planungsunterlagen nach den Art. 24 Abs. 1 und Art. 54 Abs. 1 BayHO. ³Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, für die Erstellung der Planungsunterlagen von Neubauten nähere Anordnungen zu erlassen.
+
+**7. Ausnahmen vom Bruttonachweis**
+
+¹Ausnahmen vom Bruttonachweis der Einnahmen und Ausgaben sind nach Maßgabe der VV Nr. 3 zu Art. 35 BayHO zugelassen oder vorgeschrieben. ²Darüber hinaus gilt Folgendes:
+
+**7.1**
+
+¹Einnahmen aus der Anfertigung von Fotokopien durch Dritte und aus Rabatten für bereits gezahlte Ausgaben dürfen von der Ausgabe abgesetzt werden. ²Erstattungen von Reisekosten durch Dritte und pauschale Rabatte für bereits gezahlte Fahrtkosten dürfen von der Ausgabe abgesetzt werden.
+
+**7.2**
+
+Schadenersatzleistungen und Zahlungen anstelle von Garantieleistungen Dritter dürfen stets, also auch nach Abschluss der Bücher, insoweit von der Ausgabe abgesetzt werden, als sie zur Instandsetzung oder Ersatzbeschaffung bestimmt sind.
+
+**7.3**
+
+Zurückgezahlte Zuwendungen dürfen von der Ausgabe abgesetzt werden, soweit sie
+
+**7.3.1**
+
+noch während des gleichen Jahres, in dem sie ausgezahlt wurden, zurückgezahlt werden oder
+
+**7.3.2**
+
+im Rahmen von gemeinschaftlichen Finanzierungen zwischen dem Bund und dem Land, insbesondere bei den Gemeinschaftsaufgaben, gewährt wurden und der Bund dies zulässt.
+
+**7.4**
+
+An das Finanzamt abzuführende Umsatzsteuern für Betriebe gewerblicher Art dürfen von den diesbezüglichen Einnahmen abgesetzt werden.
+
+**7.5**
+
+Rückzahlungen von Einzahlungen, die über eine elektronische Bezahlplattform abgewickelt werden, dürfen von der Einnahme abgesetzt werden.
+
+**8.**
+
+*(nicht besetzt)*
+
+**9. Zweckgebundene Einnahmen**
+
+¹Zweckgebundene Einnahmen (Art. 8 Satz 2 Nr. 1 BayHO) sind, auch wenn sie nicht oder nicht in voller Höhe veranschlagt sind, bei den zutreffenden Einnahmetiteln zu vereinnahmen und die hierdurch etwa erforderlich werdenden zusätzlichen Ausgaben bei den Ausgabetiteln zu verausgaben. ²Auf hiernach sich ergebende über- oder außerplanmäßige Ausgaben ist Art. 37 BayHO nicht anzuwenden; außerplanmäßige Einnahmen und Ausgaben sind jedoch in der Haushaltsrechnung als solche zu bezeichnen. ³Nicht verausgabte zweckgebundene Einnahmen dürfen in der Haushaltsrechnung als Ausgabereste nachgewiesen werden.
+
+**10. Nutzungen und Sachbezüge**
+
+**10.1 Veräußerungen von Erzeugnissen betrieblicher Einrichtungen**
+
+¹An Beamte und Arbeitnehmer dürfen, soweit im Haushaltsplan nichts anderes bestimmt ist, widerruflich die für den eigenen Verbrauch benötigten Erzeugnisse der betrieblichen Einrichtungen ihrer unmittelbaren Beschäftigungsdienststelle mit einer Ermäßigung bis zu 20 % des ortsüblichen Kleinverkaufspreises abgegeben werden; ausgenommen hiervon sind Beschäftigte, deren Arbeitszeit weniger als die Hälfte der regelmäßigen Arbeitszeit beträgt. ²Satz 1 gilt auch für Ruhegehaltsempfänger und Rentner, soweit sie bis zum Eintritt in den Ruhestand und dergleichen bei der entsprechenden betrieblichen Einrichtung beschäftigt waren. ³Landwirtschaftliche Betriebe dürfen ihre Erzeugnisse, bei denen ein Kleinverkaufspreis nicht feststellbar ist, an Betriebsangehörige mit einer Ermäßigung bis zu 10 % des Ab-Hof-Verkaufspreises abgeben; für die Abgabe von Milch ist der Molkereipreis des Vormonats ohne Ermäßigung maßgebend. ⁴Tarifvertragliche Bestimmungen bleiben unberührt. ⁵Einer Einwilligung nach Art. 57 BayHO bedarf es in diesen Fällen nicht.
+
+**10.2 Private Nutzung von dienstlichen Festnetzanschlüssen**
+
+Angehörige des öffentlichen Dienstes dürfen in dringenden Fällen und in geringfügigem Umfang private Telefonate von einem dienstlichen Festnetzanschluss ohne Kostenerstattung führen.
+
+**10.3 Private Nutzung von Dienstfahrrädern**
+
+Angehörige des öffentlichen Dienstes dürfen die für dienstliche Zwecke beschafften Fahrräder ihrer Dienststelle, die keine Kraftfahrzeuge im Sinne des § 6 Abs. 1 Nr. 4 Satz 2 des Einkommensteuergesetzes sind (Dienstfahrräder), ohne Kostenerstattung in geringem Umfang privat nutzen, soweit dienstliche Belange dem nicht entgegenstehen.
+
+**11. Weitergabe von Zuwendungen**
+
+Die Gewährung von Zuwendungen kann durch das zuständige Staatsministerium über die in Art. 44 Abs. 3 BayHO genannten juristischen Personen des privaten Rechts hinaus auch auf Körperschaften und Anstalten des öffentlichen Rechts übertragen werden.
+
+**12. Dezentrale Budgetverantwortung**
+
+**12.1 Erweiterte gegenseitige Deckungsfähigkeit**
+
+¹Zur Steigerung der Wirtschaftlichkeit und Leistungsfähigkeit sind jeweils innerhalb der einzelnen Kapitel – unter Einbeziehung der entsprechenden Verwaltungsbetriebsmittel in den Sammelkapiteln und Allgemeinen Bewilligungen sowie der zentral veranschlagten Ansätze – der Einzelpläne 01 bis 12, 14 bis 16
+
+- a) die Ansätze für Personalausgaben der Titel 422 41, 427 01, 427 41, 427 99, 428 11, 428 12, 428 21, 428 22, 428 3., 428 41, 428 66, 428 99, der Gruppe 429, der Titel 443 16, 453 01, 459 0., 459 1. und 459 49,
+- b) die Ansätze für sächliche Verwaltungsausgaben der Obergruppen 51 bis 54 mit Ausnahme der Gruppe 529, der Titel 527 2., 531 2., 532 0., 546 45 sowie der Gruppe 549 und
+- c) die Ansätze für Sachinvestitionen der Obergruppen 81 und 82
+
+nach näherer Maßgabe der folgenden Nummern gegenseitig deckungsfähig. ²Eine Deckung aus Ansätzen, die bereits selbst zulasten anderer Ansätze gedeckt wurden (Deckungsketten), ist nicht möglich.
+
+**12.2 Verstärkung aus dem Stellengehalt gebundener Stellen**
+
+Innerhalb eines Kapitels kann das Durchschnittliche Stellengehalt einer frei gewordenen und besetzbaren Stelle zur Verstärkung der in Nr. 12.1 genannten Ansätze unter folgender Maßgabe verwendet werden:
+
+**12.2.1**
+
+¹Die Stelle muss über die Wiederbesetzungssperre hinaus mindestens ein Jahr lang freigehalten werden; Art. 6 Abs. 2 Satz 4 findet keine Anwendung. ²Die Verwendung der Stellengehälter für eine Verstärkung kann somit erst nach Ablauf der gesetzlichen Wiederbesetzungssperre erfolgen.
+
+**12.2.2**
+
+Für jeden vollen Monat, für den die Stelle dann über den haushaltsrechtlich vorgeschriebenen oder von der Staatsregierung beschlossenen Stelleneinzug hinaus gezielt freigehalten wird, können entweder
+
+- a) ein Zwölftel aus 75 % des Durchschnittlichen Stellengehalts zur Verstärkung der Ansätze für Sachinvestitionen der Obergruppen 81 und 82 oder
+- b) ein Zwölftel aus 50 % des Durchschnittlichen Stellengehalts zur Verstärkung für sächliche Verwaltungsausgaben verwendet werden.
+
+**12.2.3**
+
+Mit dem Zeitpunkt der Wiederbesetzung der Stelle endet die Verstärkungsmöglichkeit der Nr. 12.2.
+
+**12.3 Deckungsfähigkeit der in Nr. 12.1 genannten Personalausgaben**
+
+**12.3.1**
+
+¹Einsparungen bei den in Nr. 12.1 genannten Ansätzen dürfen nur dann für die Begründung zusätzlicher Dienst- und Arbeitsverhältnisse verwendet werden, wenn das jeweilige Dienst- oder Arbeitsverhältnis auf längstens sechs Monate oder die Dauer einer jahreszeitlich bedingten Saison – ohne Kettenverlängerung – zeitlich befristet ist (Aushilfskräfte). ²Die Einschränkungen des Satzes 1 gelten nicht, soweit lediglich der bei Altersteilzeit von Arbeitnehmern auftretende Kapazitätsverlust ausgeglichen wird.
+
+**12.3.2**
+
+Einsparungen bei den Titeln 428 11, 428 21 und 428 22 dürfen nur bei mindestens einjährigem Freihalten der Beschäftigungsmöglichkeit zur Deckung von Ausgaben für sächliche Verwaltungsausgaben und Sachinvestitionen der in Nr. 12.1 genannten Ansätze herangezogen werden; hinsichtlich der Titel 428 21 und 428 22 gilt dies nur bei Einsparungen über den haushaltsrechtlich vorgeschriebenen oder von der Staatsregierung beschlossenen Stelleneinzug hinaus.
+
+**12.3.3**
+
+¹Die Deckungsfähigkeit nach Nr. 12.1 der Titel 422 41 und 428 41 darf nur einseitig zulasten dieser Titel in Anspruch genommen werden. ²Die gegenseitige Deckungsfähigkeit nach Nr. 12.1 dieser Titel untereinander bleibt unberührt.
+
+**12.4 Umwidmung von Personal- in Sachmittel bei Privatisierungen**
+
+¹Die Einschränkungen der Nrn. 12.2 und 12.3 gelten nicht, soweit bei der Privatisierung von Aufgaben eine Umwidmung von Personal- in Sachmittel notwendig ist, die entbehrlichen Stellen nicht wieder besetzt und im nächsten Haushaltsplan – stellen- und betragsmäßig – abgesetzt werden. ²Auf sich hiernach ergebende über- oder außerplanmäßige Ausgaben ist Art. 37 BayHO nicht anzuwenden, sofern im Einzelfall die auf das Kalenderjahr hochgerechnete Gesamthöhe der umgewidmeten Durchschnittlichen Stellengehälter 250 000 € nicht übersteigt; außerplanmäßige Ausgaben sind jedoch in der Haushaltsrechnung als solche zu bezeichnen.
+
+**12.5 Einseitige Deckungsfähigkeit zugunsten von Haushaltsstellen**
+
+**12.5.1 Bauunterhalt**
+
+¹Die Deckungsfähigkeit nach Nr. 12.1 für Titel der Gruppe 519 darf nur einseitig zugunsten der Titel dieser Gruppe in Anspruch genommen werden. ²Nr. 1.2 bleibt unberührt.
+
+**12.5.2 Globale Mehrausgaben für sächliche Verwaltungsausgaben**
+
+Die Deckungsfähigkeit nach Nr. 12.1 für die Gruppe 548 darf nur einseitig zulasten der Titel dieser Gruppe in Anspruch genommen werden.
+
+**12.5.3 Aufträge an anerkannte Werkstätten für behinderte Menschen und Inklusionsbetriebe**
+
+¹Die Deckungsfähigkeit nach Nr. 12.1 für die in den Sammelkapiteln ausgebrachten Titel 547 26 und 812 26 darf nur einseitig zugunsten dieser Titel in Anspruch genommen werden. ²Die gegenseitige Deckungsfähigkeit nach Nr. 12.1 dieser Titel untereinander bleibt unberührt.
+
+**12.6 Koppelung mit Einnahmen**
+
+¹Mehr- oder Mindereinnahmen von bis zu 10 % der Summe der Obergruppen 12 und 13 ohne Gruppe 133, der Gruppe 111 sowie der Titel 119 01 und 119 49 eines Kapitels, die im Vollzug erwirtschaftet werden, erhöhen oder vermindern die Ausgabebefugnis der in Nr. 12.1 genannten Ansätze des entsprechenden Kapitels zur Hälfte. ²Dies gilt nicht bei Titeln, die mit Ausgabeansätzen gekoppelt sind.
+
+**12.7 Übertragbarkeit, zeitliche Bindung**
+
+**12.7.1 Übertragbarkeit**
+
+Die in Nr. 12.1 genannten Ausgaben sind zur Förderung der wirtschaftlichen und sparsamen Bewirtschaftung übertragbar.
+
+**12.7.2 Zeitliche Bindung**
+
+Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, im Rahmen seiner Befugnisse nach Art. 45 Abs. 3 BayHO bei den in Nr. 12.1 genannten Titeln bereits vor Ablauf des Haushaltsjahres für einen Teil der zu erwartenden Ausgabereste die Einwilligung zur Übertragung und Inanspruchnahme allgemein zu erteilen.
+
+**12.8 Einzelregelungen**
+
+¹Die in den Nrn. 12.1 bis 12.7 getroffenen Regelungen finden keine Anwendung, soweit in den Einzelplänen in den Vorbemerkungen zum Geltungsbereich der Regelungen zur dezentralen Budgetverantwortung einzelne Bereiche ausdrücklich ausgenommen sind; sie finden zusätzlich Anwendung, soweit dort einzelne Bereiche ausdrücklich einbezogen sind. ²Gekoppelte Einnahmen- und Ausgabetitel, die ausschließlich dem Nachweis von zweckgebundenen Einnahmen dienen, sind grundsätzlich vom Geltungsbereich auszunehmen.

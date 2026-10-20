@@ -1,0 +1,2916 @@
+{
+ "complete": true,
+ "pass_done": [],
+ "pass_failed": [],
+ "laws": {
+  "by-bay224braobefuev": {
+   "lastmod": "2007-10-01",
+   "next_version_from": null
+  },
+  "by-bay_2131_3_7_i": {
+   "lastmod": "1992-08-01",
+   "next_version_from": null
+  },
+  "by-bay_2131_3_8_i": {
+   "lastmod": "1994-06-01",
+   "next_version_from": null
+  },
+  "by-bay_2210_2_5_4_wfk": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-bay_2220_3_uk": {
+   "lastmod": "2013-01-01",
+   "next_version_from": null
+  },
+  "by-bay_2230_1_1_2_uk": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-bay_2237_4_uk": {
+   "lastmod": "2018-01-01",
+   "next_version_from": null
+  },
+  "by-bay_2251_3_2_s": {
+   "lastmod": "2013-01-01",
+   "next_version_from": null
+  },
+  "by-bay_791_3_148_u": {
+   "lastmod": "1994-10-15",
+   "next_version_from": null
+  },
+  "by-bay_791_3_150_u": {
+   "lastmod": "2002-01-01",
+   "next_version_from": null
+  },
+  "by-bay_791_3_151_u": {
+   "lastmod": "2002-01-01",
+   "next_version_from": null
+  },
+  "by-bay_791_3_153_u": {
+   "lastmod": "2002-01-01",
+   "next_version_from": null
+  },
+  "by-bay_791_5_12_u": {
+   "lastmod": "1990-09-01",
+   "next_version_from": null
+  },
+  "by-bay_791_5_5_u": {
+   "lastmod": "1995-09-01",
+   "next_version_from": null
+  },
+  "by-bay_nnmluwunv": {
+   "lastmod": "2026-02-01",
+   "next_version_from": null
+  },
+  "by-bay_zuvlfg": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayaasgebo": {
+   "lastmod": "2018-04-01",
+   "next_version_from": null
+  },
+  "by-bayaav": {
+   "lastmod": "2024-08-15",
+   "next_version_from": null
+  },
+  "by-bayabfalg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayabfpv": {
+   "lastmod": "2015-01-01",
+   "next_version_from": null
+  },
+  "by-bayabfzustv": {
+   "lastmod": "2024-10-01",
+   "next_version_from": null
+  },
+  "by-bayabgg": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-bayabgrg": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayabhgertarbv": {
+   "lastmod": "2025-07-01",
+   "next_version_from": null
+  },
+  "by-bayabmg": {
+   "lastmod": "2015-08-01",
+   "next_version_from": null
+  },
+  "by-bayabob": {
+   "lastmod": "1993-10-01",
+   "next_version_from": null
+  },
+  "by-bayaegkostenv": {
+   "lastmod": "2002-01-01",
+   "next_version_from": null
+  },
+  "by-bayafoeg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayagbafoeg": {
+   "lastmod": "2023-01-01",
+   "next_version_from": null
+  },
+  "by-bayagbbig": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayagbdg": {
+   "lastmod": "2006-01-01",
+   "next_version_from": null
+  },
+  "by-bayagbgb": {
+   "lastmod": "2023-01-01",
+   "next_version_from": null
+  },
+  "by-bayagbmg": {
+   "lastmod": "2023-03-18",
+   "next_version_from": null
+  },
+  "by-bayagbtg": {
+   "lastmod": "2025-12-01",
+   "next_version_from": null
+  },
+  "by-bayagfgo": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayagflurbg": {
+   "lastmod": "2026-07-01",
+   "next_version_from": null
+  },
+  "by-bayagg_10": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayaggluestv": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-bayaggvg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayagihkg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayagpidv": {
+   "lastmod": "2015-01-01",
+   "next_version_from": null
+  },
+  "by-bayagpstg": {
+   "lastmod": "2018-05-25",
+   "next_version_from": null
+  },
+  "by-bayagrarwig": {
+   "lastmod": "2021-01-01",
+   "next_version_from": null
+  },
+  "by-bayagrg": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayagrscho": {
+   "lastmod": "2026-09-01",
+   "next_version_from": null
+  },
+  "by-bayagsg": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayagsgg": {
+   "lastmod": "2020-07-15",
+   "next_version_from": null
+  },
+  "by-bayagtierkbg": {
+   "lastmod": "2023-07-01",
+   "next_version_from": null
+  },
+  "by-bayagttg": {
+   "lastmod": "2021-05-01",
+   "next_version_from": null
+  },
+  "by-bayagvereinsg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayagvwgo": {
+   "lastmod": "2022-05-01",
+   "next_version_from": null
+  },
+  "by-bayagwvg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayagzweigstv": {
+   "lastmod": "2025-12-15",
+   "next_version_from": null
+  },
+  "by-bayakaschoenkv": {
+   "lastmod": "2020-03-18",
+   "next_version_from": null
+  },
+  "by-bayakdb": {
+   "lastmod": "2006-08-01",
+   "next_version_from": null
+  },
+  "by-bayalbv": {
+   "lastmod": "2022-05-01",
+   "next_version_from": null
+  },
+  "by-bayalfv": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayalmg": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayaltersgewv": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-bayanerkv": {
+   "lastmod": "2025-04-01",
+   "next_version_from": null
+  },
+  "by-bayape": {
+   "lastmod": "2025-09-01",
+   "next_version_from": null
+  },
+  "by-bayapo": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayapofspl": {
+   "lastmod": "2021-03-01",
+   "next_version_from": null
+  },
+  "by-bayapolmch": {
+   "lastmod": "2021-07-01",
+   "next_version_from": null
+  },
+  "by-bayarbschv": {
+   "lastmod": "2009-05-01",
+   "next_version_from": null
+  },
+  "by-bayarbzprofv": {
+   "lastmod": "2006-07-01",
+   "next_version_from": null
+  },
+  "by-bayarbzustg": {
+   "lastmod": "2013-06-01",
+   "next_version_from": null
+  },
+  "by-bayarchivbo": {
+   "lastmod": "1996-03-01",
+   "next_version_from": null
+  },
+  "by-bayarchivg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayarchivgl": {
+   "lastmod": "2025-12-15",
+   "next_version_from": null
+  },
+  "by-bayarv": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayasozverwv": {
+   "lastmod": "2015-07-01",
+   "next_version_from": null
+  },
+  "by-bayasylaufng": {
+   "lastmod": "2022-12-16",
+   "next_version_from": null
+  },
+  "by-bayaufbaug": {
+   "lastmod": "2026-05-01",
+   "next_version_from": null
+  },
+  "by-bayaufbewv": {
+   "lastmod": "2025-07-01",
+   "next_version_from": null
+  },
+  "by-bayaufvgem": {
+   "lastmod": "2021-02-01",
+   "next_version_from": null
+  },
+  "by-bayaugstg": {
+   "lastmod": "2018-09-01",
+   "next_version_from": null
+  },
+  "by-bayausfvlkro_53_2": {
+   "lastmod": "2013-04-30",
+   "next_version_from": null
+  },
+  "by-bayausglzv": {
+   "lastmod": "2011-01-01",
+   "next_version_from": null
+  },
+  "by-bayauslgrv": {
+   "lastmod": "2006-07-01",
+   "next_version_from": null
+  },
+  "by-bayauswvam": {
+   "lastmod": "2024-09-01",
+   "next_version_from": null
+  },
+  "by-bayavbaystg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayavbayweinafoeg": {
+   "lastmod": "2021-02-13",
+   "next_version_from": null
+  },
+  "by-bayaveag": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayavfig": {
+   "lastmod": "2025-06-01",
+   "next_version_from": null
+  },
+  "by-bayavfwg": {
+   "lastmod": "2026-04-15",
+   "next_version_from": null
+  },
+  "by-bayavhig": {
+   "lastmod": "2026-03-01",
+   "next_version_from": null
+  },
+  "by-bayavilsg": {
+   "lastmod": "2026-04-15",
+   "next_version_from": null
+  },
+  "by-bayavjg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayavkibig": {
+   "lastmod": "2026-07-28",
+   "next_version_from": null
+  },
+  "by-bayavkirchstg": {
+   "lastmod": "2022-12-31",
+   "next_version_from": null
+  },
+  "by-bayavogfrg": {
+   "lastmod": "2025-04-01",
+   "next_version_from": null
+  },
+  "by-bayavpflewoqg": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayavrdg": {
+   "lastmod": "2026-04-15",
+   "next_version_from": null
+  },
+  "by-bayavschfg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayavsg": {
+   "lastmod": "2026-08-15",
+   "next_version_from": null
+  },
+  "by-bayavsozkipaedg": {
+   "lastmod": "2015-03-01",
+   "next_version_from": null
+  },
+  "by-bayavueg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayavwaffbeschr": {
+   "lastmod": "2024-11-30",
+   "next_version_from": null
+  },
+  "by-bayavwolfv2024": {
+   "lastmod": "2024-11-07",
+   "next_version_from": null
+  },
+  "by-bayavwpg": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-bayazv": {
+   "lastmod": "2023-08-01",
+   "next_version_from": null
+  },
+  "by-baybadegewv": {
+   "lastmod": "2013-04-30",
+   "next_version_from": null
+  },
+  "by-baybaugbzustv": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baybaukag": {
+   "lastmod": "2024-01-01",
+   "next_version_from": null
+  },
+  "by-baybaukavv": {
+   "lastmod": "2023-10-01",
+   "next_version_from": null
+  },
+  "by-baybaupav": {
+   "lastmod": "2022-02-01",
+   "next_version_from": null
+  },
+  "by-baybauvorlv2008": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-baybbighwov": {
+   "lastmod": "2021-09-01",
+   "next_version_from": null
+  },
+  "by-baybeamtvg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baybeauftrg": {
+   "lastmod": "2019-04-01",
+   "next_version_from": null
+  },
+  "by-baybedv": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-baybeheinrv": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-baybekhov": {
+   "lastmod": "2018-01-01",
+   "next_version_from": null
+  },
+  "by-baybekv": {
+   "lastmod": "2024-01-01",
+   "next_version_from": null
+  },
+  "by-baybergskiv": {
+   "lastmod": "2014-09-01",
+   "next_version_from": null
+  },
+  "by-baybergvo": {
+   "lastmod": "2026-06-16",
+   "next_version_from": null
+  },
+  "by-baybesaso": {
+   "lastmod": "2006-08-01",
+   "next_version_from": null
+  },
+  "by-baybeschgebv": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-baybesg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baybestg": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-baybestv": {
+   "lastmod": "2025-04-01",
+   "next_version_from": null
+  },
+  "by-baybetrlnichtbeisb": {
+   "lastmod": "1999-01-01",
+   "next_version_from": null
+  },
+  "by-baybetrverfaufv": {
+   "lastmod": "2023-02-01",
+   "next_version_from": null
+  },
+  "by-baybewav": {
+   "lastmod": "2012-12-31",
+   "next_version_from": null
+  },
+  "by-baybezo": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-baybezvihk": {
+   "lastmod": "2012-12-31",
+   "next_version_from": null
+  },
+  "by-baybezwg": {
+   "lastmod": "2018-04-01",
+   "next_version_from": null
+  },
+  "by-baybfhdiplomv": {
+   "lastmod": "2019-11-01",
+   "next_version_from": null
+  },
+  "by-baybfhg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baybfso2023": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-baybfsogesundheit": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-baybfsomusik": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-baybg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baybgg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baybhv": {
+   "lastmod": "2026-09-01",
+   "next_version_from": null
+  },
+  "by-baybibglv": {
+   "lastmod": "2012-12-01",
+   "next_version_from": null
+  },
+  "by-baybiergv": {
+   "lastmod": "1999-05-01",
+   "next_version_from": null
+  },
+  "by-baybildgrundv": {
+   "lastmod": "2004-08-01",
+   "next_version_from": null
+  },
+  "by-baybkentschvgv": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayblindg": {
+   "lastmod": "2018-02-01",
+   "next_version_from": null
+  },
+  "by-baybo": {
+   "lastmod": "2026-05-01",
+   "next_version_from": null
+  },
+  "by-baybodenschentschv": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-baybodschg": {
+   "lastmod": "2025-12-31",
+   "next_version_from": null
+  },
+  "by-bayboersv": {
+   "lastmod": "2025-09-01",
+   "next_version_from": null
+  },
+  "by-baybofiv": {
+   "lastmod": "2025-12-01",
+   "next_version_from": null
+  },
+  "by-baybqfg": {
+   "lastmod": "2021-01-01",
+   "next_version_from": null
+  },
+  "by-baybrrg_126": {
+   "lastmod": "2009-04-01",
+   "next_version_from": null
+  },
+  "by-baybso": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-baybsof": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-baybstaettv": {
+   "lastmod": "2009-08-01",
+   "next_version_from": null
+  },
+  "by-baybsvv": {
+   "lastmod": "2014-12-31",
+   "next_version_from": null
+  },
+  "by-baybtwahlorgv": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-baybueg": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baycsg": {
+   "lastmod": "2023-01-01",
+   "next_version_from": null
+  },
+  "by-baydarlrueverwg": {
+   "lastmod": "2007-01-01",
+   "next_version_from": null
+  },
+  "by-baydbauv": {
+   "lastmod": "2026-10-01",
+   "next_version_from": null
+  },
+  "by-baydelv": {
+   "lastmod": "2026-06-16",
+   "next_version_from": null
+  },
+  "by-baydg": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-baydienstaag": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-baydienstavsg": {
+   "lastmod": "1965-07-01",
+   "next_version_from": null
+  },
+  "by-baydig": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baydiv": {
+   "lastmod": "2026-04-16",
+   "next_version_from": null
+  },
+  "by-baydohadegv": {
+   "lastmod": "1985-10-01",
+   "next_version_from": null
+  },
+  "by-baydokzugv": {
+   "lastmod": "2008-07-31",
+   "next_version_from": null
+  },
+  "by-baydschg": {
+   "lastmod": "2026-05-01",
+   "next_version_from": null
+  },
+  "by-baydsg": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-baydvafoeg": {
+   "lastmod": "2015-01-01",
+   "next_version_from": null
+  },
+  "by-baydvasyl": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-baydvefg": {
+   "lastmod": "2021-07-01",
+   "next_version_from": null
+  },
+  "by-baydvfag_schkfrg": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baydvfovg": {
+   "lastmod": "2018-01-01",
+   "next_version_from": null
+  },
+  "by-baydvkommdg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-baydvkrg": {
+   "lastmod": "2025-05-01",
+   "next_version_from": null
+  },
+  "by-baydvlarztg": {
+   "lastmod": "2025-02-01",
+   "next_version_from": null
+  },
+  "by-baydvpog": {
+   "lastmod": "2026-08-25",
+   "next_version_from": null
+  },
+  "by-baydvsoschg_2": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-baydvversog": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baydvvwzvg": {
+   "lastmod": "2024-01-01",
+   "next_version_from": null
+  },
+  "by-baydvwehr": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-baydvwor": {
+   "lastmod": "2025-12-31",
+   "next_version_from": null
+  },
+  "by-baydwv": {
+   "lastmod": "2017-01-01",
+   "next_version_from": null
+  },
+  "by-bayeag": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayeaktfgv": {
+   "lastmod": "2026-02-01",
+   "next_version_from": null
+  },
+  "by-bayeaktvarbsozg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayeaktvv": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayebfoeg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayebg": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-bayeboa": {
+   "lastmod": "2013-04-30",
+   "next_version_from": null
+  },
+  "by-bayebv": {
+   "lastmod": "2024-12-17",
+   "next_version_from": null
+  },
+  "by-bayechvo": {
+   "lastmod": "1979-02-01",
+   "next_version_from": null
+  },
+  "by-bayefg": {
+   "lastmod": "2013-04-30",
+   "next_version_from": null
+  },
+  "by-bayeg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayegrillehrv": {
+   "lastmod": "2021-08-13",
+   "next_version_from": null
+  },
+  "by-bayegrilvdolm": {
+   "lastmod": "2023-08-01",
+   "next_version_from": null
+  },
+  "by-bayeinigungsstv": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayeinstellungsv_blga": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-bayeltbauv": {
+   "lastmod": "1998-01-01",
+   "next_version_from": null
+  },
+  "by-bayervv": {
+   "lastmod": "2026-01-31",
+   "next_version_from": null
+  },
+  "by-bayerwschlv": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayeschv": {
+   "lastmod": "2023-05-17",
+   "next_version_from": null
+  },
+  "by-bayestbapo": {
+   "lastmod": "2024-08-01",
+   "next_version_from": null
+  },
+  "by-bayeuev": {
+   "lastmod": "2003-12-16",
+   "next_version_from": null
+  },
+  "by-bayeug": {
+   "lastmod": "2026-10-02",
+   "next_version_from": null
+  },
+  "by-bayeuwahlorgv": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayevbodenseescho": {
+   "lastmod": "2014-11-01",
+   "next_version_from": null
+  },
+  "by-bayevtzdv": {
+   "lastmod": "2017-09-01",
+   "next_version_from": null
+  },
+  "by-bayezg2021": {
+   "lastmod": "2026-07-01",
+   "next_version_from": null
+  },
+  "by-bayfachakadausbv": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-bayfachlaiev": {
+   "lastmod": "2011-08-01",
+   "next_version_from": null
+  },
+  "by-bayfachvarch": {
+   "lastmod": "2013-09-01",
+   "next_version_from": null
+  },
+  "by-bayfachvbibl": {
+   "lastmod": "2015-10-01",
+   "next_version_from": null
+  },
+  "by-bayfachvbtud": {
+   "lastmod": "2025-11-01",
+   "next_version_from": null
+  },
+  "by-bayfachvebtd": {
+   "lastmod": "2021-09-01",
+   "next_version_from": null
+  },
+  "by-bayfachvfw": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayfachvga": {
+   "lastmod": "2019-10-01",
+   "next_version_from": null
+  },
+  "by-bayfachvj": {
+   "lastmod": "2024-12-17",
+   "next_version_from": null
+  },
+  "by-bayfachvle_qe2_3": {
+   "lastmod": "2021-03-01",
+   "next_version_from": null
+  },
+  "by-bayfachvlw": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-bayfachvnvd": {
+   "lastmod": "2024-10-01",
+   "next_version_from": null
+  },
+  "by-bayfachvpol_vs": {
+   "lastmod": "2017-09-01",
+   "next_version_from": null
+  },
+  "by-bayfachvsozverw": {
+   "lastmod": "2025-06-01",
+   "next_version_from": null
+  },
+  "by-bayfachvstf": {
+   "lastmod": "2024-09-01",
+   "next_version_from": null
+  },
+  "by-bayfachvstmf": {
+   "lastmod": "2022-10-01",
+   "next_version_from": null
+  },
+  "by-bayfachvstmuv": {
+   "lastmod": "2014-01-01",
+   "next_version_from": null
+  },
+  "by-bayfachvuvad": {
+   "lastmod": "2025-06-01",
+   "next_version_from": null
+  },
+  "by-bayfachvvermgeo": {
+   "lastmod": "2026-02-01",
+   "next_version_from": null
+  },
+  "by-bayfachvvetd": {
+   "lastmod": "2018-07-01",
+   "next_version_from": null
+  },
+  "by-bayfachvvi": {
+   "lastmod": "2024-11-01",
+   "next_version_from": null
+  },
+  "by-bayfag": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayfagdv02": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayfagdv_alt": {
+   "lastmod": "2017-02-01",
+   "next_version_from": null
+  },
+  "by-bayfahrfreifeu": {
+   "lastmod": "2015-01-01",
+   "next_version_from": null
+  },
+  "by-bayfakalwv": {
+   "lastmod": "2025-09-01",
+   "next_version_from": null
+  },
+  "by-bayfako": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayfamgg": {
+   "lastmod": "2025-12-31",
+   "next_version_from": null
+  },
+  "by-bayfbv": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-bayfeuv2008": {
+   "lastmod": "2013-01-01",
+   "next_version_from": null
+  },
+  "by-bayfev": {
+   "lastmod": "2025-12-31",
+   "next_version_from": null
+  },
+  "by-bayfgv": {
+   "lastmod": "2026-09-08",
+   "next_version_from": null
+  },
+  "by-bayfhschkitraev": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-bayfhvr": {
+   "lastmod": "2010-09-01",
+   "next_version_from": null
+  },
+  "by-bayfideiaufhv": {
+   "lastmod": "1919-10-01",
+   "next_version_from": null
+  },
+  "by-bayfischg": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayflbqualiv": {
+   "lastmod": "2026-06-16",
+   "next_version_from": null
+  },
+  "by-bayflulaermvin": {
+   "lastmod": "2014-04-01",
+   "next_version_from": null
+  },
+  "by-bayflulaermvmm": {
+   "lastmod": "2022-10-01",
+   "next_version_from": null
+  },
+  "by-bayflulaermvn": {
+   "lastmod": "2014-10-01",
+   "next_version_from": null
+  },
+  "by-bayflulaermvnd": {
+   "lastmod": "2013-06-01",
+   "next_version_from": null
+  },
+  "by-bayfo": {
+   "lastmod": "2018-01-01",
+   "next_version_from": null
+  },
+  "by-bayfoboso": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayfoelso": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-bayfog": {
+   "lastmod": "2024-01-01",
+   "next_version_from": null
+  },
+  "by-bayforg": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-bayforgdv": {
+   "lastmod": "2013-04-30",
+   "next_version_from": null
+  },
+  "by-bayforschstg": {
+   "lastmod": "2026-05-01",
+   "next_version_from": null
+  },
+  "by-bayforstorgv": {
+   "lastmod": "2018-01-01",
+   "next_version_from": null
+  },
+  "by-bayfozulg": {
+   "lastmod": "2012-01-01",
+   "next_version_from": null
+  },
+  "by-bayfpo_ii": {
+   "lastmod": "2025-09-15",
+   "next_version_from": null
+  },
+  "by-bayfpragrhwv": {
+   "lastmod": "2024-02-01",
+   "next_version_from": null
+  },
+  "by-bayfraktg": {
+   "lastmod": "2023-08-01",
+   "next_version_from": null
+  },
+  "by-bayfso": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayftg": {
+   "lastmod": "2013-08-01",
+   "next_version_from": null
+  },
+  "by-bayfundv": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayfvgebo": {
+   "lastmod": "2022-05-01",
+   "next_version_from": null
+  },
+  "by-bayfwg": {
+   "lastmod": "2025-07-16",
+   "next_version_from": null
+  },
+  "by-bayfwhoezg": {
+   "lastmod": "2026-07-01",
+   "next_version_from": null
+  },
+  "by-baygapv": {
+   "lastmod": "2025-06-17",
+   "next_version_from": null
+  },
+  "by-baygastv": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baygav": {
+   "lastmod": "2025-10-01",
+   "next_version_from": null
+  },
+  "by-baygbestvbau": {
+   "lastmod": "2023-06-01",
+   "next_version_from": null
+  },
+  "by-baygblwv": {
+   "lastmod": "2018-01-01",
+   "next_version_from": null
+  },
+  "by-baygdg": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-baygdig": {
+   "lastmod": "2018-05-25",
+   "next_version_from": null
+  },
+  "by-baygdpo": {
+   "lastmod": "2022-04-01",
+   "next_version_from": null
+  },
+  "by-baygdvg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baygebaendv_2023": {
+   "lastmod": "2023-06-01",
+   "next_version_from": null
+  },
+  "by-baygeboverm": {
+   "lastmod": "2026-07-01",
+   "next_version_from": null
+  },
+  "by-baygedstg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-baygeoitpo": {
+   "lastmod": "2018-01-01",
+   "next_version_from": null
+  },
+  "by-baygerorgg": {
+   "lastmod": "2018-09-15",
+   "next_version_from": null
+  },
+  "by-baygervollreisekregv": {
+   "lastmod": "2002-01-01",
+   "next_version_from": null
+  },
+  "by-baygerzahlv": {
+   "lastmod": "2017-10-01",
+   "next_version_from": null
+  },
+  "by-baygeschstvo": {
+   "lastmod": "2011-01-01",
+   "next_version_from": null
+  },
+  "by-baygesv": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baygesvsv": {
+   "lastmod": "2025-02-01",
+   "next_version_from": null
+  },
+  "by-bayggebo": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baygkpo": {
+   "lastmod": "2008-07-31",
+   "next_version_from": null
+  },
+  "by-bayglg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayglkrwg": {
+   "lastmod": "2024-01-01",
+   "next_version_from": null
+  },
+  "by-bayglkrwo": {
+   "lastmod": "2025-07-16",
+   "next_version_from": null
+  },
+  "by-baygnadov": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-baygo": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-baygrkrv": {
+   "lastmod": "2025-03-01",
+   "next_version_from": null
+  },
+  "by-baygrstanerkv": {
+   "lastmod": "2005-08-01",
+   "next_version_from": null
+  },
+  "by-baygrstg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baygsg": {
+   "lastmod": "2024-08-01",
+   "next_version_from": null
+  },
+  "by-baygso": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-baygstvoarbg": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayguevo": {
+   "lastmod": "2020-05-01",
+   "next_version_from": null
+  },
+  "by-baygutav": {
+   "lastmod": "2023-01-01",
+   "next_version_from": null
+  },
+  "by-baygutfrkastg": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baygutfrkastgdv": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayguw_gebo": {
+   "lastmod": "2019-03-30",
+   "next_version_from": null
+  },
+  "by-baygventschv20012003": {
+   "lastmod": "2007-09-01",
+   "next_version_from": null
+  },
+  "by-baygvfg": {
+   "lastmod": "2023-03-01",
+   "next_version_from": null
+  },
+  "by-baygzvju": {
+   "lastmod": "2026-10-01",
+   "next_version_from": null
+  },
+  "by-bayhaertev": {
+   "lastmod": "2019-07-01",
+   "next_version_from": null
+  },
+  "by-bayhakaabv": {
+   "lastmod": "2004-01-01",
+   "next_version_from": null
+  },
+  "by-bayhausuv": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayhebbo": {
+   "lastmod": "2022-06-01",
+   "next_version_from": null
+  },
+  "by-bayhebgebv": {
+   "lastmod": "2019-04-01",
+   "next_version_from": null
+  },
+  "by-bayheilbzustv": {
+   "lastmod": "2025-07-01",
+   "next_version_from": null
+  },
+  "by-bayheilfuersv": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayheilquellenv": {
+   "lastmod": "2010-12-01",
+   "next_version_from": null
+  },
+  "by-bayheilvfv": {
+   "lastmod": "2026-09-01",
+   "next_version_from": null
+  },
+  "by-bayhfkomv": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayhfpg": {
+   "lastmod": "2023-07-01",
+   "next_version_from": null
+  },
+  "by-bayhg2019_2020": {
+   "lastmod": "2024-01-01",
+   "next_version_from": null
+  },
+  "by-bayhg2021": {
+   "lastmod": "2024-01-01",
+   "next_version_from": null
+  },
+  "by-bayhg2022": {
+   "lastmod": "2024-01-01",
+   "next_version_from": null
+  },
+  "by-bayhg2023": {
+   "lastmod": "2023-01-01",
+   "next_version_from": null
+  },
+  "by-bayhg2024_2025": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayhg2026_2027": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayhgv": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-bayhig": {
+   "lastmod": "2026-05-16",
+   "next_version_from": null
+  },
+  "by-bayhintg": {
+   "lastmod": "2023-01-01",
+   "next_version_from": null
+  },
+  "by-bayhkag": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayhleistbv": {
+   "lastmod": "2011-01-01",
+   "next_version_from": null
+  },
+  "by-bayhndv": {
+   "lastmod": "2010-12-01",
+   "next_version_from": null
+  },
+  "by-bayho": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-bayhochfhochschp": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-bayhopfdv": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-bayhschlnv": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayhschprueferv": {
+   "lastmod": "2023-10-01",
+   "next_version_from": null
+  },
+  "by-bayhundagressv": {
+   "lastmod": "2002-11-01",
+   "next_version_from": null
+  },
+  "by-bayhwkamtsbzv": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayhwozustv": {
+   "lastmod": "2005-07-01",
+   "next_version_from": null
+  },
+  "by-bayhygv": {
+   "lastmod": "2026-03-17",
+   "next_version_from": null
+  },
+  "by-bayhzg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayhzv": {
+   "lastmod": "2026-05-01",
+   "next_version_from": null
+  },
+  "by-bayifpv": {
+   "lastmod": "2022-02-01",
+   "next_version_from": null
+  },
+  "by-bayilsg": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayimbyg": {
+   "lastmod": "2023-01-01",
+   "next_version_from": null
+  },
+  "by-bayimiv": {
+   "lastmod": "2010-11-01",
+   "next_version_from": null
+  },
+  "by-bayimschg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayingamv": {
+   "lastmod": "2018-03-01",
+   "next_version_from": null
+  },
+  "by-bayingg2016": {
+   "lastmod": "2016-07-20",
+   "next_version_from": null
+  },
+  "by-bayinsektbekv": {
+   "lastmod": "2018-01-01",
+   "next_version_from": null
+  },
+  "by-bayintg": {
+   "lastmod": "2024-12-17",
+   "next_version_from": null
+  },
+  "by-bayintverstvo": {
+   "lastmod": "2015-12-01",
+   "next_version_from": null
+  },
+  "by-bayivuabwwpbv": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayjapo": {
+   "lastmod": "2026-05-01",
+   "next_version_from": null
+  },
+  "by-bayjavollzg": {
+   "lastmod": "2025-07-01",
+   "next_version_from": null
+  },
+  "by-bayjbeitrovbv": {
+   "lastmod": "2018-01-01",
+   "next_version_from": null
+  },
+  "by-bayjfpo": {
+   "lastmod": "2024-08-05",
+   "next_version_from": null
+  },
+  "by-bayjg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayjsog": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayjugarbfreistellg": {
+   "lastmod": "2017-04-01",
+   "next_version_from": null
+  },
+  "by-bayjvkostg": {
+   "lastmod": "2023-01-01",
+   "next_version_from": null
+  },
+  "by-bayjvsev": {
+   "lastmod": "2015-06-01",
+   "next_version_from": null
+  },
+  "by-bayjzv": {
+   "lastmod": "2011-01-01",
+   "next_version_from": null
+  },
+  "by-baykag": {
+   "lastmod": "2024-12-17",
+   "next_version_from": null
+  },
+  "by-baykatfortgebg": {
+   "lastmod": "2018-06-01",
+   "next_version_from": null
+  },
+  "by-baykatschutzg": {
+   "lastmod": "2026-05-01",
+   "next_version_from": null
+  },
+  "by-baykelv": {
+   "lastmod": "1977-04-01",
+   "next_version_from": null
+  },
+  "by-baykg": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-baykhv": {
+   "lastmod": "2008-07-31",
+   "next_version_from": null
+  },
+  "by-baykibig": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baykirchstg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-baykjg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baykleingv": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayklimag": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayklinfbv": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baykoenigshsvermrg": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-baykomglg": {
+   "lastmod": "2021-07-01",
+   "next_version_from": null
+  },
+  "by-baykomkredrgv": {
+   "lastmod": "2021-01-01",
+   "next_version_from": null
+  },
+  "by-baykommhv": {
+   "lastmod": "2024-02-01",
+   "next_version_from": null
+  },
+  "by-baykommhvdoppik": {
+   "lastmod": "2024-02-01",
+   "next_version_from": null
+  },
+  "by-baykommprv": {
+   "lastmod": "2026-09-01",
+   "next_version_from": null
+  },
+  "by-baykommzg": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-baykompruefg": {
+   "lastmod": "2020-08-01",
+   "next_version_from": null
+  },
+  "by-baykompv": {
+   "lastmod": "2020-06-03",
+   "next_version_from": null
+  },
+  "by-baykosterstv": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baykraso": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-baykregg": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-baykregv": {
+   "lastmod": "2018-05-01",
+   "next_version_from": null
+  },
+  "by-baykrg": {
+   "lastmod": "2025-05-01",
+   "next_version_from": null
+  },
+  "by-baykrverguetv": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-baykultamtsbzv": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-baykurtaxv": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-baykuv": {
+   "lastmod": "2024-12-17",
+   "next_version_from": null
+  },
+  "by-baykvzkg": {
+   "lastmod": "2026-07-01",
+   "next_version_from": null
+  },
+  "by-baykwaldv": {
+   "lastmod": "2026-07-01",
+   "next_version_from": null
+  },
+  "by-baykwbg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baykwbnv": {
+   "lastmod": "2015-01-01",
+   "next_version_from": null
+  },
+  "by-baylaborv": {
+   "lastmod": "2025-07-01",
+   "next_version_from": null
+  },
+  "by-baylabv": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayladschlg": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-baylandesbg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baylandstg": {
+   "lastmod": "2024-10-18",
+   "next_version_from": null
+  },
+  "by-baylarbzkoev": {
+   "lastmod": "2021-08-01",
+   "next_version_from": null
+  },
+  "by-baylarztg": {
+   "lastmod": "2021-01-01",
+   "next_version_from": null
+  },
+  "by-baylberbezv": {
+   "lastmod": "2011-11-01",
+   "next_version_from": null
+  },
+  "by-baylbg": {
+   "lastmod": "2023-04-01",
+   "next_version_from": null
+  },
+  "by-baylbrv": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baylehrakdlg": {
+   "lastmod": "1997-10-15",
+   "next_version_from": null
+  },
+  "by-baylep": {
+   "lastmod": "2023-06-01",
+   "next_version_from": null
+  },
+  "by-baylev": {
+   "lastmod": "2014-03-01",
+   "next_version_from": null
+  },
+  "by-baylfbpo": {
+   "lastmod": "2026-09-01",
+   "next_version_from": null
+  },
+  "by-baylffv": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baylflv": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baylfuv_2022": {
+   "lastmod": "2022-02-01",
+   "next_version_from": null
+  },
+  "by-baylglv": {
+   "lastmod": "2025-03-01",
+   "next_version_from": null
+  },
+  "by-baylgrg": {
+   "lastmod": "2024-07-16",
+   "next_version_from": null
+  },
+  "by-baylhafschiffunto": {
+   "lastmod": "2022-04-01",
+   "next_version_from": null
+  },
+  "by-baylkro": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-baylkrsitzv": {
+   "lastmod": "2025-05-01",
+   "next_version_from": null
+  },
+  "by-bayllbg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baylobbyrg": {
+   "lastmod": "2022-01-01",
+   "next_version_from": null
+  },
+  "by-baylpflgg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baylplbv": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baylplg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baylpo_i": {
+   "lastmod": "2025-03-18",
+   "next_version_from": null
+  },
+  "by-baylpo_ii": {
+   "lastmod": "2025-09-15",
+   "next_version_from": null
+  },
+  "by-baylrauszg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baylrauszgav": {
+   "lastmod": "1984-10-01",
+   "next_version_from": null
+  },
+  "by-baylstifterrg": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-baylstvg": {
+   "lastmod": "2024-12-17",
+   "next_version_from": null
+  },
+  "by-bayltuntg": {
+   "lastmod": "2009-05-01",
+   "next_version_from": null
+  },
+  "by-baylwg": {
+   "lastmod": "2022-06-01",
+   "next_version_from": null
+  },
+  "by-baylwo": {
+   "lastmod": "2023-03-01",
+   "next_version_from": null
+  },
+  "by-baylwpruefgebo": {
+   "lastmod": "2017-01-01",
+   "next_version_from": null
+  },
+  "by-baylzpolbig": {
+   "lastmod": "2020-01-01",
+   "next_version_from": null
+  },
+  "by-baymaxog": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baymdstregentschv": {
+   "lastmod": "1993-07-01",
+   "next_version_from": null
+  },
+  "by-baymdvfghentschg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-baymedhygv": {
+   "lastmod": "2017-01-01",
+   "next_version_from": null
+  },
+  "by-baymediend_stvag": {
+   "lastmod": "2024-12-30",
+   "next_version_from": null
+  },
+  "by-baymelddv": {
+   "lastmod": "2025-11-01",
+   "next_version_from": null
+  },
+  "by-baymfg2008": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baymg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baymilchgvollzv": {
+   "lastmod": "2008-01-01",
+   "next_version_from": null
+  },
+  "by-baymischuv2025": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baymodqv": {
+   "lastmod": "2011-10-01",
+   "next_version_from": null
+  },
+  "by-baymog": {
+   "lastmod": "2026-05-16",
+   "next_version_from": null
+  },
+  "by-baymrvg": {
+   "lastmod": "2025-12-01",
+   "next_version_from": null
+  },
+  "by-baymso": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-baymumlv": {
+   "lastmod": "2017-07-01",
+   "next_version_from": null
+  },
+  "by-baynachrohtechv": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baynataltmv": {
+   "lastmod": "1995-10-01",
+   "next_version_from": null
+  },
+  "by-baynatbeivo": {
+   "lastmod": "2007-01-01",
+   "next_version_from": null
+  },
+  "by-baynatbglv": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baynatfrankswv": {
+   "lastmod": "1995-09-01",
+   "next_version_from": null
+  },
+  "by-baynatlandakv": {
+   "lastmod": "2024-09-01",
+   "next_version_from": null
+  },
+  "by-baynatoberpfwv": {
+   "lastmod": "1995-09-01",
+   "next_version_from": null
+  },
+  "by-baynatsalzachv": {
+   "lastmod": "2002-01-01",
+   "next_version_from": null
+  },
+  "by-baynatschg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baynatschgart36a_abs2v": {
+   "lastmod": "2020-12-01",
+   "next_version_from": null
+  },
+  "by-baynatschnoedv": {
+   "lastmod": "2002-01-01",
+   "next_version_from": null
+  },
+  "by-baynatschwachtv": {
+   "lastmod": "2020-07-01",
+   "next_version_from": null
+  },
+  "by-baynatwaldv": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-baynhgv": {
+   "lastmod": "2000-03-01",
+   "next_version_from": null
+  },
+  "by-baynotarv": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-baynparkv1982_1069": {
+   "lastmod": "1986-01-01",
+   "next_version_from": null
+  },
+  "by-baynparkv1982_604": {
+   "lastmod": "1996-08-01",
+   "next_version_from": null
+  },
+  "by-baynparkv1982_614": {
+   "lastmod": "1982-08-27",
+   "next_version_from": null
+  },
+  "by-baynparkv1987_420": {
+   "lastmod": "1987-12-01",
+   "next_version_from": null
+  },
+  "by-baynparkv1988_384": {
+   "lastmod": "1988-12-20",
+   "next_version_from": null
+  },
+  "by-baynparkv1988_95": {
+   "lastmod": "1988-04-01",
+   "next_version_from": null
+  },
+  "by-baynparkv1989_659": {
+   "lastmod": "1989-12-01",
+   "next_version_from": null
+  },
+  "by-baynpvzustv": {
+   "lastmod": "2003-09-01",
+   "next_version_from": null
+  },
+  "by-baynv": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baynwfreiv": {
+   "lastmod": "2008-10-01",
+   "next_version_from": null
+  },
+  "by-bayoeffentlwegev": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayoeffgesaewo": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-bayoeffvettieraewo": {
+   "lastmod": "1999-01-01",
+   "next_version_from": null
+  },
+  "by-bayoepnvg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayoervneuodv": {
+   "lastmod": "2018-07-31",
+   "next_version_from": null
+  },
+  "by-bayoervneuog": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayorgbauv": {
+   "lastmod": "2022-05-01",
+   "next_version_from": null
+  },
+  "by-bayorggag": {
+   "lastmod": "2018-01-17",
+   "next_version_from": null
+  },
+  "by-bayorgwasv": {
+   "lastmod": "2012-04-01",
+   "next_version_from": null
+  },
+  "by-baypag": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baypatanwobefuevo": {
+   "lastmod": "2000-01-01",
+   "next_version_from": null
+  },
+  "by-baypbefkostenv45a": {
+   "lastmod": "2026-10-01",
+   "next_version_from": null
+  },
+  "by-baypbg": {
+   "lastmod": "2016-08-01",
+   "next_version_from": null
+  },
+  "by-bayperhokv": {
+   "lastmod": "2018-01-01",
+   "next_version_from": null
+  },
+  "by-baypetg": {
+   "lastmod": "2006-08-01",
+   "next_version_from": null
+  },
+  "by-baypflabfv": {
+   "lastmod": "2017-07-01",
+   "next_version_from": null
+  },
+  "by-baypflevg": {
+   "lastmod": "2025-06-01",
+   "next_version_from": null
+  },
+  "by-baypflewoqg": {
+   "lastmod": "2023-08-01",
+   "next_version_from": null
+  },
+  "by-baypflgerdv": {
+   "lastmod": "2009-11-01",
+   "next_version_from": null
+  },
+  "by-baypflschsachkv": {
+   "lastmod": "1988-06-01",
+   "next_version_from": null
+  },
+  "by-baypflstg": {
+   "lastmod": "1986-09-01",
+   "next_version_from": null
+  },
+  "by-baypistenkennzv": {
+   "lastmod": "2008-01-01",
+   "next_version_from": null
+  },
+  "by-baypkgg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-baypo_strw": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baypo_z": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baypoa": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baypoeich": {
+   "lastmod": "2021-09-01",
+   "next_version_from": null
+  },
+  "by-baypofdh": {
+   "lastmod": "2014-08-01",
+   "next_version_from": null
+  },
+  "by-baypog": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baypolbilg": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-baypolkv": {
+   "lastmod": "2020-03-01",
+   "next_version_from": null
+  },
+  "by-bayposozversfw": {
+   "lastmod": "2020-07-01",
+   "next_version_from": null
+  },
+  "by-baypozasozifakv": {
+   "lastmod": "2020-08-01",
+   "next_version_from": null
+  },
+  "by-bayprg": {
+   "lastmod": "2018-05-25",
+   "next_version_from": null
+  },
+  "by-bayprostverbotsv": {
+   "lastmod": "2012-12-31",
+   "next_version_from": null
+  },
+  "by-baypruefvbau": {
+   "lastmod": "2021-02-01",
+   "next_version_from": null
+  },
+  "by-baypruefvogymnl": {
+   "lastmod": "2023-05-01",
+   "next_version_from": null
+  },
+  "by-bayprvprofv": {
+   "lastmod": "2024-09-01",
+   "next_version_from": null
+  },
+  "by-baypsychkhg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baypsychprkv": {
+   "lastmod": "2002-06-01",
+   "next_version_from": null
+  },
+  "by-baypukwfv": {
+   "lastmod": "2007-05-01",
+   "next_version_from": null
+  },
+  "by-baypvg": {
+   "lastmod": "2023-08-01",
+   "next_version_from": null
+  },
+  "by-bayqualv": {
+   "lastmod": "2021-07-01",
+   "next_version_from": null
+  },
+  "by-bayqualvfl": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayqvj": {
+   "lastmod": "2023-01-01",
+   "next_version_from": null
+  },
+  "by-bayradg": {
+   "lastmod": "2023-08-01",
+   "next_version_from": null
+  },
+  "by-bayrdg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayrealgewerbeg": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayreisergg": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayreisg": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayrepruevo": {
+   "lastmod": "2008-01-01",
+   "next_version_from": null
+  },
+  "by-bayrettsanv": {
+   "lastmod": "2016-01-01",
+   "next_version_from": null
+  },
+  "by-bayrhg": {
+   "lastmod": "2018-04-01",
+   "next_version_from": null
+  },
+  "by-bayristag": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayrkg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayrkrechtsstg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayrmratv": {
+   "lastmod": "2024-08-15",
+   "next_version_from": null
+  },
+  "by-bayrohranlg94": {
+   "lastmod": "1994-05-01",
+   "next_version_from": null
+  },
+  "by-bayrohrlenteigg": {
+   "lastmod": "2008-07-01",
+   "next_version_from": null
+  },
+  "by-bayrokabwv": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayrprgv": {
+   "lastmod": "2019-01-01",
+   "next_version_from": null
+  },
+  "by-bayrsg": {
+   "lastmod": "1983-12-01",
+   "next_version_from": null
+  },
+  "by-bayrso": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayrufug": {
+   "lastmod": "2023-08-01",
+   "next_version_from": null
+  },
+  "by-bayrvo": {
+   "lastmod": "2007-01-01",
+   "next_version_from": null
+  },
+  "by-baysaberstv": {
+   "lastmod": "2019-01-01",
+   "next_version_from": null
+  },
+  "by-baysachbezv": {
+   "lastmod": "2023-01-01",
+   "next_version_from": null
+  },
+  "by-bayschallzvo": {
+   "lastmod": "2025-02-01",
+   "next_version_from": null
+  },
+  "by-bayschbefv": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayschberv": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayschbquvo": {
+   "lastmod": "2024-08-01",
+   "next_version_from": null
+  },
+  "by-bayscherrichtv": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayschfg": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayschiffo": {
+   "lastmod": "2018-05-01",
+   "next_version_from": null
+  },
+  "by-bayschiffsvev": {
+   "lastmod": "2025-04-16",
+   "next_version_from": null
+  },
+  "by-bayschlg": {
+   "lastmod": "2013-04-30",
+   "next_version_from": null
+  },
+  "by-bayscho2016": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayschospl": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayschulbauv": {
+   "lastmod": "2009-02-01",
+   "next_version_from": null
+  },
+  "by-bayschulgespflv": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayschulkostg": {
+   "lastmod": "2023-08-01",
+   "next_version_from": null
+  },
+  "by-bayschwberg": {
+   "lastmod": "2013-04-30",
+   "next_version_from": null
+  },
+  "by-bayseilbv": {
+   "lastmod": "2018-12-01",
+   "next_version_from": null
+  },
+  "by-bayselbstvkollegg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayseng_2023": {
+   "lastmod": "2024-04-01",
+   "next_version_from": null
+  },
+  "by-baysichpruefg": {
+   "lastmod": "2020-09-01",
+   "next_version_from": null
+  },
+  "by-baysiedlverwv": {
+   "lastmod": "2018-01-01",
+   "next_version_from": null
+  },
+  "by-baysigjurvd": {
+   "lastmod": "2023-04-01",
+   "next_version_from": null
+  },
+  "by-baysitzvergv": {
+   "lastmod": "2011-01-01",
+   "next_version_from": null
+  },
+  "by-baysozkipaedg": {
+   "lastmod": "2025-12-01",
+   "next_version_from": null
+  },
+  "by-bayspielbabv": {
+   "lastmod": "1996-04-01",
+   "next_version_from": null
+  },
+  "by-bayspielbg": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayspielbo": {
+   "lastmod": "2019-10-01",
+   "next_version_from": null
+  },
+  "by-bayspkg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayspko": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-baysportg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayspruefv": {
+   "lastmod": "2018-09-01",
+   "next_version_from": null
+  },
+  "by-baystaatsfoev": {
+   "lastmod": "2008-02-01",
+   "next_version_from": null
+  },
+  "by-baystaatsphilerrg": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baystaatsrrvg": {
+   "lastmod": "2024-12-17",
+   "next_version_from": null
+  },
+  "by-baystaatsschuldbg": {
+   "lastmod": "2007-01-01",
+   "next_version_from": null
+  },
+  "by-baystaoertsitvertv": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-baystatg": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-baystazwstsitzvo": {
+   "lastmod": "1988-03-01",
+   "next_version_from": null
+  },
+  "by-baystbkvollstrg": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-baystfog": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-baystforstregvo": {
+   "lastmod": "2011-01-01",
+   "next_version_from": null
+  },
+  "by-baystg": {
+   "lastmod": "2023-08-01",
+   "next_version_from": null
+  },
+  "by-baystinstfamv": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baystko2019": {
+   "lastmod": "2021-08-01",
+   "next_version_from": null
+  },
+  "by-baystmarbsachbezwv": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baystopferhg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-baystpruefdvju": {
+   "lastmod": "2012-12-31",
+   "next_version_from": null
+  },
+  "by-baystrag": {
+   "lastmod": "2017-01-01",
+   "next_version_from": null
+  },
+  "by-baystrgvv": {
+   "lastmod": "2023-11-08",
+   "next_version_from": null
+  },
+  "by-baystrwg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baystthnstif": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baystudakkv": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-baystudwv": {
+   "lastmod": "2019-10-01",
+   "next_version_from": null
+  },
+  "by-baystusembsv": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-baystvollzg": {
+   "lastmod": "2026-09-15",
+   "next_version_from": null
+  },
+  "by-baysuddtstg": {
+   "lastmod": "2018-08-01",
+   "next_version_from": null
+  },
+  "by-baysuebv": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-baysuehnev": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-baysvvollzg": {
+   "lastmod": "2026-09-15",
+   "next_version_from": null
+  },
+  "by-bayswg": {
+   "lastmod": "2020-01-01",
+   "next_version_from": null
+  },
+  "by-baytgv": {
+   "lastmod": "2018-03-01",
+   "next_version_from": null
+  },
+  "by-baytierzv": {
+   "lastmod": "2023-01-01",
+   "next_version_from": null
+  },
+  "by-baytnav": {
+   "lastmod": "2025-11-01",
+   "next_version_from": null
+  },
+  "by-baytng": {
+   "lastmod": "2021-01-01",
+   "next_version_from": null
+  },
+  "by-baytroncv": {
+   "lastmod": "1996-01-01",
+   "next_version_from": null
+  },
+  "by-baytziwg": {
+   "lastmod": "1969-03-01",
+   "next_version_from": null
+  },
+  "by-bayuebertrglkr": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayuedpo": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-bayuig": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayukg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayumlegungsv": {
+   "lastmod": "2014-11-01",
+   "next_version_from": null
+  },
+  "by-bayunikling": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayuntvergv": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayupzv": {
+   "lastmod": "2018-08-01",
+   "next_version_from": null
+  },
+  "by-bayurlmv": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayustuetzv": {
+   "lastmod": "2025-12-31",
+   "next_version_from": null
+  },
+  "by-bayuvollzg": {
+   "lastmod": "2026-07-01",
+   "next_version_from": null
+  },
+  "by-bayv106bv": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayverdog": {
+   "lastmod": "2000-01-01",
+   "next_version_from": null
+  },
+  "by-bayverf": {
+   "lastmod": "2020-01-01",
+   "next_version_from": null
+  },
+  "by-bayverfog": {
+   "lastmod": "2021-11-01",
+   "next_version_from": null
+  },
+  "by-bayvergv_lpo_i": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayvermbezv": {
+   "lastmod": "2007-01-01",
+   "next_version_from": null
+  },
+  "by-bayvermgeolev_4qe": {
+   "lastmod": "2025-11-01",
+   "next_version_from": null
+  },
+  "by-bayvermkatg": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayvermkatvo": {
+   "lastmod": "2015-08-01",
+   "next_version_from": null
+  },
+  "by-bayversg": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-bayversg08": {
+   "lastmod": "2021-08-01",
+   "next_version_from": null
+  },
+  "by-bayversrueg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayverswg": {
+   "lastmod": "2024-01-01",
+   "next_version_from": null
+  },
+  "by-bayvertrv": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayverwbbeisv": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-bayverwfachangausbv": {
+   "lastmod": "1999-08-01",
+   "next_version_from": null
+  },
+  "by-bayverwfachangihk": {
+   "lastmod": "1983-01-01",
+   "next_version_from": null
+  },
+  "by-bayverwschulg": {
+   "lastmod": "2020-08-01",
+   "next_version_from": null
+  },
+  "by-bayvfghg": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayvfprf": {
+   "lastmod": "2025-02-01",
+   "next_version_from": null
+  },
+  "by-bayvfv": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-bayvgemo": {
+   "lastmod": "2024-01-01",
+   "next_version_from": null
+  },
+  "by-bayvgtiers": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayvhbst": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-bayvirthschv": {
+   "lastmod": "2005-10-01",
+   "next_version_from": null
+  },
+  "by-bayvkv": {
+   "lastmod": "2017-12-30",
+   "next_version_from": null
+  },
+  "by-bayvogev06": {
+   "lastmod": "2016-04-01",
+   "next_version_from": null
+  },
+  "by-bayvollstrvv": {
+   "lastmod": "2020-03-16",
+   "next_version_from": null
+  },
+  "by-bayvpsw": {
+   "lastmod": "2025-07-01",
+   "next_version_from": null
+  },
+  "by-bayvsg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayvso": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayvsof": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayvstaettv": {
+   "lastmod": "2018-09-01",
+   "next_version_from": null
+  },
+  "by-bayvsubodaltv": {
+   "lastmod": "2017-12-01",
+   "next_version_from": null
+  },
+  "by-bayvvb": {
+   "lastmod": "2012-12-30",
+   "next_version_from": null
+  },
+  "by-bayvvpstg": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-bayvwv9421": {
+   "lastmod": "2007-05-01",
+   "next_version_from": null
+  },
+  "by-bayvwvfg": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayvwzvg": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayvzblh": {
+   "lastmod": "2026-09-01",
+   "next_version_from": null
+  },
+  "by-baywahlopolbil": {
+   "lastmod": "2003-09-01",
+   "next_version_from": null
+  },
+  "by-baywaldg": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-baywaschainvv": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-baywbgbv": {
+   "lastmod": "2007-05-01",
+   "next_version_from": null
+  },
+  "by-bayweinafoeg": {
+   "lastmod": "2018-07-01",
+   "next_version_from": null
+  },
+  "by-bayweingartgebo": {
+   "lastmod": "2011-01-01",
+   "next_version_from": null
+  },
+  "by-bayweinrav": {
+   "lastmod": "2023-12-15",
+   "next_version_from": null
+  },
+  "by-bayweltengnatmon": {
+   "lastmod": "2020-03-01",
+   "next_version_from": null
+  },
+  "by-baywg": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-baywgv": {
+   "lastmod": "2005-10-01",
+   "next_version_from": null
+  },
+  "by-baywkkv": {
+   "lastmod": "2024-12-17",
+   "next_version_from": null
+  },
+  "by-baywkpv": {
+   "lastmod": "2024-12-17",
+   "next_version_from": null
+  },
+  "by-baywo_baypvg": {
+   "lastmod": "2023-08-01",
+   "next_version_from": null
+  },
+  "by-baywobindg": {
+   "lastmod": "2024-08-01",
+   "next_version_from": null
+  },
+  "by-baywofg": {
+   "lastmod": "2018-05-01",
+   "next_version_from": null
+  },
+  "by-baywolfv2024": {
+   "lastmod": "2024-11-01",
+   "next_version_from": null
+  },
+  "by-baywpbv": {
+   "lastmod": "2010-12-01",
+   "next_version_from": null
+  },
+  "by-baywpg": {
+   "lastmod": "2013-06-01",
+   "next_version_from": null
+  },
+  "by-baywso": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-baywvswaldvv": {
+   "lastmod": "2013-04-30",
+   "next_version_from": null
+  },
+  "by-bayzalbv": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-bayzalg": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-bayzalgh": {
+   "lastmod": "2023-04-29",
+   "next_version_from": null
+  },
+  "by-bayzalr": {
+   "lastmod": "2014-08-30",
+   "next_version_from": null
+  },
+  "by-bayzals": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayzapo_foelii": {
+   "lastmod": "2024-01-01",
+   "next_version_from": null
+  },
+  "by-bayzapo_uev": {
+   "lastmod": "2011-01-01",
+   "next_version_from": null
+  },
+  "by-bayzapofi": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-bayzapogtf_hf": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-bayzapohgesd": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-bayzapoj": {
+   "lastmod": "2026-09-01",
+   "next_version_from": null
+  },
+  "by-bayzapomgesd": {
+   "lastmod": "2015-06-01",
+   "next_version_from": null
+  },
+  "by-bayzapovetmtd": {
+   "lastmod": "2020-03-01",
+   "next_version_from": null
+  },
+  "by-bayzeprv": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayzgausland": {
+   "lastmod": "2024-08-01",
+   "next_version_from": null
+  },
+  "by-bayzlv": {
+   "lastmod": "2025-08-01",
+   "next_version_from": null
+  },
+  "by-bayzqualvbau": {
+   "lastmod": "2021-08-16",
+   "next_version_from": null
+  },
+  "by-bayzulv": {
+   "lastmod": "2026-01-01",
+   "next_version_from": null
+  },
+  "by-bayzusevo": {
+   "lastmod": "2019-05-01",
+   "next_version_from": null
+  },
+  "by-bayzustg": {
+   "lastmod": "2026-05-01",
+   "next_version_from": null
+  },
+  "by-bayzustgluu": {
+   "lastmod": "2021-01-01",
+   "next_version_from": null
+  },
+  "by-bayzustgverk": {
+   "lastmod": "2024-12-17",
+   "next_version_from": null
+  },
+  "by-bayzustv": {
+   "lastmod": "2026-10-01",
+   "next_version_from": null
+  },
+  "by-bayzustv_beg_ssv": {
+   "lastmod": "2018-11-01",
+   "next_version_from": null
+  },
+  "by-bayzustv_bezuege": {
+   "lastmod": "2025-12-01",
+   "next_version_from": null
+  },
+  "by-bayzustvam": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-bayzustvamueb": {
+   "lastmod": "2024-07-01",
+   "next_version_from": null
+  },
+  "by-bayzustvauslr": {
+   "lastmod": "2026-07-16",
+   "next_version_from": null
+  },
+  "by-bayzustvbm": {
+   "lastmod": "2024-11-01",
+   "next_version_from": null
+  },
+  "by-bayzustvfm": {
+   "lastmod": "2025-01-01",
+   "next_version_from": null
+  },
+  "by-bayzustvga": {
+   "lastmod": "2026-07-01",
+   "next_version_from": null
+  },
+  "by-bayzustvgm": {
+   "lastmod": "2015-10-01",
+   "next_version_from": null
+  },
+  "by-bayzustvim2007": {
+   "lastmod": "2019-09-01",
+   "next_version_from": null
+  },
+  "by-bayzustvjm": {
+   "lastmod": "2023-04-01",
+   "next_version_from": null
+  },
+  "by-bayzustvkm": {
+   "lastmod": "2026-08-01",
+   "next_version_from": null
+  },
+  "by-bayzustvlm": {
+   "lastmod": "2022-07-01",
+   "next_version_from": null
+  },
+  "by-bayzustvmesse": {
+   "lastmod": "2015-05-01",
+   "next_version_from": null
+  },
+  "by-bayzustvst": {
+   "lastmod": "2026-10-01",
+   "next_version_from": null
+  },
+  "by-bayzustvum": {
+   "lastmod": "2022-06-01",
+   "next_version_from": null
+  },
+  "by-bayzustvverk": {
+   "lastmod": "2026-02-01",
+   "next_version_from": null
+  },
+  "by-bayzustvwfkm": {
+   "lastmod": "2025-07-01",
+   "next_version_from": null
+  },
+  "by-bayzustvwm": {
+   "lastmod": "2015-01-01",
+   "next_version_from": null
+  },
+  "by-bayzustwaffvim": {
+   "lastmod": "2024-11-01",
+   "next_version_from": null
+  },
+  "by-bayzustwig": {
+   "lastmod": "2026-05-01",
+   "next_version_from": null
+  },
+  "by-bayzuvschfw": {
+   "lastmod": "2025-06-01",
+   "next_version_from": null
+  },
+  "by-bayzuwvadwag": {
+   "lastmod": "2017-02-01",
+   "next_version_from": null
+  },
+  "by-bayzvenev": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  },
+  "by-bayzvstaatsabehoede": {
+   "lastmod": "2005-01-01",
+   "next_version_from": null
+  },
+  "by-bayzweckvermg": {
+   "lastmod": "2024-12-17",
+   "next_version_from": null
+  },
+  "by-bayzwewg2008": {
+   "lastmod": "2026-04-01",
+   "next_version_from": null
+  }
+ },
+ "cache": {}
+}
