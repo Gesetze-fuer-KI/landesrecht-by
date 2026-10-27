@@ -2,14 +2,14 @@
 land: BY
 abkuerzung: DVPOG
 titel: Verordnung zur Durchführung des Polizeiorganisationsgesetzes
-stand: Fassung gültig ab 25.08.2026
-gilt_ab: '2026-08-25'
+stand: Fassung gültig ab 27.10.2026
+gilt_ab: '2026-10-27'
 quelle: https://www.gesetze-bayern.de/Content/Document/BayDVPOG
 ---
 
 # Verordnung zur Durchführung des Polizeiorganisationsgesetzes (DVPOG)
 
-Stand: Fassung gültig ab 25.08.2026
+Stand: Fassung gültig ab 27.10.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BayDVPOG>
 
@@ -446,8 +446,8 @@ Dr. Günther Beckstein, Staatsminister
 | 10.23 | Kriminalpolizeiinspektion Neu-Ulm |
 | 10.24 | Kriminalpolizeiinspektion mit Zentralaufgaben Schwaben Süd/West (Sitz: Neu-Ulm) |
 | 10.25 | Verkehrspolizeiinspektion Kempten (Allgäu) |
+| 10.25.1 | Autobahnpolizeistation Memmingen |
 | 10.26 | Verkehrspolizeiinspektion Günzburg |
-| 10.26.1 | Autobahnpolizeistation Memmingen |
 
 <!-- norm id="anlage2" -->
 ## Anlage 2 Dienststellen der Bayerischen Bereitschaftspolizei
