@@ -2,14 +2,14 @@
 land: BY
 abkuerzung: AVSG
 titel: Verordnung zur Ausführung der Sozialgesetze
-stand: Fassung gültig ab 15.08.2026
-gilt_ab: '2026-08-15'
+stand: Fassung gültig ab 31.10.2026
+gilt_ab: '2026-10-31'
 quelle: https://www.gesetze-bayern.de/Content/Document/BayAVSG
 ---
 
 # Verordnung zur Ausführung der Sozialgesetze (AVSG)
 
-Stand: Fassung gültig ab 15.08.2026
+Stand: Fassung gültig ab 31.10.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BayAVSG>
 
@@ -1884,13 +1884,261 @@ festgestellt.
 (2) Die für die Auskunfts- und Mitteilungspflichten maßgeblichen Unterlagen sind mindestens fünf Jahre aufzubewahren.
 
 <!-- gliederung id="teil17" ebene="1" -->
-## Teil 17 Schlussvorschriften
+## Teil 17 Vorschriften für den Bereich des Gewalthilfegesetzes
+
+<!-- gliederung id="teil17-abschnitt1" ebene="2" -->
+### Abschnitt 1 Trägeranerkennungsverfahren
 
 <!-- norm id="par154" -->
-### § 154 (aufgehoben)
+#### § 154 Trägeranerkennungsverfahren
+
+(1) Dem Antrag auf Anerkennung nach § 7 des Gewalthilfegesetzes (GewHG) ist das fachliche Konzept der bestehenden oder geplanten Einrichtung nach § 6 Abs. 3 GewHG beizufügen sowie gegebenenfalls ein Nachweis über die Mitgliedschaft in einem anerkannten Verband oder in einem etablierten Fachverband im Sinne des § 7 Abs. 5 GewHG.
+
+(2) Die Anerkennung begründet keinen Anspruch des Trägers auf eine Finanzierung.
+
+<!-- gliederung id="teil17-abschnitt2" ebene="2" -->
+### Abschnitt 2 Nähere Ausgestaltung der Vorgaben für Einrichtungen und Finanzierung
+
+<!-- gliederung id="teil17-abschnitt2-unterabschnitt1" ebene="3" -->
+#### Unterabschnitt 1 Allgemeine Vorschriften
 
 <!-- norm id="par155" -->
-### § 155 Inkrafttreten, Außerkrafttreten
+##### § 155 Voraussetzungen
+
+¹Anerkannte Träger erhalten auf Antrag für jeweils ein Kalenderjahr (Bewilligungszeitraum) einen staatlichen Zuschuss nach Maßgabe der Unterabschnitte 3 und 4, soweit ihre Einrichtungen den Anforderungen des Unterabschnitts 2 genügen und entsprechend der Entwicklungsplanung zur Sicherstellung des Netzes an Schutz- und Beratungsangeboten nach § 8 Abs. 1 und 2 GewHG erforderlich sind. ²Beantragen verschiedene Träger einen Zuschuss für Einrichtungen, die gleich geeignet sind, einen bestimmten Bedarf entsprechend der Entwicklungsplanung zu decken, gelten die Einrichtungen anteilig zu gleichen Teilen als erforderlich. ³Sich nach Satz 2 ergebende Bruchteile von Frauenschutzplätzen werden auf ganze Plätze aufgerundet.
+
+<!-- norm id="par156" -->
+##### § 156 Form und Frist
+
+(1) ¹Der Träger der Einrichtung soll den Antrag auf Gewährung eines staatlichen Zuschusses unter Verwendung des hierfür auf der Internetseite des Zentrums Bayern Familie und Soziales (ZBFS) zur Verfügung gestellten Antragsformulars spätestens jeweils bis zum 31. Oktober des dem beantragten Finanzierungsjahres vorangehenden Jahres bei dem ZBFS einreichen. ²Treten die Zuschussvoraussetzungen erstmalig im Laufe des Bewilligungszeitraumes ein oder ergeben sich bei bereits bewilligten Finanzierungen unterjährig Veränderungen, die eine Erhöhung oder Kürzung der Finanzierung zur Folge haben, wird der erstmalige oder angepasste Zuschuss frühestens ab dem Zeitpunkt ausbezahlt, zu dem die Veränderung der entscheidungserheblichen Umstände eingetreten ist. ³Die Erhöhung des Zuschusses bedarf eines vorherigen Antrags. ⁴Die Auszahlung erfolgt frühestens im Monat der Antragstellung. ⁵Einmalige Sachkosten können für den Bewilligungszeitraum beantragt werden, in dem sie anfallen.
+
+(2) ¹Dem Antrag sind beizufügen:
+
+- 1\. ein Konzept, das die Vorgaben des § 6 Abs. 3 GewHG erfüllt,
+- 2\. Angaben und Nachweise zur Qualifikation der eingeplanten Fachkräfte sowie zum jeweiligen Vollzeitäquivalent (VZÄ) und zur Eingruppierung nach dem einschlägigen Tarifvertrag,
+- 3\. ein summarischer Ausgabenplan hinsichtlich der einmaligen Sachkosten sowie der Kaltmiete, sofern hierfür ein Zuschuss beantragt wurde.
+
+²Bei Folgeanträgen im Geltungsbereich dieses Teils kann auf die erneute Vorlage der Anlagen nach Satz 1 verzichtet werden, sofern keine Änderungen hinsichtlich der entscheidungserheblichen Umstände eingetreten sind.
+
+(3) Die Träger sind verpflichtet, im Rahmen des Antragsverfahrens für den Bewilligungszeitraum 2027 ihre Sachkosten für das Jahr 2026 offenzulegen.
+
+<!-- norm id="par157" -->
+##### § 157 Auszahlungsmodalitäten
+
+¹Der staatliche Zuschuss wird in quartalsmäßigen Abschlagszahlungen im laufenden Jahr an die Träger überwiesen. ²Die Zahlung erfolgt jeweils bis zur Mitte jedes Quartals. ³Wird ein Antrag innerhalb eines laufenden Jahres gestellt, erfolgt die Zahlung bis zur Mitte des Quartals, das auf die Verbescheidung folgt.
+
+<!-- gliederung id="teil17-abschnitt2-unterabschnitt2" ebene="3" -->
+#### Unterabschnitt 2 Anforderungen an die Einrichtungen und Pflichten der Träger
+
+<!-- norm id="par158" -->
+##### § 158 Nähere Ausgestaltung der Vorgaben für Frauenschutzeinrichtungen
+
+(1) ¹Das Konzept von Frauenschutzeinrichtungen muss darauf ausgerichtet sein, gegenwärtig von häuslicher oder geschlechtsspezifischer Gewalt betroffenen oder bedrohten Frauen und ihren Kindern eine geschützte, temporäre Unterkunft mit psychosozialer Beratung und Unterstützung zu bieten. ²Ebenso müssen die Kooperation und Vernetzung mit anderen Einrichtungen nach dem Gewalthilfegesetz, geeigneten Fachstellen für Täterarbeit, allgemeinen Hilfsdiensten, Institutionen und Behörden, zielgruppenspezifische und -übergreifende Präventionsarbeit sowie Öffentlichkeitsarbeit gewährleistet sein.
+
+(2) ¹In der Einrichtung müssen mindestens drei Plätze für von häuslicher oder geschlechtsspezifischer Gewalt betroffene Frauen und zusätzliche Plätze für deren Kinder bereitgestellt werden. ²Von der Bereitstellung von Kinderplätzen kann nur in besonders zu begründenden Ausnahmefällen abgesehen werden.
+
+(3) ¹Die Einrichtungen müssen unabhängig von einer Aufnahme in die Frauenschutzeinrichtung eine telefonische und persönliche Beratung von hilfesuchenden gewaltbetroffenen Frauen gewährleisten. ²Die Einrichtungen sollen auch digitale Beratung anbieten. ³Die Einrichtungen müssen rund um die Uhr erreichbar sein. ⁴Satz 3 gilt nicht, soweit nahegelegene Einrichtungen kooperieren und durch einen Bereitschaftsplan eine grundsätzliche 24-stündige Erreichbarkeit und Aufnahmebereitschaft sicherstellen.
+
+(4) ¹Nach den Vorgaben des § 4 Abs. 2 GewHG wird die Notwendigkeit des Aufenthalts in einer Frauenschutzeinrichtung fortlaufend von der Einrichtung überprüft. ²Die Aufenthaltsdauer richtet sich nach der individuellen Situation der Frau; sie soll in der Regel zehn Wochen nicht überschreiten.
+
+(5) ¹Frauenschutzeinrichtungen sollen darüber hinaus Frauen, die den hohen Schutz und die intensive psychosoziale Beratung und Unterstützung in einer Schutzeinrichtung nicht mehr benötigen, Unterstützung bei der Suche nach einer eigenen Wohnung und beim Übergang in ein neues Lebensumfeld bieten. ²Frauenschutzeinrichtungen können Frauen, die vorher in der Frauenschutzeinrichtung untergebracht waren, für eine befristete Zeit eine Übergangswohnung zur Verfügung stellen.
+
+(6) Im Übrigen bleiben die Vorgaben für Einrichtungen nach § 6 GewHG unberührt.
+
+<!-- norm id="par159" -->
+##### § 159 Nähere Ausgestaltung der Vorgaben für Fachberatungsstellen
+
+(1) ¹Das Konzept von Fachberatungsstellen muss darauf ausgerichtet sein, gewaltbetroffenen Personen im Sinne des § 2 Abs. 3 GewHG eine ambulante psychosoziale Beratung und Unterstützung zur kurz- oder langfristigen Bewältigung der Gewaltsituation sowie zur Überwindung und Verarbeitung der Gewalterfahrung zu bieten. ²Ebenso muss die Beratung von Bezugspersonen der von häuslicher oder geschlechtsspezifischer Gewalt betroffenen Frauen und von Fachkräften, die Kooperation und Vernetzung mit anderen Einrichtungen nach dem Gewalthilfegesetz, geeigneten Fachstellen für Täterarbeit, allgemeinen Hilfsdiensten, Institutionen und Behörden, zielgruppenspezifische und -übergreifende Präventionsarbeit sowie Öffentlichkeitsarbeit gewährleistet sein. ³Die Einrichtung soll auch digitale und bei Bedarf aufsuchende Beratung anbieten.
+
+(2) ¹Interventionsstellen sind Fachberatungsstellen, die nach einem polizeilichen Einsatz wegen häuslicher Gewalt mit der gewaltbetroffenen Frau Kontakt aufnehmen und ambulante psychosoziale Beratung anbieten, sofern die gewaltbetroffene Frau der Weitergabe ihrer Kontaktdaten durch die Polizei an die Interventionsstelle zustimmt. ²Die Kontaktaufnahme der Interventionsstelle mit der gewaltbetroffenen Frau muss durch in der Regel drei Telefonanrufe innerhalb von drei Werktagen nach dem Polizeieinsatz erfolgen. ³Nach der telefonischen Kontaktaufnahme erfolgen bis zu drei Folgeberatungen. ⁴Zur Umsetzung dieses Auftrags haben sich Interventionsstellen mit Frauenschutzeinrichtungen und Fachberatungsstellen nach Abs. 1 zu vernetzen und zusammenzuarbeiten und Kooperationsvereinbarungen mit den umliegenden Polizeiinspektionen des Einzugsbereichs abzuschließen.
+
+(3) Im Übrigen bleiben die Vorgaben für Einrichtungen nach § 6 GewHG unberührt.
+
+<!-- norm id="par160" -->
+##### § 160 Pflichten der Träger
+
+(1) ¹Die Träger der Schutz- und Beratungseinrichtungen sind verpflichtet, die in Erfüllung ihrer Aufgaben ergriffenen Maßnahmen vollständig und nachvollziehbar zu dokumentieren. ²Davon nicht umfasst ist die vertrauliche einzelfallbezogene Fach- und Beratungsdokumentation. ³Bei Frauenschutzeinrichtungen sind mindestens zu dokumentieren:
+
+- 1\. Belegungs- und Abweisungszahlen für jeden Bewilligungszeitraum,
+- 2\. Aufenthaltsdauer,
+- 3\. Angabe zu den Bedarfen der gewaltbetroffenen Person,
+- 4\. Gründe für die Abweisung, Anzahl der Personen, die ein angemessenes Schutzangebot abgelehnt haben, sowie Gründe für deren Ablehnung,
+- 5\. unternommene Maßnahmen zur Weitervermittlung in eine andere Frauenschutzeinrichtung und
+- 6\. ergriffene Maßnahmen zur Präventions-, Vernetzungs- und Öffentlichkeitsarbeit.
+
+⁴Bei Fachberatungsstellen einschließlich der Interventionsstellen sind mindestens zu dokumentieren:
+
+- 1\. die Anzahl der erfolgten Beratungen,
+- 2\. Art, Umfang und Dauer der Beratung,
+- 3\. Anzahl der Fälle im jeweiligen Bewilligungszeitraum, in denen kein Beratungsangebot unterbreitet werden konnte unter Nennung von Gründen,
+- 4\. unternommene Maßnahmen zur Weitervermittlung an eine andere Fachberatungsstelle, eine andere Interventionsstelle oder eine Frauenschutzeinrichtung und
+- 5\. ergriffene Maßnahmen zur Präventions-, Vernetzungs- und Öffentlichkeitsarbeit.
+
+⁵Die Unterlagen sind für einen Zeitraum von fünf Jahren nach Ablauf des Bewilligungszeitraums aufzubewahren und dem ZBFS auf dessen Verlangen vorzulegen. ⁶Soweit ein Zuschuss bewilligt wurde, sind die Unterlagen über die tatsächlich angefallenen Personalkosten, die gezahlte Kaltmiete sowie die angefallenen einmaligen Sachkosten zum Zwecke dieses Teils bis zum Ablauf des auf den Bewilligungszeitraum folgenden Jahres aufzubewahren und dem ZBFS auf dessen Verlangen vorzulegen.
+
+(2) ¹Die Träger der Einrichtungen sind verpflichtet, dem Staatsministerium für Familie, Arbeit und Soziales auf Verlangen die für die Ausgangsanalyse und Entwicklungsplanung sowie die für die Aufstellung eines Finanzierungskonzepts erforderlichen Angaben zu übermitteln und über alle dafür bedeutsamen Angelegenheiten Auskunft zu erteilen. ²Die der Auskunftserteilung nach Satz 1 zugrundeliegenden Daten sind mindestens fünf Jahre aufzubewahren.
+
+(3) Die in den Abs. 1 und 2 genannten Auskunfts- und Dokumentationspflichten sind als Auflagen in einen Bewilligungsbescheid aufzunehmen.
+
+(4) Die Dokumentation soll digital erfolgen.
+
+(5) Die Träger der Einrichtungen sind zur Kooperation mit anderen Hilfsdiensten und Behörden, den Einrichtungen des Gesundheitswesens, den öffentlichen und freien Trägern der Kinder- und Jugendhilfe, den Polizei- und Ordnungsbehörden, den Kommunen, der Landeskoordinierungsstelle „Bayern gegen Gewalt“ im Sinne des Art. 10 der Istanbul-Konvention, der Justiz sowie mit Bildungseinrichtungen, zivilgesellschaftlichen Strukturen und mit sonstigen relevanten Einrichtungen oder Berufsträgern verpflichtet.
+
+<!-- gliederung id="teil17-abschnitt2-unterabschnitt3" ebene="3" -->
+#### Unterabschnitt 3 Zuschussfähige Personalkosten
+
+<!-- norm id="par161" -->
+##### § 161 Zuschussfähiges Personal für Frauenschutzeinrichtungen
+
+(1) ¹Zuschussfähig für Frauenschutzeinrichtungen sind Personalausgaben für geeignete Fachkräfte nach den Abs. 2 bis 6 sowie für Verwaltungskräfte, Reinigungskräfte und Gebäudemanagement. ²Zu den Aufgaben des Fachpersonals zählen auch Prävention und Öffentlichkeitsarbeit.
+
+(2) Geeignete Fachkräfte für die psychosoziale Beratung und Unterstützung gewaltbetroffener Frauen in Frauenschutzeinrichtungen und für die Unterstützung beim Übergang in ein neues Lebensumfeld sind Sozialpädagoginnen und Sozialpädagogen, Sozialarbeiterinnen und Sozialarbeiter, Psychologinnen und Psychologen sowie Ärztinnen und Ärzte.
+
+(3) Geeignete Fachkräfte für die psychosoziale Beratung und Unterstützung der Kinder in Frauenschutzeinrichtungen und für die Unterstützung beim Übergang in ein neues Lebensumfeld sind neben den in Abs. 2 genannten Fachkräften auch Erzieherinnen und Erzieher sowie Kinderpflegerinnen und Kinderpfleger.
+
+(4) Geeignete Fachkräfte für Leitung und Geschäftsführung sind neben den in Abs. 2 genannten auch Sozialwirtinnen und Sozialwirte sowie Betriebswirtinnen und Betriebswirte.
+
+(5) Geeignete Fachkräfte für die Unterstützung bei der Suche nach einer eigenen Wohnung sind neben den in Abs. 2 genannten auch Personen mit Qualifikation im Bereich der Immobilienwirtschaft.
+
+(6) Personen mit fachlich vergleichbaren Qualifikationen oder entsprechender einschlägiger Berufspraxis werden von den Abs. 2 bis 5 jeweils mitumfasst.
+
+<!-- norm id="par162" -->
+##### § 162 Höhe der zuschussfähigen VZÄ für Frauenschutzeinrichtungen
+
+(1) Die Höhe der maximal zuschussfähigen VZÄ bemisst sich nach der Anzahl der vorgehaltenen und entsprechend der Entwicklungsplanung erforderlichen Frauen- und Kinderplätze.
+
+(2) Für Aufgaben nach § 158 Abs. 1 gilt Folgendes:
+
+- 1\. für die psychosoziale Beratung und Unterstützung der Frauen sind maximal zuschussfähig
+  - a) bei bis zu vier Frauenplätzen 1,25 VZÄ,
+  - b) bei fünf bis sieben Frauenplätzen 1,5 VZÄ und
+  - c) für jeden weiteren Frauenplatz zusätzlich 0,2 VZÄ;
+- 2\. für die psychosoziale Beratung und Unterstützung der Kinder sind maximal zuschussfähig
+  - a) bei bis zu vier Kinderplätzen 0,75 VZÄ,
+  - b) bei fünf bis sieben Kinderplätzen 1,0 VZÄ und
+  - c) für jeden weiteren Kinderplatz zusätzlich 0,1 VZÄ;
+- 3\. für die Leitung und Geschäftsführung sind maximal zuschussfähig
+  - a) bei bis zu vier Frauenplätzen 0,2 VZÄ,
+  - b) bei fünf bis neun Frauenplätzen 0,25 VZÄ,
+  - c) bei zehn bis 20 Frauenplätzen 0,50 VZÄ,
+  - d) bei 21 bis 30 Frauenplätzen 0,75 VZÄ und
+  - e) ab 31 Frauenplätzen 1,0 VZÄ;
+- 4\. für die Verwaltung, Reinigungskräfte und Gebäudemanagement sind maximal zuschussfähig
+  - a) bei bis zu vier Frauenplätzen 0,2 VZÄ,
+  - b) bei fünf bis neun Frauenplätzen 0,25 VZÄ,
+  - c) bei zehn bis 20 Frauenplätzen 0,50 VZÄ,
+  - d) bei 21 bis 30 Frauenplätzen 0,75 VZÄ und
+  - e) ab 31 Frauenplätzen 1,0 VZÄ.
+
+(3) ¹Für das Angebot im Sinne des § 158 Abs. 5 Satz 1 bemisst sich die Höhe der maximal zuschussfähigen VZÄ nach der Anzahl der vorgehaltenen und entsprechend der Entwicklungsplanung erforderlichen Frauenplätze in der Frauenschutzeinrichtung. ²Dabei gilt eine Höchstgrenze von 30 Frauenplätzen. ³Für die ersten drei Frauenplätze ist maximal ein Stellenanteil von 0,94 VZÄ zuschussfähig; für jeden weiteren Frauenplatz erhöht sich der zuschussfähige Stellenanteil um maximal 0,17 VZÄ.
+
+<!-- norm id="par163" -->
+##### § 163 Höhe der zuschussfähigen Personalausgaben für Frauenschutzeinrichtungen
+
+¹Zuschussfähig sind die tatsächlich anfallenden Personalausgaben, maximal:
+
+- 1\. für Sozialpädagoginnen und Sozialpädagogen sowie Sozialarbeiterinnen und Sozialarbeiter die Entgeltgruppe S 12 des Tarifvertrages für den öffentlichen Dienst der Länder (TV-L),
+- 2\. für Erzieherinnen und Erzieher die Entgeltgruppe S 8b TV-L, für Kinderpflegerinnen und Kinderpfleger bis Entgeltgruppe S 4 TV-L,
+- 3\. für Psychologinnen und Psychologen die Entgeltgruppe 14 TV-L,
+- 4\. für Ärztinnen und Ärzte die Entgeltgruppe 14 TV-L,
+- 5\. für Fachkräfte für die Leitung und Geschäftsführung grundsätzlich die Entgeltgruppe S 15 TV-L; sofern hierfür kein Personal im Sinn des § 161 Abs. 2 eingesetzt wird, die Entgeltgruppe 10 TV-L,
+- 6\. für Verwaltungskräfte Entgeltgruppe 5 TV-L bis Entgeltgruppe 6 TV-L,
+- 7\. für Reinigungskräfte die Entgeltgruppe 2 TV-L,
+- 8\. für Gebäudemanagement bis Entgeltgruppe 5 TV-L und
+- 9\. für Fachkräfte aus der Immobilienwirtschaft die Entgeltgruppe 9b TV-L.
+
+²Die sich nach Satz 1 ergebenden Personalausgaben werden nach Maßgabe der allgemeinen zuwendungsrechtlichen Bestimmungen (Verwaltungsvorschriften zu Art. 44 der Bayerischen Haushaltsordnung – BayHO) auf das staatliche Vergütungsniveau gedeckelt.
+
+<!-- norm id="par164" -->
+##### § 164 Zuschussfähiges Personal für Fachberatungsstellen
+
+(1) ¹Zuschussfähig für Fachberatungsstellen im Sinne des § 159 Abs. 1 sind Personalausgaben für geeignete Fachkräfte nach den Abs. 2 und 4 sowie für Verwaltungskräfte. ²Zu den Aufgaben des Fachpersonals zählen auch Prävention und Öffentlichkeitsarbeit.
+
+(2) ¹Geeignete Fachkräfte sind Sozialpädagoginnen und Sozialpädagogen, Sozialarbeiterinnen und Sozialarbeiter sowie Psychologinnen und Psychologen. ²Geeignete Fachkräfte für Leitung und Geschäftsführung sind darüber hinaus auch Sozialwirtinnen und Sozialwirte sowie Betriebswirtinnen und Betriebswirte.
+
+(3) Zuschussfähig für Interventionsstellen im Sinne des § 159 Abs. 2 sind Personalausgaben für Sozialpädagoginnen und Sozialpädagogen, Sozialarbeiterinnen und Sozialarbeiter, Psychologinnen und Psychologen.
+
+(4) Personen mit fachlich vergleichbaren Qualifikationen oder entsprechender einschlägiger Berufspraxis werden von den Abs. 2 und 3 jeweils mitumfasst.
+
+<!-- norm id="par165" -->
+##### § 165 Höhe der zuschussfähigen VZÄ für Fachberatungsstellen
+
+(1) ¹Für Aufgaben nach § 159 Abs. 1 gilt Folgendes:
+
+- 1\. für die ambulante psychosoziale Beratung und Unterstützung der Frauen und ihrer Kinder sowie für Prävention und Öffentlichkeitsarbeit sind in der Regel maximal zuschussfähig drei VZÄ,
+- 2\. für die Leitung und Geschäftsführung sind maximal zuschussfähig 0,2 VZÄ und
+- 3\. für die Verwaltung sind maximal zuschussfähig 0,2 VZÄ.
+
+²Soweit die vorgenannten Aufgaben durch Honorarkräfte wahrgenommen werden, können anstelle der Personalkosten die hierfür anfallenden Sachkosten bezuschusst werden. ³Der Zuschuss ist jedoch auf den Höchstbetrag begrenzt, der für festangestellte Fachkräfte als Personalkosten zuschussfähig wäre.
+
+(2) Bei einer als bedarfsgerecht im Sinne der Entwicklungsplanung erachteten Einrichtung kann im besonders zu begründenden Einzelfall zur Erreichung der Bedarfsgerechtigkeit und aus Gründen der Wirtschaftlichkeit von den in Abs. 1 Satz 1 genannten VZÄ nach oben abgewichen werden, wenn dies nach der Entwicklungsplanung in dem jeweiligen Einzugsbereich zur Deckung des Bedarfs erforderlich wäre und keine alternativen Einrichtungen in ausreichender Zahl zur Verfügung stehen.
+
+(3) Maximal zuschussfähig für die Aufgaben im Sinne des § 159 Abs. 2 sind 0,85 VZÄ.
+
+<!-- norm id="par166" -->
+##### § 166 Höhe der zuschussfähigen Personalausgaben für Fachberatungsstellen
+
+¹Zuschussfähig sind die tatsächlich anfallenden Personalkosten, maximal:
+
+- 1\. für Fachkräfte für die ambulante psychosoziale Beratung und Unterstützung der Frauen und ihrer Kinder sowie für Prävention und Öffentlichkeitsarbeit die Entgeltgruppe S 12 TV-L,
+- 2\. für Fachkräfte für Leitung und Geschäftsführung mit Qualifikation im Sinne des § 164 Abs. 2 Satz 1 grundsätzlich die Entgeltgruppe S 15 TV-L und bei Fachkräften mit Qualifikation im Sinne des § 164 Abs. 2 Satz 2 die Entgeltgruppe 10 TV-L und
+- 3\. für Verwaltungskräfte Entgeltgruppe 5 TV-L bis Entgeltgruppe 6 TV-L.
+
+²Die sich nach Satz 1 ergebenden Personalausgaben werden nach Maßgabe der allgemeinen zuwendungsrechtlichen Bestimmungen (Verwaltungsvorschriften zu Art. 44 BayHO) auf das staatliche Vergütungsniveau gedeckelt.
+
+<!-- gliederung id="teil17-abschnitt2-unterabschnitt4" ebene="3" -->
+#### Unterabschnitt 4 Zuschussfähige Sachkosten
+
+<!-- norm id="par167" -->
+##### § 167 Zuschussfähige Sachkosten
+
+(1) Zuschussfähig sind die folgenden Sachkosten der Einrichtungen:
+
+- 1\. die tatsächlich angefallene Kaltmiete, sofern sie die ortsübliche nicht übersteigt, und
+- 2\. sonstige, im Zusammenhang mit dem Betrieb der Einrichtung stehende Sachkosten.
+
+(2) Sachkosten im Sinne von Abs. 1 Nr. 2 sind zuschussfähig
+
+- 1\. bei Frauenschutzeinrichtungen in Höhe von 20 % der zuschussfähigen Personalkosten nach den §§ 161 bis 163,
+- 2\. bei Fachberatungsstellen in Höhe von 15 % der zuschussfähigen Personalkosten nach den §§ 164 bis 166.
+
+(3) ¹Werden Übergangswohnungen im Rahmen von § 158 Abs. 5 Satz 2 zur Verfügung gestellt, sind darüber hinaus Sachkosten für Wohnungsausstattung, -renovierung, Hausmeistertätigkeiten und bei angemieteten Wohnungen zusätzlich Mietausfälle zuschussfähig. ²Die Anzahl der maximal zuschussfähigen Übergangswohnungen bemisst sich nach der Anzahl der vorgehaltenen und entsprechend der Entwicklungsplanung erforderlichen Frauenplätze in der Frauenschutzeinrichtung, an die das Angebot nach § 158 Abs. 5 angegliedert ist; dabei gilt eine Höchstgrenze von 30 Frauenplätzen. ³Maximal zuschussfähig ist eine Übergangswohnung pro zwei Frauenplätzen. ⁴Bei einer Belegung durch dieselbe Bewohnerin ist der Wohnraum maximal für zwölf Monate als Übergangswohnung zuschussfähig. ⁵Pro Übergangswohnung sind maximal Ausgaben in Höhe von 5 550 € jährlich zuschussfähig.
+
+<!-- norm id="par168" -->
+##### § 168 Zuschussfähige einmalige Sachkosten
+
+Zuschussfähig sind folgende tatsächlich anfallende Sachkosten, sofern sie angemessen sind:
+
+- 1\. Ausgaben für die Erstausstattung von Frauenplätzen in Frauenschutzeinrichtungen in Höhe von maximal 12 190 € je Frauenplatz,
+- 2\. Ausgaben für die Erstausstattung von Fachberatungsstellen in Höhe von maximal 6 860 € je zuschussfähigem VZÄ,
+- 3\. Ausgaben für die Sicherheitsausstattung in Höhe von maximal 300 000 € je Frauenschutzeinrichtung,
+- 4\. Ausgaben für die Sicherheitsausstattung in Höhe von maximal 150 000 € je Fachberatungsstelle,
+- 5\. Ausgaben für bauliche und technische Veränderungen zur Anpassung von Frauenschutzeinrichtungen an besondere Bedarfe insbesondere von Frauen mit Behinderung in Höhe von maximal 100 000 € je angepasstem Schutzplatz,
+- 6\. Ausgaben für bauliche und technische Veränderungen zur Anpassung von Fachberatungsstellen an besondere Bedarfe insbesondere von Frauen mit Behinderung in Höhe von maximal 50 000 € je Fachberatungsstelle.
+
+<!-- gliederung id="teil17-abschnitt2-unterabschnitt5" ebene="3" -->
+#### Unterabschnitt 5 Prüfrecht
+
+<!-- norm id="par169" -->
+##### § 169 Vor-Ort-Begehungen
+
+¹Zur Überprüfung der zweckentsprechenden Mittelverwendung sowie der Umsetzung des vorgelegten Konzepts können vom ZBFS stichprobenartige Vor-Ort-Begehungen durchgeführt werden. ²Vor-Ort-Begehungen sind auf das erforderliche Maß zu beschränken. ³Dabei ist dem Schutzinteresse der gewaltbetroffenen Frauen in angemessenem Umfang Rechnung zu tragen. ⁴In besonders begründeten Ausnahmefällen können Vor-Ort-Begehungen auch unangekündigt erfolgen.
+
+<!-- gliederung id="teil17-abschnitt3" ebene="2" -->
+### Abschnitt 3 Entwicklungsplanung
+
+<!-- norm id="par170" -->
+#### § 170 Ausgangsanalyse und Entwicklungsplanung nach § 8 GewHG
+
+(1) Das Staatsministerium für Familie, Arbeit und Soziales erstellt bis spätestens zum 31. Dezember 2026 die Ausgangsanalyse und die Entwicklungsplanung.
+
+(2) Stichtag für die Ausgangsanalyse und Entwicklungsplanung sowie die Aufstellung eines Finanzierungskonzeptes im Sinne des § 8 Abs. 3 Satz 1 GewHG ist der 31. Oktober 2031.
+
+<!-- gliederung id="teil18" ebene="1" -->
+## Teil 18 Schlussvorschriften
+
+<!-- norm id="par171" -->
+### § 171 Inkrafttreten, Außerkrafttreten
 
 (1) ¹Diese Verordnung tritt am 1. Januar 2009 in Kraft. ²Abweichend von Satz 1 treten
 

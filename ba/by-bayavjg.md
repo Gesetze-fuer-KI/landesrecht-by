@@ -2,14 +2,14 @@
 land: BY
 abkuerzung: AVBayJG
 titel: Verordnung zur Ausführung des Bayerischen Jagdgesetzes
-stand: Fassung gültig ab 01.04.2026
-gilt_ab: '2026-04-01'
+stand: Fassung gültig ab 31.10.2026
+gilt_ab: '2026-10-31'
 quelle: https://www.gesetze-bayern.de/Content/Document/BayAVJG
 ---
 
 # Verordnung zur Ausführung des Bayerischen Jagdgesetzes (AVBayJG)
 
-Stand: Fassung gültig ab 01.04.2026
+Stand: Fassung gültig ab 31.10.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BayAVJG>
 
@@ -26,7 +26,7 @@ Auf Grund von Art. 11 Abs. 2 Satz 4, Art. 13 Abs. 4, Art. 29 Abs. 5 Satz 1, Art.
 <!-- norm id="par1" -->
 ### § 1 Jagdhandlungen in befriedeten Bezirken
 
-Die Gestattung nach Art. 6 Abs. 3 Satz 1 des Bayerischen Jagdgesetzes (BayJG) gilt als erteilt, wenn der Revierinhaber mit Zustimmung des Grundstückseigentümers oder Nutzungsberechtigten die Jagd auf Haarraubwild, Nutrias und Wildkaninchen mit Fanggeräten (Art. 29 Abs. 2 Nr. 1 Buchst. d BayJG) innerhalb der Jagdzeiten ausübt.
+¹Die Gestattung nach Art. 6 Abs. 3 Satz 1 des Bayerischen Jagdgesetzes (BayJG) gilt als erteilt, wenn der Revierinhaber oder ein von diesem beauftragter Jagdscheininhaber mit Zustimmung des Grundstückseigentümers oder Nutzungsberechtigten die Jagd auf Haarraubwild, Nutrias und Wildkaninchen mit Fanggeräten (Art. 29 Abs. 2 Nr. 1 Buchst. d BayJG) innerhalb der Jagdzeiten ausübt. ²Bei der Jagd mit Fallen für den Lebendfang nach Satz 1 ist der zur Erlegung erforderliche Fangschuss umfasst. ³§ 20 Abs. 1 des Bundesjagdgesetzes (BJagdG) bleibt unberührt.
 
 <!-- gliederung id="zuart8abs1satz1art10abs1satz1art15abs1sa" ebene="1" -->
 ## Zu Art. 8 Abs. 1 Satz 1, Art. 10 Abs. 1 Satz 1, Art. 15 Abs. 1 Satz 1 und Art. 16 Abs. 1 Satz 1 BayJG:
@@ -91,7 +91,7 @@ Sinkt die Größe eines Jagdreviers durch die Entstehung befriedeter Bezirke unt
 
 (1) Bei der Verpachtung von Gemeinschaftsjagdrevieren gelten die Bestimmungen der Satzung der Jagdgenossenschaft über die Einladung zur Versammlung der Jagdgenossen, über die Beschlußfassung und die Aufnahme der Niederschrift hierüber als zwingende Vorschriften im Sinn von Art. 14 Abs. 4 Satz 1 in Verbindung mit Art. 12 Abs. 1 Satz 4 BayJG.
 
-(2) Ein Jagdpachtvertrag gilt erst dann als angezeigt (§ 12 Abs. 1 Satz 1 des Bundesjagdgesetzes – BJagdG –), wenn außer dem Jagdpachtvertrag der Jagdbehörde vorgelegt werden:
+(2) Ein Jagdpachtvertrag gilt erst dann als angezeigt (§ 12 Abs. 1 Satz 1 BJagdG), wenn außer dem Jagdpachtvertrag der Jagdbehörde vorgelegt werden:
 
 - 1\. die Jagdscheine der Jagdpächter,
 - 2\. bei Gemeinschaftsjagdrevieren außerdem die Niederschriften über die Versammlungen der Jagdgenossen, in denen über die Art der Verpachtung und die Verpachtung selbst beschlossen wurde.
@@ -293,7 +293,7 @@ Zur Wildbestandsermittlung kann die Jagdbehörde die erforderlichen Maßnahmen t
 <!-- norm id="par14" -->
 ### § 14 Aufstellung und Einreichung der Abschußpläne
 
-(1) ¹Abschußpläne sind jeweils für ein Jagdjahr, Abschußpläne für Rehwild jeweils für drei Jagdjahre aufzustellen. ²Die Abschusspläne sind unter Verwendung von Formblättern nach einem von der obersten Jagdbehörde herausgegebenen Muster aufzustellen.
+(1) ¹Abschusspläne sind jeweils für ein Jagdjahr, Abschußpläne für Rehwild jeweils für drei Jagdjahre aufzustellen. ²Für Rotwild kann ein Abschussplan auch für drei Jagdjahre aufgestellt werden, sofern dadurch ein Gleichlauf mit dem Ende der dreijährigen Abschussplanperiode für Rehwild hergestellt wird. ³Die Aufstellung für drei Jagdjahre ist in verpachteten Gemeinschaftsjagdrevieren nur im Einvernehmen mit dem Jagdvorstand, in verpachteten Eigenjagdrevieren nur im Einvernehmen mit dem Jagdberechtigten möglich. ⁴Satz 2 findet keine Anwendung auf die Aufstellung von Gruppenabschussplänen bei Rotwild. ⁵Die Abschusspläne sind unter Verwendung von Formblättern nach einem von der obersten Jagdbehörde herausgegebenen Muster aufzustellen.
 
 (2) ¹Die aufgestellten Abschusspläne sind bei der Jagdbehörde einzureichen, und zwar
 
@@ -334,6 +334,8 @@ Zur Wildbestandsermittlung kann die Jagdbehörde die erforderlichen Maßnahmen t
 ### § 16 Abschußplanerfüllung, Überwachung, Streckenliste, statistische Nachweisung
 
 (1) ¹Die Abschusspläne sind für jede Schalenwildart nach Anzahl, Geschlecht und den vorgegebenen Klassen mit der Maßgabe zu erfüllen, dass an Stelle eines Stücks der älteren oder stärkeren Klasse ein solches aus einer jüngeren oder schwächeren Klasse, beim männlichen Hochwild jedoch nicht aus der Klasse IIa, oder aus dem Zuwachs erlegt werden darf; außerdem dürfen, wenn dadurch nicht die Ausgewogenheit des Geschlechterverhältnisses gefährdet wird, für nicht erlegtes männliches Wild weibliches Wild erlegt und schlecht veranlagte männliche Jahrlinge auf den Abschuss des weiblichen Wildes angerechnet werden. ²Bei den für drei Jagdjahre aufgestellten Abschussplänen für Rehwild in Revieren, die in einer Hegegemeinschaft mit einer Bewertung der Verbissbelastung durch das letzte vor der Abschussplanung erstellte forstliche Gutachten (Art. 32 Abs. 1 Satz 3 BayJG) als günstig oder tragbar liegen, kann vom festgesetzten oder bestätigten Abschuss jeweils nach oben und unten bis zu 20 % für das jeweilige Geschlecht und für die Kitze abgewichen werden. ³In Revieren, die in einer Hegegemeinschaft mit einer Bewertung der Verbissbelastung durch das letzte vor der Abschussplanung erstellte forstliche Gutachten als zu hoch liegen, kann über den festgesetzten oder bestätigten Abschuss nach oben bis zu 20 %, bei einer Bewertung als deutlich zu hoch bis zu 30 % für das jeweilige Geschlecht und für die Kitze abgewichen werden; es ist jährlich mindestens ein Drittel des festgesetzten oder bestätigten Abschusses zu erfüllen. ⁴Fallwildverluste, die nach Erfüllung des jährlichen Abschussanteils eintreten, sind auf den Abschussanteil des nächsten Jagdjahres anzurechnen. ⁵Bei voraussehbarer Nichterfüllung des Abschusses in einzelnen Jagdrevieren kann auf Vorschlag der Hegegemeinschaft und unter Beachtung des Art. 32 Abs. 1 Satz 1 BayJG der Abschuss an andere Jagdreviere dieser Hegegemeinschaft weitergegeben werden; die erforderlichen Änderungen von Abschussplänen sind gebührenfrei.
+
+(1a) ¹Bei den für drei Jagdjahre aufgestellten Abschussplänen für Rotwild kann vom festgesetzten oder bestätigten Abschuss jeweils nach unten und oben bis zu 20 % für die jeweiligen Klassen, die Alt- und Schmaltiere und die Kälber abgewichen werden. ²Es ist jährlich jeweils ein Drittel des festgesetzten oder bestätigten Abschusses zu erfüllen, mit der Maßgabe, dass von diesem Drittel jeweils nach unten und oben bis zu 20 % abgewichen werden kann. ³Abs. 1 Satz 4 und 5 ist entsprechend anzuwenden.
 
 (2) ¹Der Revierinhaber hat über das durch Abschuss oder Fang erbeutete Wild eine Streckenliste nach einem von der obersten Jagdbehörde herausgegebenen Muster zu führen. ²In die Streckenliste ist auch alles sonst verendet gefundene Wild (Fallwild), beim Schalenwild jedoch mit Ausnahme des vor Beginn seiner Jagdzeit gefallenen, im ersten Lebensjahr stehenden Jungwildes einzutragen. ³Die Eintragungen in die Liste sind beim Schalenwild und sonstigen abschußplanpflichtigen Wild innerhalb einer Woche, im übrigen vor Ablauf des Jagdjahres vorzunehmen. ⁴Die Streckenliste ist der Jagdbehörde jederzeit auf Verlangen vorzulegen. ⁵Nach Ablauf des Jagdjahres, spätestens bis zum 10. April, hat der Revierinhaber die mit dem 31. März abgeschlossene Streckenliste der Jagdbehörde vorzulegen.
 
@@ -443,11 +445,11 @@ Dem Jagdrecht unterliegen folgende Tierarten:
 |  |  |  |  |
 |---|---|---|---|
 | 1. | Rotwild |  |  |
-| a) | Kälber | vom 1. August bis 31. Januar, |  |
-| b) | Schmaltiere | vom 1. Juni bis 31. Januar, |  |
-| c) | Alttiere | vom 1. August bis 31. Januar, |  |
-| d) | Schmalspießer | vom 1. Juni bis 31. Januar, |  |
-| e) | alle übrigen Hirsche | vom 1. August bis 31. Januar; |  |
+| a) | Kälber | vom 16. Juli bis 15. Januar, |  |
+| b) | Schmaltiere | vom 1. Mai bis 15. Januar, |  |
+| c) | Alttiere | vom 16. Juli bis 15. Januar, |  |
+| d) | Schmalspießer | vom 1. Mai bis 15. Januar, |  |
+| e) | alle übrigen Hirsche | vom 1. August bis 15. Januar; |  |
 | 2. | Dam- und Sikawild |  |  |
 | a) | Kälber | vom 1. September bis 31. Januar, |  |
 | b) | Schmaltiere | vom 1. Juli bis 31. Januar, |  |
@@ -599,7 +601,10 @@ Folgende Tierarten dürfen in der freien Natur nur mit vorheriger schriftlicher 
 (2) ¹Mißbräuchlich ist eine Wildfütterung, durch die das Hegeziel (§ 1 Abs. 2 BJagdG) gefährdet wird. ²Eine solche kann im Regelfall angenommen werden, wenn
 
 - 1\. Futtermittel ausgebracht werden, die nach Zusammensetzung, Qualität oder Menge den ernährungsphysiologischen Bedürfnissen der jeweiligen Wildart nicht entsprechen,
-- 2\. Schalenwild außerhalb der Notzeit gefüttert wird; ausgenommen hiervon sind Ablenkungsmaßnahmen für Schwarzwild, oder
+- 2\. Schalenwild außerhalb der Notzeit gefüttert wird; ausgenommen hiervon sind
+  - a) Ablenkungsmaßnahmen für Schwarzwild,
+  - b) im Zeitraum von 1. November bis 31. Mai die Fütterung von im Wintergatter (Art. 25 BayJG) gehaltenem Rotwild und
+  - c) im Zeitraum von 1. November bis 15. Mai Lenkungsmaßnahmen für Rotwild innerhalb von Rotwildgebieten nach § 17 Abs. 1 im Einvernehmen mit dem Jagdvorstand in Gemeinschaftsjagdrevieren oder mit dem Jagdberechtigten in verpachteten Eigenjagdrevieren oder
 - 3\. Schalenwild in oder im unmittelbar räumlichen Zusammenhang mit Schutzwäldern nach Art. 10 Abs. 1 des Waldgesetzes für Bayern (BayRS 7902–1–E) gefüttert und dadurch die Schutzfunktion des Waldes beeinträchtigt oder gefährdet wird.
 
 (3) Das Verfüttern proteinhaltiger Erzeugnisse und von Fetten aus Gewebe warmblütiger Landtiere und von Fischen sowie von Mischfuttermitteln, die diese Einzelfuttermittel enthalten, an Wild ist verboten.
@@ -765,14 +770,16 @@ Nach Art. 56 Abs. 1 Nr. 16 BayJG kann mit Geldbuße belegt werden, wer vorsätzl
 - 8\. entgegen § 23a Abs. 3 verbotene Futtermittel an Wild verfüttert.
 
 <!-- norm id="par34" -->
-### § 34 Übergangsvorschriften
+### § 34 Übergangsvorschrift
 
-Für das am 1. April 2026 beginnende Jagdjahr können Anzeigen nach § 15a Abs. 1 bis zum 30. Juni 2026 erfolgen.
+¹Für den Zeitraum vom 1. April 2027 bis 31. März 2028 kann bei Vorliegen des Einvernehmens entsprechend § 14 Abs. 1 Satz 3 auch ein einjähriger Abschussplan für Rotwild aufgestellt werden, für den § 16 Abs. 1a Satz 1 Anwendung findet. ²§ 14 Abs. 1 Satz 4 gilt entsprechend.
 
 <!-- norm id="par35" -->
-### § 35 Inkrafttreten
+### § 35 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. April 1983 in Kraft.
+(1) Diese Verordnung tritt am 1. April 1983 in Kraft.
+
+(2) § 34 tritt mit Ablauf des 1. April 2028 außer Kraft.
 
 <!-- norm id="schlussformel" -->
 ### Schlussformel
