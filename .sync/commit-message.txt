@@ -1,4 +1,5 @@
-Bayern Stand 2026-10-31: 2 geändert, 0 neu, 0 entfernt
+Bayern Stand 2026-11-01: 3 geändert, 0 neu, 0 entfernt
 
-- AVBayJG: Fassung gültig ab 31.10.2026
-- AVSG: Fassung gültig ab 31.10.2026
+- DBauV: Fassung gültig ab 01.11.2026
+- ZustVSt: Fassung gültig ab 01.11.2026
+- BayFHKiTrZV: Fassung gültig ab 01.11.2026

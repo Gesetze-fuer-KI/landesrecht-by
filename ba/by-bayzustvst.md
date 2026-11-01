@@ -3,14 +3,14 @@ land: BY
 abkuerzung: ZustVSt
 titel: Verordnung über Organisation und Zuständigkeiten in der Bayerischen Steuerverwaltung
 kurztitel: Steuer-Zuständigkeitsverordnung
-stand: Fassung gültig ab 01.10.2026
-gilt_ab: '2026-10-01'
+stand: Fassung gültig ab 01.11.2026
+gilt_ab: '2026-11-01'
 quelle: https://www.gesetze-bayern.de/Content/Document/BayZustVSt
 ---
 
 # Verordnung über Organisation und Zuständigkeiten in der Bayerischen Steuerverwaltung (ZustVSt)
 
-Stand: Fassung gültig ab 01.10.2026
+Stand: Fassung gültig ab 01.11.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BayZustVSt>
 
@@ -400,7 +400,7 @@ Prof. Dr. Kurt Faltlhauser, Staatsminister
 |  |  | g) | Durchführung des Gesetzes zur Schätzung des landwirtschaftlichen Kulturbodens |  | Deggendorf |
 | 30 | Zwiesel | a) | Grunderwerbsteuer |  | Dingolfing,<br>Landshut,<br>Straubing |
 |  |  | b) | Erhebung |  | Deggendorf,<br>Grafenau,<br>Passau,<br>Straubing |
-|  |  | c) | die Feststellung der Grundsteueräquivalenzbeträge, Grundsteuerwerte, Grundsteuermessbeträge und der Grundsteuerzerlegungen |  | Deggendorf,<br>Dingolfing,<br>Eichstätt,<br>Erding,<br>Grafenau,<br>Ingolstadt,<br>Kempten-Immenstadt,<br>Mittelfranken-West,<br>Nördlingen,<br>Pfaffenhofen,<br>Starnberg,<br>Straubing,<br>Wunsiedel |
+|  |  | c) | die Feststellung der Grundsteueräquivalenzbeträge, Grundsteuerwerte, Grundsteuermessbeträge und der Grundsteuerzerlegungen |  | Amberg,<br>Deggendorf,<br>Dingolfing,<br>Eggenfelden,<br>Eichstätt,<br>Erding,<br>Grafenau,<br>Ingolstadt,<br>Kempten-Immenstadt,<br>Mittelfranken-West,<br>Nördlingen,<br>Nürnberg,<br>Pfaffenhofen,<br>Starnberg,<br>Straubing,<br>Wunsiedel |
 |  | **Regierungsbezirk Oberpfalz** |  |  |  |  |
 | 31 | Amberg | a) | Besteuerung der Körperschaften |  | Neumarkt i. d. OPf. |
 |  |  | b) | Steuerabzug bei beschränkt Steuerpflichtigen nach § 50a Abs. 1 EStG |  | Neumarkt i. d. OPf. |

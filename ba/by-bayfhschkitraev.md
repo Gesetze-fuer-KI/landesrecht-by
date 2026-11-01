@@ -1,15 +1,15 @@
 ---
 land: BY
-abkuerzung: BayFHSchkiTraeV
+abkuerzung: BayFHKiTrZV
 titel: Verordnung über die staatlichen Zuschüsse für Fachhochschulen oder Fachhochschulstudiengänge in kirchlicher Trägerschaft
-stand: Fassung gültig ab 30.08.2014
-gilt_ab: '2014-08-30'
+stand: Fassung gültig ab 01.11.2026
+gilt_ab: '2026-11-01'
 quelle: https://www.gesetze-bayern.de/Content/Document/BayFHSchkiTraeV
 ---
 
-# Verordnung über die staatlichen Zuschüsse für Fachhochschulen oder Fachhochschulstudiengänge in kirchlicher Trägerschaft (BayFHSchkiTraeV)
+# Verordnung über die staatlichen Zuschüsse für Fachhochschulen oder Fachhochschulstudiengänge in kirchlicher Trägerschaft (BayFHKiTrZV)
 
-Stand: Fassung gültig ab 30.08.2014
+Stand: Fassung gültig ab 01.11.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BayFHSchkiTraeV>
 
@@ -20,67 +20,67 @@ Nichtamtliche Fassung des Landesportals.
 
 Auf Grund von Art. 116 Satz 5 und Art. 135 Abs. 1 des Bayerischen Hochschulgesetzes erläßt das Bayerische Staatsministerium für Unterricht, Kultus, Wissenschaft und Kunst folgende Verordnung:
 
-<!-- gliederung id="ersterabschnitt" ebene="1" -->
-## Erster Abschnitt Zuschüsse zur Errichtung
+<!-- gliederung id="teil1" ebene="1" -->
+## Teil 1 Zuschüsse zur Errichtung
 
 <!-- norm id="par1" -->
-### § 1
+### § 1 Zuschüsse für die Errichtung
 
-Die Errichtung umfaßt alle Maßnahmen, die dem Grunde nach zum Ausbau und Neubau im Sinn des Gesetzes über die Gemeinschaftsaufgabe „Ausbau und Neubau von Hochschulen“ (Hochschulbauförderungsgesetz) gehören.
+Maßnahmen werden nur im Rahmen der staatlichen Kostenrichtwerte bezuschußt.
+
+<!-- gliederung id="teil2" ebene="1" -->
+## Teil 2 Zuschüsse zum Betrieb
 
 <!-- norm id="par2" -->
-### § 2
+### § 2 Umfang des laufenden Betriebs
 
-(1) Die Zuschüsse werden nach Maßgabe des Staatshaushalts und unter Berücksichtigung von Leistungen des Bundes nach dem Hochschulbauförderungsgesetz gewährt.
+Der Umfang des zuschussfähigen Betriebs einer Hochschule ergibt sich aus
 
-(2) Maßnahmen werden nur im Rahmen der staatlichen Kostenrichtwerte bezuschußt.
-
-<!-- gliederung id="zweiterabschnitt" ebene="1" -->
-## Zweiter Abschnitt Zuschüsse zum Betrieb
+- 1\. den vom Staatsministerium für Wissenschaft und Kunst unter Berücksichtigung des Anerkennungsbescheids und der bayerischen Hochschulplanung festgelegten Studienplatzzahlen sowie
+- 2\. den Studienplatzzahlen des Ausbauprogramms.
 
 <!-- norm id="par3" -->
-### § 3
+### § 3 Höhe des Zuschusses zum laufenden Betrieb
 
-Der Umfang des zuschußfähigen Betriebs einer Hochschule ergibt sich aus den vom Staatsministerium für Wissenschaft und Kunst unter Berücksichtigung des Anerkennungsbescheids und der bayerischen Hochschulplanung festgelegten Studienplatzzahlen.
+(1) ¹Der Zuschuss beträgt zum Berechnungszeitpunkt 1. November 2024 für jeden Studienplatz nach § 2 Nr. 1  
+7 062,86 € und  
+für jeden Studienplatz nach § 2 Nr. 2  
+3 700,00 €.  
+²Diese Beträge ändern sich entsprechend dem Prozentsatz der Besoldungsanpassung der bayerischen Beamten in der Besoldungsgruppe W 2, Stufe 2, Orts- und Familienzuschlag Ortsklasse 6 Stufe 2 für Verheiratete mit zwei zu berücksichtigenden Kindern.
 
-<!-- norm id="par4" -->
-### § 4
-
-(1) ¹Der Zuschuss beträgt 3.552,97 € (Stand: 1. November 2000) für jeden Studienplatz nach § 3. ²Dieser Betrag ändert sich entsprechend dem Prozentsatz der Besoldungsanpassung der bayerischen Beamten (Besoldungsgruppe C 2, Grundgehalt der siebten Stufe, Familienzuschlag für Verheiratete mit zwei zu berücksichtigenden Kindern).
-
-(2) Unterschreitet an einer Hochschule die Zahl der Studenten in der Regelstudienzeit die gemäß § 3 festgesetzten Studienplatzzahlen um mehr als 10 v.H., werden die Zuschüsse entsprechend gekürzt.
+(2) Unterschreitet an einer Hochschule die Zahl der Studenten in der Regelstudienzeit die gemäß § 2 festgesetzten Studienplatzzahlen in drei aufeinanderfolgenden Jahren um mehr als 10 %, werden die Zuschüsse für das folgende Jahr entsprechend gekürzt.
 
 (3) Maßgebend ist die Sach- und Rechtslage am 1. November des Vorjahres.
 
-<!-- gliederung id="dritterabschnitt" ebene="1" -->
-## Dritter Abschnitt Allgemeines und Schlußbestimmungen
+<!-- gliederung id="teil3" ebene="1" -->
+## Teil 3 Allgemeines und Schlußbestimmungen
 
-<!-- norm id="par5" -->
-### § 5
+<!-- norm id="par4" -->
+### § 4 Auszahlung
 
 ¹Die Zuschüsse werden für das Haushaltsjahr gewährt und nachträglich ausbezahlt. ²Abschlagszahlungen werden im Rahmen des Haushalts geleistet.
 
-<!-- norm id="par6" -->
-### § 6
+<!-- norm id="par5" -->
+### § 5 Zweckbindung
 
 (1) Für den Vollzug gelten die allgemeinen Vorschriften für Zuwendungen des Freistaates Bayern.
 
 (2) Die Dauer der Zweckbindung von Zuschüssen bestimmt sich nach der gewöhnlichen Nutzungsdauer der mit den Zuschüssen beschafften Gegenstände; die gewöhnliche Nutzungsdauer bestimmt sich nach den Regeln über die lineare Absetzung für Abnutzung.
 
+<!-- norm id="par6" -->
+### § 6 Überprüfung des Zuschussbetrags
+
+¹Der Zuschuss nach § 3 Abs. 1 wird im Abstand von drei Jahren überprüft. ²Dabei sind einerseits die Kostenentwicklung der entsprechenden Studiengänge an den staatlichen Hochschulen zu berücksichtigen, andererseits der gesamte Personal- und Sachaufwand der kirchlichen Hochschulen, der zur Erfüllung der gesetzlichen Aufgaben erforderlich ist, einschließlich der Rücklagen und eventueller Betriebseinnahmen.
+
 <!-- norm id="par7" -->
-### § 7
-
-¹Der Zuschuß nach § 4 Abs. 1 wird im Abstand von fünf Jahren überprüft. ²Dabei sind einerseits die Kostenentwicklung der entsprechenden Studiengänge an den staatlichen Hochschulen zu berücksichtigen, andererseits der gesamte Personal- und Sachaufwand der kirchlichen Hochschulen, der zur Erfüllung der gesetzlichen Aufgaben erforderlich ist, einschließlich der Rücklagen und eventueller Betriebseinnahmen.
-
-<!-- norm id="par8" -->
-### § 8
+### § 7 Kirchenverträge
 
 Von dieser Verordnung abweichende Regelungen in Kirchenverträgen bleiben unberührt.
 
-<!-- norm id="par9" -->
-### § 9
+<!-- norm id="par8" -->
+### § 8 Inkrafttreten
 
-¹Diese Verordnung tritt mit Wirkung vom 1. Januar 1996 in Kraft. ²Gleichzeitig tritt die Verordnung über die Gewährung staatlicher Zuschüsse zur Errichtung und zum Betrieb von Fachhochschulen einer Körperschaft oder Stiftung des öffentlichen Rechts vom 27. September 1972 (BayRS 2210-6-2-K), geändert durch Verordnung vom 16. Februar 1983 (GVBl S. 41), außer Kraft.
+Diese Verordnung tritt mit Wirkung vom 1. Januar 1996 in Kraft.
 
 <!-- norm id="schlussformel" -->
 ### Schlussformel

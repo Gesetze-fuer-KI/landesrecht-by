@@ -3,14 +3,14 @@ land: BY
 abkuerzung: DBauV
 titel: Verordnung über die digitale Einreichung bauaufsichtlicher Anträge und Anzeigen
 kurztitel: Digitale Bauantragsverordnung
-stand: Fassung gültig ab 01.10.2026
-gilt_ab: '2026-10-01'
+stand: Fassung gültig ab 01.11.2026
+gilt_ab: '2026-11-01'
 quelle: https://www.gesetze-bayern.de/Content/Document/BayDBauV
 ---
 
 # Verordnung über die digitale Einreichung bauaufsichtlicher Anträge und Anzeigen (DBauV)
 
-Stand: Fassung gültig ab 01.10.2026
+Stand: Fassung gültig ab 01.11.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BayDBauV>
 
@@ -152,19 +152,20 @@ verordnet die Bayerische Staatsregierung:
 - 16\. Stadt Günzburg,
 - 17\. Stadt Kitzingen,
 - 18\. Stadt Lindau (Bodensee),
-- 19\. Stadt Neuburg a.d.Donau,
-- 20\. Stadt Neumarkt i.d.OPf.,
-- 21\. Stadt Neustadt b.Coburg
-- 22\. Stadt Nördlingen,
-- 23\. Stadt Pfaffenhofen a.d.Ilm,
-- 24\. Stadt Rothenburg ob der Tauber,
-- 25\. Stadt Schwandorf,
-- 26\. Stadt Selb,
-- 27\. Stadt Sulzbach-Rosenberg,
-- 28\. Stadt Traunstein,
-- 29\. Stadt Waldkraiburg,
-- 30\. Stadt Waldsassen und
-- 31\. Stadt Weißenburg i.Bay.
+- 19\. Stadt Marktredwitz,
+- 20\. Stadt Neuburg a.d.Donau,
+- 21\. Stadt Neumarkt i.d.OPf.,
+- 22\. Stadt Neustadt b.Coburg
+- 23\. Stadt Nördlingen,
+- 24\. Stadt Pfaffenhofen a.d.Ilm,
+- 25\. Stadt Rothenburg ob der Tauber,
+- 26\. Stadt Schwandorf,
+- 27\. Stadt Selb,
+- 28\. Stadt Sulzbach-Rosenberg,
+- 29\. Stadt Traunstein,
+- 30\. Stadt Waldkraiburg,
+- 31\. Stadt Waldsassen und
+- 32\. Stadt Weißenburg i.Bay.
 
 <!-- norm id="par2" -->
 ### § 2 Digitale Einreichung, Authentifizierung
