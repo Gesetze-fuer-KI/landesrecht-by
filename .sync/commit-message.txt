@@ -1,5 +1,2 @@
-Bayern Stand 2026-11-01: 3 geändert, 0 neu, 0 entfernt
+Bayern Stand 2026-11-02: 0 geändert, 0 neu, 0 entfernt
 
-- DBauV: Fassung gültig ab 01.11.2026
-- ZustVSt: Fassung gültig ab 01.11.2026
-- BayFHKiTrZV: Fassung gültig ab 01.11.2026
