@@ -2,14 +2,14 @@
 land: BY
 abkuerzung: AVSG
 titel: Verordnung zur Ausführung der Sozialgesetze
-stand: Fassung gültig ab 31.10.2026
-gilt_ab: '2026-10-31'
+stand: Fassung gültig ab 17.11.2026
+gilt_ab: '2026-11-17'
 quelle: https://www.gesetze-bayern.de/Content/Document/BayAVSG
 ---
 
 # Verordnung zur Ausführung der Sozialgesetze (AVSG)
 
-Stand: Fassung gültig ab 31.10.2026
+Stand: Fassung gültig ab 17.11.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BayAVSG>
 
@@ -2135,10 +2135,49 @@ Zuschussfähig sind folgende tatsächlich anfallende Sachkosten, sofern sie ange
 (2) Stichtag für die Ausgangsanalyse und Entwicklungsplanung sowie die Aufstellung eines Finanzierungskonzeptes im Sinne des § 8 Abs. 3 Satz 1 GewHG ist der 31. Oktober 2031.
 
 <!-- gliederung id="teil18" ebene="1" -->
-## Teil 18 Schlussvorschriften
+## Teil 18 Vorschriften für den Bereich der ganztägigen Bildung und Betreuung für Kinder im Grundschulalter
 
 <!-- norm id="par171" -->
-### § 171 Inkrafttreten, Außerkrafttreten
+### § 171 Verteilung der Landesanteile an der Umsatzsteuer gemäß Art. 52b AGSG, Zuweisungsempfänger
+
+¹Soweit die erhöhten Landesanteile an der Umsatzsteuer gemäß Art. 52b Abs. 1 AGSG nicht unmittelbar für den kommunalen Mitfinanzierungsanteil für das Budget zur Abdeckung des mit der Durchführung der Bildungs- und Betreuungsangebote verbundenen zusätzlichen Personalaufwands offener und gebundener Ganztagsangebote eingesetzt werden, erfolgt die Verteilung der Landesanteile entsprechend der nachfolgenden Bestimmungen. ²Zuweisungsempfänger sind kreisangehörige und kreisfreie Gemeinden.
+
+<!-- norm id="par172" -->
+### § 172 Zuweisungsvoraussetzungen
+
+(1) Die Verteilung erfolgt verursachungsgerecht anhand der in Ganztagsangeboten befindlichen Kinder.
+
+(2) ¹An der Verteilung nehmen nur Zuweisungsempfänger teil, die in ihrem Gemeindegebiet ein Angebot durchführen, das zur rechtsanspruchserfüllenden Bildung und Betreuung von Kindern im Grundschulalter beiträgt. ²Angebote im Sinne von Satz 1 sind offene und gebundene Ganztagsangebote gemäß Art. 6 Abs. 4 Satz 1 des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen (BayEUG), Mittagsbetreuungen gemäß Art. 110a BayEUG sowie Kindertageseinrichtungen, die von Kindern der Klassenstufen 1 bis 4 besucht werden.
+
+<!-- norm id="par173" -->
+### § 173 Berechnung der Zuweisung
+
+(1) ¹Für jeden Zuweisungsempfänger wird die Anzahl der Kinder, die Angebote gemäß § 172 Abs. 2 Satz 2 wahrnehmen, jährlich durch das Landesamt für Statistik (LfStat) ermittelt. ²Für die jährliche Auszahlung werden die Kinderzahlen aus dem Schuljahr herangezogen, das im Vorjahr begonnen hat.
+
+(2) ¹Die Art des Angebots und die individuelle Buchungszeit sind für die Ermittlung der Anzahl der betreuten Kinder unbeachtlich. ²Für die Zuweisung kommt es nicht auf den jeweiligen Wohnsitz des Kindes an.
+
+(3) ¹Für Kinder in Ganztagsangeboten unter Schulaufsicht ist jeweils der 1. Oktober des Vorjahres der Auszahlung der Stichtag nach Abs. 1. ²Die Anzahl der Kinder wird für offene und gebundene Ganztagsangebote der Amtlichen Schulstatistik und für Angebote der Mittagsbetreuung der Förderstatistik des Staatsministeriums für Unterricht und Kultus entnommen.
+
+(4) ¹Für Kinder in Kindertageseinrichtungen ist jeweils der 1. März des Auszahlungsjahres der Stichtag nach Abs. 1. ²Die Anzahl der Kinder wird der Statistik der Kinder und tätigen Personen in Tageseinrichtungen entnommen.
+
+(5) ¹Die Verteilungsmasse wird durch die Anzahl der insgesamt ermittelten Kinder geteilt. ²Das Ergebnis ist ein Pro-Kopf-Betrag.
+
+(6) ¹Der Pro-Kopf-Betrag wird mit der für jeden Zuweisungsempfänger nach Abs. 1 Satz 1 ermittelten Anzahl an Kindern multipliziert. ²Das Ergebnis ist der auf jeden Zuweisungsempfänger entfallende Auszahlungsbetrag. ³Dieser ist auf volle Euro zu runden. ⁴Um ein Über- oder Unterschreiten der Verteilungsmasse zu verhindern, wird die höchste Finanzzuweisung am Ende des Rechengangs um den Saldo aus den Rundungsdifferenzen angepasst.
+
+<!-- norm id="par174" -->
+### § 174 Bescheid, Berichtigung
+
+(1) ¹Ein Antrag ist nicht erforderlich. ²Die Verteilungsmasse, den Pro-Kopf-Betrag, die für den Zuweisungsempfänger ermittelte Anzahl an betreuten Kindern und den auf jeden Zuweisungsempfänger entfallenden Auszahlungsbetrag gibt das LfStat per Bescheid gegenüber den Zuweisungsempfängern bekannt. ³Die Zuweisung erfolgt einmal pro Kalenderjahr.
+
+(2) Die zugewiesenen Mittel dienen dem Ausgleich der laufenden Belastungen im Kontext der Umsetzung des Rechtsanspruchs und können für diese Zwecke frei verwendet werden.
+
+(3) ¹Eine Berichtigung der zugewiesenen Mittel kommt nur bei erheblichen Unrichtigkeiten in Betracht, insbesondere wenn sich eine der Datenquellen als fehlerhaft erweisen sollte. ²Eine erhebliche Unrichtigkeit ist dann gegeben, wenn die Anzahl der für den Zuweisungsempfänger ermittelten betreuten Kinder um mehr als 20 Kinder von der tatsächlichen Anzahl abweicht. ³Erhebliche Unrichtigkeiten werden im darauffolgenden Jahr durch Erhöhung oder Verminderung der ermittelten Anzahl an betreuten Kindern ausgeglichen.
+
+<!-- gliederung id="teil19" ebene="1" -->
+## Teil 19 Schlussvorschriften
+
+<!-- norm id="par175" -->
+### § 175 Inkrafttreten, Außerkrafttreten
 
 (1) ¹Diese Verordnung tritt am 1. Januar 2009 in Kraft. ²Abweichend von Satz 1 treten
 

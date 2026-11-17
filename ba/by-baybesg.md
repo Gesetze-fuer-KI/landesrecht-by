@@ -2,14 +2,14 @@
 land: BY
 abkuerzung: BayBesG
 titel: Bayerisches Besoldungsgesetz
-stand: Fassung gültig ab 01.01.2026
-gilt_ab: '2026-01-01'
+stand: Fassung gültig ab 01.10.2026
+gilt_ab: '2026-10-01'
 quelle: https://www.gesetze-bayern.de/Content/Document/BayBesG
 ---
 
 # Bayerisches Besoldungsgesetz (BayBesG)
 
-Stand: Fassung gültig ab 01.01.2026
+Stand: Fassung gültig ab 01.10.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BayBesG>
 
@@ -162,7 +162,7 @@ Bei Teilzeitbeschäftigung wird die Besoldung im gleichen Verhältnis wie die Ar
 
 (1) Die Besoldung wird entsprechend der Entwicklung der allgemeinen wirtschaftlichen und finanziellen Verhältnisse und unter Berücksichtigung der mit den Dienstaufgaben verbundenen Verantwortung durch Gesetz regelmäßig angepasst.
 
-(2) ¹Die ab dem 1. Februar 2025 geltenden Beträge in den Anlagen 3 bis 9 entsprechen einer allgemeinen linearen Erhöhung um 5,5 v. H. gegenüber dem vorherigen Stand. ²Die ab dem 1. Februar 2025 geltenden Beträge der Anlage 10 sind um jeweils 50 € gegenüber dem vorherigen Stand erhöht.
+(2) ¹Die ab dem 1. Oktober 2026 geltenden Beträge in den Anlagen 3 bis 9 entsprechen einer allgemeinen linearen Erhöhung um 2,82 % gegenüber dem vorherigen Stand. ²Die ab dem 1. Oktober 2026 geltenden Beträge der Anlage 10 sind um jeweils 60 € gegenüber dem vorherigen Stand erhöht.
 
 <!-- norm id="art17" -->
 ### Art. 17 Dienstlicher Wohnsitz
@@ -675,6 +675,17 @@ Die Ämter der Prüfungsgebietsleiter und Prüfungsgebietsleiterinnen beim Bayer
 
 (5) Die Entscheidung über die Gewährung von Zuschlägen trifft die oberste Dienstbehörde oder die von ihr durch Rechtsverordnung bestimmte Stelle.
 
+<!-- norm id="art60b" -->
+#### Art. 60b Zuschlag zur Gewinnung von Personal für den öffentlichen Gesundheitsdienst
+
+(1) Beamten und Beamtinnen des Landesamts für Gesundheit und Lebensmittelsicherheit, die Gesundheitsaufgaben nach Art. 4 Abs. 1 des Gesundheitsdienstgesetzes erfüllen, sowie der Gesundheitsämter und des gerichtsärztlichen Dienstes und Beamten und Beamtinnen der Fachlaufbahnen Gesundheit, fachlicher Schwerpunkt Gesundheitsdienst und Humanmedizin, sowie Verwaltung und Finanzen, fachlicher Schwerpunkt Sozialwissenschaften an den Regierungen kann ein Zuschlag (Gesundheitsdienstzuschlag) gewährt werden, wenn ein bestimmter Dienstposten andernfalls insbesondere im Hinblick auf die fachliche Qualifikation sowie die Bedarfs- und Bewerberlage nicht anforderungsgerecht besetzt werden kann und die Deckung des Personalbedarfs dies im konkreten Fall erfordert.
+
+(2) ¹Der Zuschlag beträgt monatlich bis zu 500 €. ²Art. 60a Abs. 2 Satz 2 bis 8 gilt entsprechend.
+
+(3) ¹Der Gesundheitsdienstzuschlag wird nicht neben einem Zuschlag nach Art. 60 gewährt. ²Art. 60a Abs. 3 Satz 2 gilt entsprechend.
+
+(4) Art. 60a Abs. 5 gilt entsprechend.
+
 <!-- gliederung id="teil3-abschnitt3" ebene="2" -->
 ### Abschnitt 3 Vergütungen
 
@@ -795,7 +806,7 @@ Die Ämter der Prüfungsgebietsleiter und Prüfungsgebietsleiterinnen beim Bayer
 <!-- norm id="art73" -->
 ##### Art. 73 Vergaberahmen
 
-(1) ¹Der Gesamtbetrag der Hochschulleistungsbezüge (Vergaberahmen) ist nach Maßgabe der nachfolgenden Regelungen so zu bemessen, dass die durchschnittlichen jährlichen Besoldungsausgaben je besetzter Stelle den Betrag von 104 589,55 € für Fachhochschulen und 123 970,22 € für Universitäten und Kunsthochschulen (Besoldungsdurchschnitt) nicht überschreiten. ²In diesem Rahmen kann das Staatsministerium für Wissenschaft und Kunst für die einzelnen Hochschulen individuelle Besoldungsdurchschnitte vorgeben und in einem zentralen Ansatz eine Reserve für hochschulübergreifende Verlagerungen vorhalten. ³Aus dem Vergaberahmen sind auch die Leistungsbezüge für Juniorprofessoren und Juniorprofessorinnen sowie für Nachwuchsprofessoren und Nachwuchsprofessorinnen (besondere sowie Funktions-Leistungsbezüge) zu bestreiten.
+(1) ¹Der Gesamtbetrag der Hochschulleistungsbezüge (Vergaberahmen) ist nach Maßgabe der nachfolgenden Regelungen so zu bemessen, dass die durchschnittlichen jährlichen Besoldungsausgaben je besetzter Stelle den Betrag von 105 326,90 € für Fachhochschulen und 124 844,21 € für Universitäten und Kunsthochschulen (Besoldungsdurchschnitt) nicht überschreiten. ²In diesem Rahmen kann das Staatsministerium für Wissenschaft und Kunst für die einzelnen Hochschulen individuelle Besoldungsdurchschnitte vorgeben und in einem zentralen Ansatz eine Reserve für hochschulübergreifende Verlagerungen vorhalten. ³Aus dem Vergaberahmen sind auch die Leistungsbezüge für Juniorprofessoren und Juniorprofessorinnen sowie für Nachwuchsprofessoren und Nachwuchsprofessorinnen (besondere sowie Funktions-Leistungsbezüge) zu bestreiten.
 
 (2) ¹Besoldungsausgaben im Sinn des Abs. 1 sind Ausgaben für die Besoldung von Professoren und Professorinnen nach Art. 2 Abs. 2 Nr. 1 und Abs. 3 Nr. 1 bis 4 und 6 mit Ausnahme der Zulage nach Art. 57 Abs. 1. ²Einzubeziehen sind die Ausgaben für Professoren und Professorinnen sowie hauptberufliche Mitglieder von Hochschulleitungen, die in einem privatrechtlichen Dienstverhältnis stehen und auf Planstellen für Beamte und Beamtinnen der Besoldungsgruppen W 2 und W 3 geführt werden, in Höhe der Bruttovergütungen.
 
@@ -2834,26 +2845,26 @@ Den in Anlage 1 dargestellten Amtsbezeichnungen der Besoldungsordnung A können 
 
 (Monatsbeträge in Euro)
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
 | **Besoldungsgruppe** | **2-Jahres-Rhythmus** |  | **3-Jahres-Rhythmus** |  |  |  | **4-Jahres-Rhythmus** |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Stufe** |  |  |  |  |  |  |  |  |  |  |
 | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |  |
-| **A 3** | 2 784,00 | 2 838,44 | 2 892,86 | 2 947,28 | 3 001,74 | 3 056,15 | 3 110,58 | 3 165,00 |  |  |
-| **A 4** | 2 853,40 | 2 917,53 | 2 981,59 | 3 045,67 | 3 109,74 | 3 173,80 | 3 237,85 | 3 301,91 |  |  |
-| **A 5** | 2 889,32 | 2 953,03 | 3 016,80 | 3 080,53 | 3 144,28 | 3 208,04 | 3 271,81 | 3 335,56 |  |  |
-| **A 6** | 2 960,92 | 3 030,87 | 3 100,86 | 3 170,89 | 3 240,89 | 3 310,89 | 3 380,86 | 3 450,83 |  |  |
-| **A 7** | 3 074,21 | 3 162,29 | 3 250,36 | 3 338,45 | 3 426,57 | 3 489,42 | 3 552,32 | 3 615,26 |  |  |
-| **A 8** | 3 150,76 | 3 263,61 | 3 376,52 | 3 489,37 | 3 602,28 | 3 677,52 | 3 752,74 | 3 828,00 | 3 903,25 |  |
-| **A 9** | 3 294,99 | 3 415,45 | 3 535,90 | 3 656,39 | 3 776,84 | 3 859,66 | 3 942,49 | 4 025,30 | 4 108,12 |  |
-| **A 10** | 3 537,12 | 3 691,45 | 3 845,84 | 4 000,18 | 4 154,52 | 4 257,41 | 4 361,70 | 4 466,94 | 4 572,23 |  |
-| **A 11** |  | 4 045,29 | 4 203,44 | 4 363,04 | 4 524,84 | 4 632,67 | 4 740,57 | 4 849,48 | 4 959,50 | 5 069,49 |
-| **A 12** |  |  | 4 527,30 | 4 720,21 | 4 915,43 | 5 046,61 | 5 177,76 | 5 308,94 | 5 440,11 | 5 571,28 |
-| **A 13** |  |  |  | 5 247,58 | 5 460,02 | 5 601,65 | 5 743,29 | 5 884,96 | 6 026,59 | 6 168,25 |
-| **A 14** |  |  |  | 5 612,74 | 5 888,22 | 6 071,93 | 6 255,61 | 6 439,27 | 6 622,96 | 6 806,64 |
-| **A 15** |  |  |  |  | 6 445,94 | 6 688,31 | 6 930,61 | 7 172,96 | 7 415,30 | 7 657,60 |
-| **A 16** |  |  |  |  | 7 104,54 | 7 384,84 | 7 665,13 | 7 945,38 | 8 225,65 | 8 505,91 |
+| **A 3** | 2 862,51 | 2 918,48 | 2 974,44 | 3 030,39 | 3 086,39 | 3 142,33 | 3 198,30 | 3 254,25 |  |  |
+| **A 4** | 2 933,87 | 2 999,80 | 3 065,67 | 3 131,56 | 3 197,43 | 3 263,30 | 3 329,16 | 3 395,02 |  |  |
+| **A 5** | 2 970,80 | 3 036,31 | 3 101,87 | 3 167,40 | 3 232,95 | 3 298,51 | 3 364,08 | 3 429,62 |  |  |
+| **A 6** | 3 044,42 | 3 116,34 | 3 188,30 | 3 260,31 | 3 332,28 | 3 404,26 | 3 476,20 | 3 548,14 |  |  |
+| **A 7** | 3 160,90 | 3 251,47 | 3 342,02 | 3 432,59 | 3 523,20 | 3 587,82 | 3 652,50 | 3 717,21 |  |  |
+| **A 8** | 3 239,61 | 3 355,64 | 3 471,74 | 3 587,77 | 3 703,86 | 3 781,23 | 3 858,57 | 3 935,95 | 4 013,32 |  |
+| **A 9** | 3 387,91 | 3 511,77 | 3 635,61 | 3 759,50 | 3 883,35 | 3 968,50 | 4 053,67 | 4 138,81 | 4 223,97 |  |
+| **A 10** | 3 636,87 | 3 795,55 | 3 954,29 | 4 112,99 | 4 271,68 | 4 377,47 | 4 484,70 | 4 592,91 | 4 701,17 |  |
+| **A 11** |  | 4 159,37 | 4 321,98 | 4 486,08 | 4 652,44 | 4 763,31 | 4 874,25 | 4 986,24 | 5 099,36 | 5 212,45 |
+| **A 12** |  |  | 4 654,97 | 4 853,32 | 5 054,05 | 5 188,92 | 5 323,77 | 5 458,65 | 5 593,52 | 5 728,39 |
+| **A 13** |  |  |  | 5 395,56 | 5 613,99 | 5 759,62 | 5 905,25 | 6 050,92 | 6 196,54 | 6 342,19 |
+| **A 14** |  |  |  | 5 771,02 | 6 054,27 | 6 243,16 | 6 432,02 | 6 620,86 | 6 809,73 | 6 998,59 |
+| **A 15** |  |  |  |  | 6 627,72 | 6 876,92 | 7 126,05 | 7 375,24 | 7 624,41 | 7 873,54 |
+| **A 16** |  |  |  |  | 7 304,89 | 7 593,09 | 7 881,29 | 8 169,44 | 8 457,61 | 8 745,78 |
 
 **Besoldungsordnung B**
 
@@ -2861,20 +2872,20 @@ Gültig ab 1. Februar 2025
 
 (Monatsbeträge in Euro)
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
 |  | **Besoldungsgruppe** | **Betrag** |  |
 |---|---|---|---|
-|  | **B 2** | 8 860,51 |  |
-|  | **B 3** | 9 369,71 |  |
-|  | **B 4** | 9 903,06 |  |
-|  | **B 5** | 10 515,00 |  |
-|  | **B 6** | 11 092,82 |  |
-|  | **B 7** | 11 654,94 |  |
-|  | **B 8** | 12 240,77 |  |
-|  | **B 9** | 12 968,22 |  |
-|  | **B 10** | 15 227,10 |  |
-|  | **B 11** | 15 809,30 |  |
+|  | **B 2** | 9 110,38 |  |
+|  | **B 3** | 9 633,94 |  |
+|  | **B 4** | 10 182,33 |  |
+|  | **B 5** | 10 811,52 |  |
+|  | **B 6** | 11 405,64 |  |
+|  | **B 7** | 11 983,61 |  |
+|  | **B 8** | 12 585,96 |  |
+|  | **B 9** | 13 333,92 |  |
+|  | **B 10** | 15 656,50 |  |
+|  | **B 11** | 16 255,12 |  |
 
 **Besoldungsordnung W**
 
@@ -2882,18 +2893,18 @@ Gültig ab 1. Februar 2025
 
 (Monatsbeträge in Euro)
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
 |  | **Besoldungsgruppe** | **Festbetrag** |  |
 |---|---|---|---|
-|  | **W 1** | 5 538,75 |  |
+|  | **W 1** | 5 694,94 |  |
 
 | **Besoldungsgruppe** | **Stufe** |  |  |
 |---|---|---|---|
 | **1** | **2** | **3** |  |
 | **5 Jahre** | **7 Jahre** |  |  |
-| **W 2** | 6 824,23 | 7 094,18 | 7 499,05 |
-| **W 3** | 8 038,92 | 8 308,84 | 8 646,23 |
+| **W 2** | 7 016,67 | 7 294,24 | 7 710,52 |
+| **W 3** | 8 265,62 | 8 543,15 | 8 890,05 |
 
 **Besoldungsordnung R**
 
@@ -2901,21 +2912,21 @@ Gültig ab 1. Februar 2025
 
 (Monatsbeträge in Euro)
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
 |  | **Besoldungsgruppe** | **Stufe** |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |  |  |  |
 | **2-Jahres-Rhythmus** |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **R 1** | 5 253,69 | 5 542,23 | 5 830,73 | 6 119,24 | 6 407,76 | 6 696,32 | 6 984,79 | 7 273,38 | 7 561,86 | 7 850,43 |  |
-|  | **R 2** |  |  | 6 521,41 | 6 809,94 | 7 098,47 | 7 387,00 | 7 675,50 | 7 963,98 | 8 252,54 | 8 541,03 |  |
-|  | **R 3** | 9 369,71 |  |  |  |  |  |  |  |  |  |  |
-|  | **R 4** | 9 903,06 |  |  |  |  |  |  |  |  |  |  |
-|  | **R 5** | 10 515,00 |  |  |  |  |  |  |  |  |  |  |
-|  | **R 6** | 11 092,82 |  |  |  |  |  |  |  |  |  |  |
-|  | **R 7** | 11 654,94 |  |  |  |  |  |  |  |  |  |  |
-|  | **R 8** | 12 240,77 |  |  |  |  |  |  |  |  |  |  |
-|  | **R 9** | 12 968,22 |  |  |  |  |  |  |  |  |  |  |
+| **R 1** | 5 401,84 | 5 698,52 | 5 995,16 | 6 291,80 | 6 588,46 | 6 885,16 | 7 181,76 | 7 478,49 | 7 775,10 | 8 071,81 |  |  |
+| **R 2** |  |  | 6 705,31 | 7 001,98 | 7 298,65 | 7 595,31 | 7 891,95 | 8 188,56 | 8 485,26 | 8 781,89 |  |  |
+|  | **R 3** | 9 633,94 |  |  |  |  |  |  |  |  |  |  |
+|  | **R 4** | 10 182,33 |  |  |  |  |  |  |  |  |  |  |
+|  | **R 5** | 10 811,52 |  |  |  |  |  |  |  |  |  |  |
+|  | **R 6** | 11 405,64 |  |  |  |  |  |  |  |  |  |  |
+|  | **R 7** | 11 983,61 |  |  |  |  |  |  |  |  |  |  |
+|  | **R 8** | 12 585,96 |  |  |  |  |  |  |  |  |  |  |
+|  | **R 9** | 13 333,92 |  |  |  |  |  |  |  |  |  |  |
 
 **Besoldungsordnung C kw**
 
@@ -2923,16 +2934,16 @@ Gültig ab 1. Februar 2025
 
 (Monatsbeträge in Euro)
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
 | **Besoldungsgruppe** | **Stufe** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** |  |
 | **2-Jahres-Rhythmus** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **C 1 kw** | 4 336,07 | 4 474,97 | 4 613,81 | 4 752,67 | 4 893,48 | 5 035,09 | 5 176,72 | 5 318,36 | 5 460,02 | 5 601,65 | 5 743,29 | 5 884,96 | 6 026,59 | 6 168,25 |  |
-| **C 2 kw** | 4 344,72 | 4 566,07 | 4 787,36 | 5 012,95 | 5 238,67 | 5 464,39 | 5 690,14 | 5 915,85 | 6 141,59 | 6 367,32 | 6 593,01 | 6 818,74 | 7 044,46 | 7 270,26 | 7 495,98 |
-| **C 3 kw** | 4 745,76 | 5 000,35 | 5 255,97 | 5 511,56 | 5 767,13 | 6 022,75 | 6 278,32 | 6 533,90 | 6 789,49 | 7 045,10 | 7 300,67 | 7 556,29 | 7 811,85 | 8 067,46 | 8 323,05 |
-| **C 4 kw** | 5 948,08 | 6 204,98 | 6 461,95 | 6 718,87 | 6 975,83 | 7 232,73 | 7 489,68 | 7 746,55 | 8 003,50 | 8 260,44 | 8 517,37 | 8 774,29 | 9 031,25 | 9 288,17 | 9 545,09 |
+| **C 1 kw** | 4 458,35 | 4 601,16 | 4 743,92 | 4 886,70 | 5 031,48 | 5 177,08 | 5 322,70 | 5 468,34 | 5 613,99 | 5 759,62 | 5 905,25 | 6 050,92 | 6 196,54 | 6 342,19 |  |
+| **C 2 kw** | 4 467,24 | 4 694,83 | 4 922,36 | 5 154,32 | 5 386,40 | 5 618,49 | 5 850,60 | 6 082,68 | 6 314,78 | 6 546,88 | 6 778,93 | 7 011,03 | 7 243,11 | 7 475,28 | 7 707,37 |
+| **C 3 kw** | 4 879,59 | 5 141,36 | 5 404,19 | 5 666,99 | 5 929,76 | 6 192,59 | 6 455,37 | 6 718,16 | 6 980,95 | 7 243,77 | 7 506,55 | 7 769,38 | 8 032,14 | 8 294,96 | 8 557,76 |
+| **C 4 kw** | 6 115,82 | 6 379,96 | 6 644,18 | 6 908,34 | 7 172,55 | 7 436,69 | 7 700,89 | 7 965,00 | 8 229,20 | 8 493,38 | 8 757,56 | 9 021,72 | 9 285,93 | 9 550,10 | 9 814,26 |
 
 <!-- norm id="anlage4" -->
 ### Anlage 4 Strukturzulage, Amtszulagen und Zulagen für besondere Berufsgruppen
@@ -2941,75 +2952,74 @@ Gültig ab 1. Februar 2025
 
 – in der gesetzlichen Reihenfolge –
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
-| **Rechtsgrundlage**<br>**(BayBesG, Bayerische Besoldungsordnungen)** |  | **Betrag in Euro, Vomhundertsatz** |
-|---|---|---|
-| Art. 27 Abs. 2, Abs. 6 Satz 2 |  | 278,64 |
-| Art. 33 Satz 1 | A 9 bis A 13 | 111,85 |
-| Beamte und Beamtinnen im Polizeivollzugsdienst in A 5 | 25,70 |  |
-| Art. 34 Abs. 2 Satz 1 Nr. 1 | A 3 bis A 5 | 168,24 |
-| A 6 bis A 9 | 224,30 |  |
-| A 10 und höher | 280,38 |  |
-| Art. 34 Abs. 2 Satz 1 Nr. 2, 4, 5 | nach einer Dienstzeit von einem Jahr | 93,11 |
-| nach einer Dienstzeit von zwei Jahren | 186,27 |  |
-| Art. 34 Abs. 2 Satz 1 Nr. 3 |  | 186,27 |
-| Art. 34 Abs. 2 Satz 1 Nr. 6 | als Hubschrauberführer oder Hubschrauberführerin | 269,18 |
-| als Flugtechniker oder Flugtechnikerin | 215,35 |  |
-| Art. 107 Abs. 2 Satz 6 |  | 111,85 |
-| **Besoldungsgruppe** | **Fußnote** |  |
-| **A 6** | 3 | 50 v. H. des Unterschiedsbetrags zwischen dem Endgrundgehalt der Besoldungsgruppe A 6 und dem Endgrundgehalt der Besoldungsgruppe A 7 |
-| **A 7** | 4 | 50 v. H. des jeweiligen Unterschiedsbetrags zum Grundgehalt der Besoldungsgruppe A 8 |
-| **A 9** | 1 | 56,08 |
-| 3, 4, 6 | 357,59 |  |
-| **A 10** | 1, Spiegelstrich 1 | 74,76 |
-| Spiegelstrich 2 | 149,51 |  |
-| 2 | 56,08 |  |
-| **A 11** | 2, Spiegelstrich 1 | 74,76 |
-| Spiegelstrich 2 | 149,51 |  |
-| **A 12** | 1 | 74,76 |
-| 2 | 304,85 |  |
-| **A 13** | 1, 3, 7, 12 | 249,15 |
-| 9 | 363,39 |  |
-| 4 in Verbindung mit Art. 27 Abs. 5 Satz 2 | 249,15 |  |
-| 321,72 |  |  |
-| 10 | 304,85 |  |
-| **A 14** | 1, 2 | 249,15 |
-| 4, 5 | 227,24 |  |
-| **A 15** | 1, 3, 4, 5 | 249,15 |
-| 2 | 207,71 |  |
-| 8 | 227,24 |  |
-| **A 16** | 1, 7 | 278,64 |
-| 3, Spiegelstrich 1 | 207,71 |  |
-| Spiegelstrich 2 | 166,11 |  |
-| 4 | 332,17 |  |
-| **R 1** | 1, 3 | 275,43 |
-| 2 | 137,73 |  |
-| **R 2** | 1, 3, 5, 6, 7, 8, 9, 10 | 275,43 |
-| **R 3** | 5, 10, 11 | 275,43 |
-| **R 4** | 6 | 275,43 |
-| **R 6** | 6 | 275,43 |
-| **R 7** | 2 | 275,43 |
-| **A 13 kw** | 2 | 222,39 |
-| 3 | 249,15 |  |
-| **A 14 kw** | 2 | 290,63 |
+| **Rechtsgrundlage**<br>**(BayBesG, Bayerische Besoldungsordnungen)** |  |  | **Betrag in Euro, Prozentsatz** |
+|---|---|---|---|
+| Art. 27 Abs. 2, Abs. 6 Satz 2 |  |  | 286,50 |
+| Art. 33 Satz 1 | A 9 bis A 13 |  | 115,00 |
+| Beamte und Beamtinnen im Polizeivollzugsdienst in A 5 |  | 26,42 |  |
+| Art. 34 Abs. 2 Satz 1 Nr. 1 | A 3 bis A 5 |  | 172,98 |
+| A 6 bis A 9 |  | 230,63 |  |
+| A 10 und höher |  | 288,29 |  |
+| Art. 34 Abs. 2 Satz 1 Nr. 2, 4, 5 | nach einer Dienstzeit von einem Jahr |  | 95,74 |
+| nach einer Dienstzeit von zwei Jahren |  | 191,52 |  |
+| Art. 34 Abs. 2 Satz 1 Nr. 3 |  |  | 191,52 |
+| Art. 34 Abs. 2 Satz 1 Nr. 6 | als Hubschrauberführer oder Hubschrauberführerin |  | 276,77 |
+| als Flugtechniker oder Flugtechnikerin |  | 221,42 |  |
+| Art. 107 Abs. 2 Satz 6 |  |  | 115,00 |
+| **Besoldungsgruppe** | **Fußnote** |  |  |
+| **A 6** | 3 |  | 50 % des Unterschiedsbetrags zwischen dem Endgrundgehalt der Besoldungsgruppe A 6 und dem Endgrundgehalt der Besoldungsgruppe A 7 |
+| **A 7** | 4 |  | 50 % des jeweiligen Unterschiedsbetrags zum Grundgehalt der Besoldungsgruppe A 8 |
+| **A 9** | 1 |  | 57,66 |
+| 3, 4, 6 |  | 367,67 |  |
+| **A 10** | 1, | Spiegelstrich 1 | 76,87 |
+|  | Spiegelstrich 2 | 153,73 |  |
+| 2 |  | 57,66 |  |
+| **A 11** | 2, | Spiegelstrich 1 | 76,87 |
+|  | Spiegelstrich 2 | 153,73 |  |
+| **A 12** | 1 |  | 76,87 |
+| 2 |  | 313,45 |  |
+| **A 13** | 1, 3, 7, 12 |  | 256,18 |
+| 9 |  | 373,64 |  |
+| 4 in Verbindung mit Art. 27 Abs. 5 Satz 2 |  | 256,18<br>330,79 |  |
+| 10 |  | 313,45 |  |
+| **A 14** | 1, 2 |  | 256,18 |
+| 4, 5 |  | 233,65 |  |
+| **A 15** | 1, 3, 4, 5 |  | 256,18 |
+| 2 |  | 213,57 |  |
+| 8 |  | 233,65 |  |
+| **A 16** | 1, 7 |  | 286,50 |
+| 3, | Spiegelstrich 1 | 213,57 |  |
+|  | Spiegelstrich 2 | 170,79 |  |
+| 4 |  | 341,54 |  |
+| **R 1** | 1, 3 |  | 283,20 |
+| 2 |  | 141,61 |  |
+| **R 2** | 1, 3, 5, 6, 7, 8, 9, 10 |  | 283,20 |
+| **R 3** | 5, 10, 11 |  | 283,20 |
+| **R 4** | 6 |  | 283,20 |
+| **R 6** | 6 |  | 283,20 |
+| **R 7** | 2 |  | 283,20 |
+| **A 13 kw** | 2 |  | 228,66 |
+| 3 |  | 256,18 |  |
+| **A 14 kw** | 2 |  | 298,83 |
 
 <!-- norm id="anlage5" -->
 ### Anlage 5 Orts- und Familienzuschlag
 
 (Monatsbeträge in Euro)
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
 | **Ortsklasse** | **Stufe L** | **Stufe V** | **Stufe 1** | **Stufe 2** | **zzgl. für das 3. Kind** | **zzgl. je weiterem Kind** |
 |---|---|---|---|---|---|---|
-| **I** |  | 85,11 | 337,46 | 493,00 | 482,05 | 577,10 |
+| **I** |  | 87,51 | 346,98 | 506,90 | 495,64 | 593,37 |
 | **II** |  |  |  |  |  |  |
-| **III** | 527,70 | 496,51 | 623,23 |  |  |  |
-| **IV** | 360,56 | 562,38 | 511,42 | 669,83 |  |  |
-| **V** | 109,41 | 383,64 | 597,06 | 526,76 | 716,84 |  |
-| **VI** | 133,73 | 406,73 | 674,02 | 542,57 | 764,33 |  |
-| **VII** | 165,59 | 165,59 | 531,08 | 763,33 | 558,83 | 812,28 |
+| **III** | 542,58 | 510,51 | 640,81 |  |  |  |
+| **IV** | 370,73 | 578,24 | 525,84 | 688,72 |  |  |
+| **V** | 112,50 | 394,46 | 613,90 | 541,61 | 737,05 |  |
+| **VI** | 137,50 | 418,20 | 693,03 | 557,87 | 785,88 |  |
+| **VII** | 170,26 | 170,26 | 546,06 | 784,86 | 574,59 | 835,19 |
 
 **Erhöhungsbeträge für die Besoldungsgruppen A 3 bis A 10**
 
@@ -3018,13 +3028,13 @@ Der Orts- und Familienzuschlag ab der Stufe 1 erhöht sich für jedes zu berück
 | **Ortsklasse** | **Besoldungsgruppe** |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|
 | **A 3** | **A 4** | **A 5** | **A 6** | **A 7** | **A 8** | **A 9** | **A 10** |  |
-| **I** | 34,19 | 30,27 | 29,23 | 27,19 | 23,92 | 21,73 | 17,59 | 10,61 |
-| **II** | 36,24 | 34,00 | 32,83 | 30,54 | 26,87 | 24,40 | 19,75 | 11,91 |
-| **III** | 40,26 | 37,78 | 36,48 | 33,92 | 29,86 | 27,11 | 21,93 | 13,23 |
-| **IV** | 44,73 | 41,97 | 40,53 | 37,67 | 33,17 | 30,12 | 24,37 | 14,70 |
-| **V** | 49,15 | 46,11 | 44,53 | 41,40 | 36,44 | 33,10 | 26,77 | 16,15 |
-| **VI** | 53,41 | 50,11 | 48,39 | 45,00 | 39,60 | 35,96 | 29,09 | 17,56 |
-| **VII** | 58,69 | 55,06 | 53,18 | 49,44 | 43,51 | 39,51 | 31,97 | 19,29 |
+| **I** | 35,15 | 31,12 | 30,05 | 27,96 | 24,59 | 22,34 | 18,09 | 10,91 |
+| **II** | 37,26 | 34,96 | 33,76 | 31,40 | 27,63 | 25,09 | 20,31 | 12,25 |
+| **III** | 41,40 | 38,85 | 37,51 | 34,88 | 30,70 | 27,87 | 22,55 | 13,60 |
+| **IV** | 45,99 | 43,15 | 41,67 | 38,73 | 34,11 | 30,97 | 25,06 | 15,11 |
+| **V** | 50,54 | 47,41 | 45,79 | 42,57 | 37,47 | 34,03 | 27,52 | 16,61 |
+| **VI** | 54,92 | 51,52 | 49,75 | 46,27 | 40,72 | 36,97 | 29,91 | 18,06 |
+| **VII** | 60,35 | 56,61 | 54,68 | 50,83 | 44,74 | 40,62 | 32,87 | 19,83 |
 
 Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
@@ -3033,23 +3043,49 @@ Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedriger
 
 (Monatsbeträge in Euro)
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
+
+|  | Grundgehaltsspanne von – bis | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  | 2 848,18 | 3 170,47 | 3 536,70 | 3 952,77 | 4 425,62 | 4 976,05 | 5 612,89 | 6 336,53 | 7 158,71 | 8 092,87 | 9 154,35 | 10 360,35 | 11 730,69 | 13 287,66 |  | **Zonenstufe** | **Monatsbetrag** |  |  |
+|  | 2 848,17 | 3 170,46 | 3 536,69 | 3 952,76 | 4 425,61 | 4 976,04 | 5 612,88 | 6 336,52 | 7 158,70 | 8 092,86 | 9 154,34 | 10 360,34 | 11 730,68 | 13 287,65 |  |  |  |  |  |  |
+|  | **Zonenstufe** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **1** | Die betragsmäßige Zuordnung ergibt sich aus Anlage VI (VI.1, VI.2) zum Bundesbesoldungsgesetz. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | **1** | siehe Verweisung |  |
+|  | **2** | **2** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **3** | **3** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **4** | **4** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **5** | **5** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **6** | **6** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **7** | **7** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **8** | **8** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **9** | **9** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **10** | **10** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **11** | **11** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **12** | **12** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **13** | **13** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **14** | **14** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **15** | **15** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **16** | **16** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **17** | **17** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **18** | **18** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **19** | **19** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | **20** | **20** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 <!-- norm id="anlage7" -->
 ### Anlage 7 Stellenzulagen
 
 (Monatsbeträge)
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
 | **Rechtsgrundlage**<br>**Art. 51 Abs. 1** | **Höhe**<br>**Art. 51 Abs. 2** |
 |---|---|
 |  | **Höchstbetrag (Betrag in Euro)** |
-| Nrn. 1, 4 | bis zu 136,81 |
-| Nr. 2 | bis zu 102,61 |
-| Nr. 5 | bis zu 51,30 |
-|  | **Vomhundertsatz** |
-| Nrn. 3, 7<br>Die Zulage beträgt in den Besoldungsgruppen | 4,7 v. H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe |
+| Nrn. 1, 4 | bis zu 140,67 |
+| Nr. 2 | bis zu 105,50 |
+| Nr. 5 | bis zu 52,75 |
+|  | **Prozentsatz** |
+| Nrn. 3, 7<br>Die Zulage beträgt in den Besoldungsgruppen | 4,7 % des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe |
 | A 3 bis A 5 | A 5 |
 | A 6 bis A 9 | A 9 |
 | A 10 bis A 13 | A 13 |
@@ -3067,51 +3103,51 @@ Gültig ab 1. Februar 2025
 
 – in der gesetzlichen Reihenfolge –
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
-| **Rechtsgrundlage** |  | **Betrag in Euro, Vomhundertsatz** |
+| **Rechtsgrundlage** |  | **Betrag in Euro, Prozentsatz** |
 |---|---|---|
-| Art. 57 Abs. 2 | bei Ausübung eines Amtes der Besoldungsgruppe R 1 | 275,00 |
-|  | bei Ausübung eines Amtes der Besoldungsgruppe R 2 oder R 3 | 307,84 |
-| Art. 57 Abs. 3 |  | 7,5 v. H. des Monatsgrundgehalts |
+| Art. 57 Abs. 2 | bei Ausübung eines Amtes der Besoldungsgruppe R 1 | 282,76 |
+|  | bei Ausübung eines Amtes der Besoldungsgruppe R 2 oder R 3 | 316,52 |
+| Art. 57 Abs. 3 |  | 7,5 % des Monatsgrundgehalts |
 
 <!-- norm id="anlage9" -->
 ### Anlage 9 Mehrarbeitsvergütung
 
-(Stundensätze)
+Stundensätze)
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
 | **Rechtsgrundlage: Art. 61 Abs. 5 Satz 2** |  |  |
 |---|---|---|
-| **Mehrarbeit (ohne Schuldienst) Besoldungsgruppen** | **Betrag in Euro** |  |
-| **A 3 bis A 4** | 15,62 |  |
-| **A 5 bis A 8** | 18,48 |  |
-| **A 9 bis A 12** | 25,37 |  |
-| **A 13 bis A 16, R 1 und R 2** | 34,96 |  |
-| **Mehrarbeit (im Schuldienst) nach Schularten** | **Besoldungsgruppen** | **Betrag in Euro** |
-| an Grundschulen und Mittelschulen | A 9 bis A 11 | 23,61 |
-| ab A 12 | 29,27 |  |
-| an Realschulen und Sonderschulen | A 9 bis A 12 | 23,61 |
-| ab A 13 | 34,67 |  |
-| an Gymnasien, an beruflichen Schulen und an Fachhochschulen | A 9 bis A 12 | 23,61 |
-| ab A 13 | 40,55 |  |
+| **Mehrarbeit**<br>**(ohne Schuldienst)**<br>**Besoldungsgruppen** | **Betrag in Euro** |  |
+| **A 3 bis A 4** | 16,06 |  |
+| **A 5 bis A 8** | 19,00 |  |
+| **A 9 bis A 12** | 26,09 |  |
+| **A 13 bis A 16, R 1 und R 2** | 35,95 |  |
+| **Mehrarbeit**<br>**(im Schuldienst)**<br>**nach Schularten** | **Besoldungsgruppen** | **Betrag in Euro** |
+| an Grundschulen und Mittelschulen | A 9 bis A 11 | 24,28 |
+| ab A 12 | 30,10 |  |
+| an Realschulen und Sonderschulen | A 9 bis A 12 | 24,28 |
+| ab A 13 | 35,65 |  |
+| an Gymnasien, an beruflichen Schulen und an Fachhochschulen | A 9 bis A 12 | 24,28 |
+| ab A 13 | 41,69 |  |
 
 <!-- norm id="anlage10" -->
 ### Anlage 10 Anwärtergrundbetrag
 
-(Monatsbeträge in Euro)
+Monatsbeträge in Euro)
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
 | **Eingangsamt, in das der Anwärter oder die Anwärterin nach Abschluss des Vorbereitungsdienstes voraussichtlich eintritt** | **Grundbetrag** |
 |---|---|
-| **A 3 bis A 4** | 1 389,33 |
-| **A 5 bis A 8** | 1 509,93 |
-| **A 9 bis A 11** | 1 563,85 |
-| **A 12** | 1 703,44 |
-| **A 13** | 1 735,21 |
-| **A 13 + Zulage gemäß Art. 33 Satz 1** | 1 770,08 |
+| **A 3 bis A 4** | 1 449,33 |
+| **A 5 bis A 8** | 1 569,93 |
+| **A 9 bis A 11** | 1 623,85 |
+| **A 12** | 1 763,44 |
+| **A 13** | 1 795,21 |
+| **A 13 + Zulage gemäß Art. 33 Satz 1** | 1 830,08 |
 
 <!-- norm id="anlage11" -->
 ### Anlage 11

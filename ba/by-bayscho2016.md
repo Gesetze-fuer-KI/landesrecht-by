@@ -3,14 +3,14 @@ land: BY
 abkuerzung: BaySchO
 titel: Schulordnung für schulartübergreifende Regelungen an Schulen in Bayern
 kurztitel: Bayerische Schulordnung
-stand: Fassung gültig ab 01.08.2026
-gilt_ab: '2026-08-01'
+stand: Fassung gültig ab 17.11.2026
+gilt_ab: '2026-11-17'
 quelle: https://www.gesetze-bayern.de/Content/Document/BaySchO2016
 ---
 
 # Schulordnung für schulartübergreifende Regelungen an Schulen in Bayern (BaySchO)
 
-Stand: Fassung gültig ab 01.08.2026
+Stand: Fassung gültig ab 17.11.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BaySchO2016>
 
@@ -535,8 +535,8 @@ zu verzichten.
 
 (2) ¹Nachteilsausgleich oder Notenschutz bei Lese-Rechtschreib-Störung gewähren die Schulleiterinnen und Schulleiter. ²In den übrigen Fällen sind zuständig:
 
-- 1\. bei Grundschulen und Mittelschulen, Förderzentren sowie Berufsschulen zur sonderpädagogischen Förderung und Schulen für Kranke, die Schülerinnen und Schüler der genannten Schularten unterrichten, die Schulleiterin oder der Schulleiter bzw. die für die Prüfung eingesetzte Kommission,
-- 2\. bei Realschulen und Gymnasien, sonstigen beruflichen Schulen sowie den entsprechenden Schulen zur sonderpädagogischen Förderung und Schulen für Kranke, die Schülerinnen und Schüler der genannten Schularten unterrichten, die Schulaufsicht für die jeweilige Schulart.
+- 1\. bei Grundschulen und Mittelschulen, Förderzentren sowie Berufsschulen zur sonderpädagogischen Förderung und Klinikschulen, die Schülerinnen und Schüler der genannten Schularten unterrichten, die Schulleiterin oder der Schulleiter bzw. die für die Prüfung eingesetzte Kommission,
+- 2\. bei Realschulen und Gymnasien, sonstigen beruflichen Schulen sowie den entsprechenden Schulen zur sonderpädagogischen Förderung und Klinikschulen, die Schülerinnen und Schüler der genannten Schularten unterrichten, die Schulaufsicht für die jeweilige Schulart.
 
 <!-- norm id="par36" -->
 ### § 36 Verfahren
@@ -549,7 +549,7 @@ zu verzichten.
 
 (4) ¹Die Erziehungsberechtigten oder volljährigen Schülerinnen und Schüler können in Textform beantragen, dass ein bewilligter Nachteilsausgleich oder Notenschutz nicht mehr gewährt wird. ²Ein Verzicht auf Notenschutz ist spätestens innerhalb der ersten Woche nach Unterrichtsbeginn zu erklären.
 
-(5) Bei der Prüfung der Erforderlichkeit, des Umfangs, der Dauer und der Form des Nachteilsausgleichs oder eines etwaigen Notenschutzes können je nach Einschränkung und bei Bedarf die unterrichtenden Lehrkräfte, die Lehrkräfte der Mobilen Sonderpädagogischen Dienste oder Lehrkräfte für Sonderpädagogik nach Art. 30 Abs. 4 Satz 3 BayEUG, Beratungslehrkräfte, Schulpsychologinnen bzw. Schulpsychologen oder Lehrkräfte der zuvor besuchten Schule für Kranke sowie ärztliche Stellungnahmen oder solche der Jugendhilfe einbezogen werden.
+(5) Bei der Prüfung der Erforderlichkeit, des Umfangs, der Dauer und der Form des Nachteilsausgleichs oder eines etwaigen Notenschutzes können je nach Einschränkung und bei Bedarf die unterrichtenden Lehrkräfte, die Lehrkräfte der Mobilen Sonderpädagogischen Dienste oder Lehrkräfte für Sonderpädagogik nach Art. 30 Abs. 4 Satz 3 BayEUG, Beratungslehrkräfte, Schulpsychologinnen bzw. Schulpsychologen oder Lehrkräfte der zuvor besuchten Klinikschule sowie ärztliche Stellungnahmen oder solche der Jugendhilfe einbezogen werden.
 
 (6) Nach einem Schulwechsel prüft die aufnehmende Schule in eigener Verantwortung, welche Formen der individuellen Unterstützung, des Nachteilsausgleichs oder Notenschutzes zu gewähren sind.
 
@@ -569,7 +569,7 @@ zu verzichten.
   - c) die Zeugnisse, die wichtige schulische Berechtigungen verleihen, in Abschrift,
   - d) die Urkunden, die zum Führen einer Berufsbezeichnung berechtigen, in Abschrift,
   - e) die sonstigen Zeugnisse in Abschrift und Übertrittszeugnisse in Abschrift oder im Original,
-  - f) den Schullaufbahnbogen, in welchen die für den schulischen Bildungsweg wesentlichen Feststellungen, Beobachtungen und Empfehlungen aufgenommen werden, einschließlich einer Übersicht über die ausgesprochenen Ordnungsmaßnahmen nach Art. 86 Abs. 2 Nr. 6 bis 10 BayEUG, nach dem vom Staatsministerium herausgegebenen Muster,
+  - f) den Schullaufbahnbogen, in welchen die für den schulischen Bildungsweg wesentlichen Feststellungen, Beobachtungen und Empfehlungen aufgenommen werden, einschließlich einer Übersicht über die ausgesprochenen Ordnungsmaßnahmen nach Art. 86 Abs. 2 Nr. 5 bis 10 BayEUG, nach dem vom Staatsministerium herausgegebenen Muster,
   - g) die Notenbögen, in welche insbesondere die Ergebnisse der schriftlichen, mündlichen und praktischen Leistungsnachweise der einzelnen Schülerin oder des einzelnen Schülers sowie damit zusammenhängende Bemerkungen aufgenommen werden,
   - h) die Zwischenberichte, soweit diese nach den Vorschriften der Schulordnungen die Halbjahreszeugnisse ersetzen,
   - i) die schriftlichen Angaben über bereits erfolgte Maßnahmen und diagnostische Grundlagen bei Schülerinnen und Schülern mit besonderem Förderbedarf sowie Unterlagen zum Nachteilsausgleich und Notenschutz,
@@ -1778,7 +1778,7 @@ Nutzerinnen und Nutzer der vom MDM betroffenen Geräte.
 
 **3. Kategorien der verarbeiteten Daten**
 
-**3.1 Angaben zu den Nutzerinnen und Nutzern bzw. zu deren Nutzerkonten (insbesondere Namensangaben, ID-Adresse, Kommunikationsdaten, Benutzergruppe).**
+**3.1 Angaben zu den Nutzerinnen und Nutzern bzw. zu deren Nutzerkonten (insbesondere Namensangaben, personalisierte Nutzerkennung, Kommunikationsdaten, Benutzergruppe).**
 
 **3.2 Informationen zur Identifikation der verwalteten Geräte (z.B. Gerätename, Geräte-ID, IP-Adresse, MAC-Adresse, Gerätegruppe).**
 

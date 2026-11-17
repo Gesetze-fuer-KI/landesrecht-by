@@ -2,14 +2,14 @@
 land: BY
 abkuerzung: StRGVV
 titel: Verordnung über die Geschäftsverteilung der Bayerischen Staatsregierung
-stand: Fassung gültig ab 08.11.2023
-gilt_ab: '2023-11-08'
+stand: Fassung gültig ab 30.09.2026
+gilt_ab: '2026-09-30'
 quelle: https://www.gesetze-bayern.de/Content/Document/BayStRGVV
 ---
 
 # Verordnung über die Geschäftsverteilung der Bayerischen Staatsregierung (StRGVV)
 
-Stand: Fassung gültig ab 08.11.2023
+Stand: Fassung gültig ab 30.09.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BayStRGVV>
 
@@ -57,7 +57,8 @@ Auf Grund von Art. 53 und 77 Abs. 1 Satz 2 der Verfassung des Freistaates Bayern
 - 2\. Medien, Medienförderung, Film, Filmförderung, soweit nicht § 3 Nr. 13, § 7 Nr. 4 oder § 14 Nr. 10
 - 3\. Europapolitik: Grundsatzfragen und Koordinierung
 - 4\. Entwicklungszusammenarbeit: Grundsatzfragen und Koordinierung
-- 5\. Ressortübergreifende Fortbildung für die obere Führungsebene, Lehrgang für Verwaltungsführung.
+- 5\. Ressortübergreifende Fortbildung für die obere Führungsebene, Lehrgang für Verwaltungsführung
+- 6\. Jugend, Demokratie.
 
 (3) Die Staatskanzlei führt neben ihrem ersten Dienstsitz in der Landeshauptstadt weitere bayerische Dienstsitze in Nürnberg und Kaufbeuren.
 
@@ -369,7 +370,7 @@ Das Staatsministerium für Familie, Arbeit und Soziales nimmt insbesondere folge
   - b) Sozialversicherungen, Sozialversicherungsträger und Versicherungsbehörden einschließlich Aufsicht, soweit nicht § 13 Satz 1 Nr. 7 bis 9
   - c) Sozialhilferecht, Wohnungslosenhilfe
   - d) Blindengeld, soziale Entschädigung
-  - e) Kinder- und Jugendhilfe einschließlich Kindertageseinrichtungen
+  - e) Kinder- und Jugendhilfe einschließlich Kindertageseinrichtungen, soweit nicht § 1 Abs. 2 Nr. 6
   - f) Kriegsgefangene, Heimkehrer, Lastenausgleich
   - g) Ehrenamt und Freiwilligendienste, soweit nicht § 3 Nr. 3 oder § 13 Satz 1 Nr. 11
   - h) Wohlfahrtspflege, Sozialwirtschaft

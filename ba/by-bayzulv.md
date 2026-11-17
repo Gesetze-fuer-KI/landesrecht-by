@@ -3,14 +3,14 @@ land: BY
 abkuerzung: BayZulV
 titel: Verordnung über die Gewährung von Zulagen
 kurztitel: Bayerische Zulagenverordnung
-stand: Fassung gültig ab 01.01.2026
-gilt_ab: '2026-01-01'
+stand: Fassung gültig ab 01.10.2026
+gilt_ab: '2026-10-01'
 quelle: https://www.gesetze-bayern.de/Content/Document/BayZulV
 ---
 
 # Verordnung über die Gewährung von Zulagen (BayZulV)
 
-Stand: Fassung gültig ab 01.01.2026
+Stand: Fassung gültig ab 01.10.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BayZulV>
 
@@ -259,7 +259,7 @@ in fliegenden Verbänden oder diesen gleichgestellten Einrichtungen, Einheiten u
 
 ²Die Zulage nach § 11 Abs. 3 Satz 1 entfällt oder sie verringert sich, soweit der Dienst zu ungünstigen Zeiten auf andere Weise als mit abgegolten oder ausgeglichen gilt.
 
-(2) Beim Zusammentreffen einer Krankenpflegezulage nach § 13 Abs. 1 bis 3 mit einer Zulage nach Art. 34 Abs. 2 Satz 1 Nr. 3 BayBesG ist diese mit einem Betrag in Höhe von 61,58 € auf die Krankenpflegezulage anzurechnen.
+(2) Beim Zusammentreffen einer Krankenpflegezulage nach § 13 Abs. 1 bis 3 mit einer Zulage nach Art. 34 Abs. 2 Satz 1 Nr. 3 BayBesG ist diese mit einem Betrag in Höhe von 63,32 € auf die Krankenpflegezulage anzurechnen.
 
 (3) ¹Die Sondereinsatzzulage nach § 14 wird nicht gewährt neben
 
@@ -297,113 +297,110 @@ Horst Seehofer
 
 (Monatsbeträge in Euro)
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
 | **Rechtsgrundlage** |  |  |  |
 |---|---|---|---|
 | **§ 3 Abs. 1 Satz 1** |  |  |  |
 |  | **A 3 bis A 5** | **A 6 bis A 8** | **ab A 9 und höher** |
 | **Regellehrverpflichtung von** |  |  |  |
-| mindestens 20 Unterrichtsstunden | 68,41 | 88,93 | 102,61 |
-| mindestens 15 Unterrichtsstunden | 51,30 | 68,41 | 75,22 |
-| mehr als 10 Unterrichtsstunden | 34,19 | 44,46 | 51,30 |
-| Der Höchstsatz der Lehrzulage von 102,61 € gilt für Leiter und Leiterinnen einer Arbeitsgemeinschaft für Rechtsreferendare und Rechtsreferendarinnen sowie Rechtspraktikanten und Rechtspraktikantinnen bereits ab einer Regellehrverpflichtung von mindestens 17 Unterrichtsstunden. |  |  |  |
+| mindestens 20 Unterrichtsstunden | 70,34 | 91,44 | 105,50 |
+| mindestens 15 Unterrichtsstunden | 52,75 | 70,34 | 77,34 |
+| mehr als 10 Unterrichtsstunden | 35,15 | 45,71 | 52,75 |
+| Der Höchstsatz der Lehrzulage von 105,50 € gilt für Leiter und Leiterinnen einer Arbeitsgemeinschaft für Rechtsreferendare und Rechtsreferendarinnen sowie Rechtspraktikanten und Rechtspraktikantinnen bereits ab einer Regellehrverpflichtung von mindestens 17 Unterrichtsstunden. |  |  |  |
 
 <!-- norm id="anlage2" -->
 ### Anlage 2 Lehrerfunktionszulage
 
 (Monatsbeträge in Euro)
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
 | **Nr.** | **Lehrkräfte – Funktionen** |  |
 |---|---|---|
 | 1. | Fachoberlehrer und Fachoberlehrerinnen (ohne Fachhochschulausbildung) in der Besoldungsgruppe A 11 |  |
-| 1.1 | als Fachbetreuer oder Fachbetreuerin an einer beruflichen Schule für Fächer, in denen Pflichtunterricht in praktischer Fachkunde, in Fachpraxis, in Schreibtechnik, in Fremdsprachen oder in Musik erteilt wird, wobei die Bestellung zum Fachbetreuer oder zur Fachbetreuerin durch die Ernennungsbehörde verfügt sein muss | 68,41 |
-| 1.2 | als zentraler Fachberater oder zentrale Fachberaterin an den Städtischen Realschulen der Landeshauptstadt München | 68,41 |
-| 2. | Zweite Realschulkonrektoren und Zweite Realschulkonrektorinnen, Realschulkonrektoren und Realschulkonrektorinnen, Realschulrektoren und Realschulrektorinnen, Realschuldirektoren und Realschuldirektorinnen, Zweite Sonderschulkonrektoren und Zweite Sonderschulkonrektorinnen, Sonderschulkonrektoren und Sonderschulkonrektorinnen, Sonderschulrektoren und Sonderschulrektorinnen |  |
-|  | als Leiter oder Leiterin eines Seminars für die Ausbildung von Lehrern und Lehrerinnen an Realschulen oder Förderschulen | 102,61 |
+| 1.1 | als Fachbetreuer oder Fachbetreuerin an einer beruflichen Schule für Fächer, in denen Pflichtunterricht in praktischer Fachkunde, in Fachpraxis, in Schreibtechnik, in Fremdsprachen oder in Musik erteilt wird, wobei die Bestellung zum Fachbetreuer oder zur Fachbetreuerin durch die Ernennungsbehörde verfügt sein muss | 70,34 |
+| 1.2 | als zentraler Fachberater oder zentrale Fachberaterin an den Städtischen Realschulen der Landeshauptstadt München | 70,34 |
+| 2. | Zweite Realschulkonrektoren und Zweite Realschulkonrektorinnen, Realschulkonrektoren und Realschulkonrektorinnen, Realschulrektoren und Realschulrektorinnen, Realschuldirektoren und Realschuldirektorinnen, Zweite Sonderschulkonrektoren und Zweite Sonderschulkonrektorinnen, Sonderschulkonrektoren und Sonderschulkonrektorinnen, Sonderschulrektoren und Sonderschulrektorinnen<br>als Leiter oder Leiterin eines Seminars für die Ausbildung von Lehrern und Lehrerinnen an Realschulen oder Förderschulen | 105,50 |
 | 3. | Studienräte und Studienrätinnen im Förderschuldienst |  |
-| 3.1 | als Leiter oder Leiterin eines Schülerheims | 68,41 |
-| 3.2 | als Fachberater oder Fachberaterin für Hör- und Sprachgeschädigte bei den Gesundheitsämtern | 68,41 |
+| 3.1 | als Leiter oder Leiterin eines Schülerheims | 70,34 |
+| 3.2 | als Fachberater oder Fachberaterin für Hör- und Sprachgeschädigte bei den Gesundheitsämtern | 70,34 |
 | 4. | Studienräte und Studienrätinnen, Oberstudienräte und Oberstudienrätinnen |  |
-| 4.1 | als Leiter oder Leiterin eines Schülerheims | 68,41 |
-| 4.2 | als Landesbeauftragter oder Landesbeauftragte für den Computereinsatz und Programmierten Unterricht im Fachunterricht | 102,61 |
-| 4.3 | als Seminarlehrer oder Seminarlehrerin an beruflichen Schulen | 102,61 |
-| 4.4 | als Seminarlehrer oder Seminarlehrerin an Gymnasien | 102,61 |
-| 4.5 | als medienpädagogisch-informationstechnischer Berater oder medienpädagogisch-informationstechnische Beraterin bei dem oder der Ministerialbeauftragten | 102,61 |
-| 4.6 | als medienpädagogisch-informationstechnischer Berater oder medienpädagogisch-informationstechnische Beraterin im Regierungsbezirk für den Bereich der beruflichen Schulen (ohne Fachoberschulen und Berufsoberschulen) | 102,61 |
-| 5. | Studiendirektoren und Studiendirektorinnen¹⁾, Oberstudiendirektoren und Oberstudiendirektorinnen |  |
-|  | als ständiger stellvertretender Seminarvorstand | 68,41/102,61²⁾ |
-| 6. | Studiendirektoren und Studiendirektorinnen³⁾, Oberstudiendirektoren und Oberstudiendirektorinnen an Gymnasien |  |
-|  | als Seminarvorstand, soweit kein ständiger stellvertretender Seminarvorstand bestellt ist | 68,41/102,61²⁾ |
+| 4.1 | als Leiter oder Leiterin eines Schülerheims | 70,34 |
+| 4.2 | als Landesbeauftragter oder Landesbeauftragte für den Computereinsatz und Programmierten Unterricht im Fachunterricht | 105,50 |
+| 4.3 | als Seminarlehrer oder Seminarlehrerin an beruflichen Schulen | 105,50 |
+| 4.4 | als Seminarlehrer oder Seminarlehrerin an Gymnasien | 105,50 |
+| 4.5 | als medienpädagogisch-informationstechnischer Berater oder medienpädagogisch-informationstechnische Beraterin bei dem oder der Ministerialbeauftragten | 105,50 |
+| 4.6 | als medienpädagogisch-informationstechnischer Berater oder medienpädagogisch-informationstechnische Beraterin im Regierungsbezirk für den Bereich der beruflichen Schulen (ohne Fachoberschulen und Berufsoberschulen) | 105,50 |
+| 5. | Studiendirektoren und Studiendirektorinnen, Oberstudiendirektoren und Oberstudiendirektorinnen<br>als ständiger stellvertretender Seminarvorstand | 70,34/105,50 |
+| 6. | Studiendirektoren und Studiendirektorinnen, Oberstudiendirektoren und Oberstudiendirektorinnen an Gymnasien<br>als Seminarvorstand, soweit kein ständiger stellvertretender Seminarvorstand bestellt ist | 70,34/105,50 |
 
 > **Fußnote**
 >
-> 1) Die Zulage erhalten nur Studiendirektoren und Studiendirektorinnen, die als solche ständige Vertreter und Vertreterinnen von Schulleitern oder Schulleiterinnen sind.
+> Die Zulage erhalten nur Studiendirektoren und Studiendirektorinnen, die als solche ständige Vertreter und Vertreterinnen von Schulleitern oder Schulleiterinnen sind.
 >
-> 2) Studiendirektoren und Studiendirektorinnen erhalten eine Zulage von 102,61 €, Oberstudiendirektoren und Oberstudiendirektorinnen eine Zulage von 68,41 €.
+> Studiendirektoren und Studiendirektorinnen erhalten eine Zulage von 105,50 €, Oberstudiendirektoren und Oberstudiendirektorinnen eine Zulage von 70,34 €.
 >
-> 3) Die Zulage erhalten nur Studiendirektoren und Studiendirektorinnen, denen die Leitung der Schule übertragen ist.
+> Die Zulage erhalten nur Studiendirektoren und Studiendirektorinnen, denen die Leitung der Schule übertragen ist.
 >
-> 2) Studiendirektoren und Studiendirektorinnen erhalten eine Zulage von 102,61 €, Oberstudiendirektoren und Oberstudiendirektorinnen eine Zulage von 68,41 €.
+> Studiendirektoren und Studiendirektorinnen erhalten eine Zulage von 105,50 €, Oberstudiendirektoren und Oberstudiendirektorinnen eine Zulage von 70,34 €.
 
 <!-- norm id="anlage3" -->
 ### Anlage 3 Luftfahrtgeräteprüferzulage, Steuerprüferzulage und Justizwachtmeisterzulage
 
 (Monatsbeträge in Euro)
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
 | **Rechtsgrundlage** |  |  |
 |---|---|---|
-| § 6 |  | 136,81 |
-| § 7 | A 6 bis A 8 | 22,82 |
-| A 9 bis A 13 | 51,30 |  |
-| § 7a |  | 88,42 |
+| § 6 |  | 140,67 |
+| § 7 | A 6 bis A 8 | 23,46 |
+| A 9 bis A 13 | 52,75 |  |
+| § 7a |  | 90,91 |
 
 <!-- norm id="anlage4" -->
 ### Anlage 4 Erschwerniszulagen
 
-Gültig ab 1. Februar 2025
+Gültig ab 1. Oktober 2026
 
 | **Rechtsgrundlage** |  |  |  | **Betrag in Euro** |
 |---|---|---|---|---|
 |  |  |  |  | **je Stunde** |
-| § 11 Abs. 2 Satz 1 | Nr. 1 |  |  | 4,24 |
-| in der Zeit zwischen 20:00 Uhr und 6:00 Uhr |  | 5,53 |  |  |
-| Nr. 2 |  |  | 0,84 |  |
-| für Beamte und Beamtinnen mit einer Zulage nach Art. 34 Abs. 2 Satz 1 Nr. 2 bis 6 BayBesG |  | 1,06 |  |  |
-| Nr. 3 |  |  | 5,53 |  |
+| § 11 Abs. 2 Satz 1 | Nr. 1 |  |  | 4,36 |
+| in der Zeit zwischen 20:00 Uhr und 6:00 Uhr |  | 5,69 |  |  |
+| Nr. 2 |  |  | 0,86 |  |
+| für Beamte und Beamtinnen mit einer Zulage nach Art. 34 Abs. 2 Satz 1 Nr. 2 bis 6 BayBesG |  | 1,09 |  |  |
+| Nr. 3 |  |  | 5,69 |  |
 |  |  |  |  | **je Maßnahme** |
 | § 12 | innereuropäische Maßnahme |  |  | 70,00 |
 | außereuropäische Maßnahme |  |  | 100,00 |  |
 |  |  |  |  | **je Monat** |
-| § 13 | Abs. 1 |  |  | 20,52 |
-| Abs. 2 |  |  | 61,58 |  |
-| Abs. 3 |  |  | 82,10 |  |
-| Abs. 4 |  |  | 159,06 |  |
-| § 14 | Satz 1 | Nr. 1 |  | 334,46 |
-| Nr. 2, 3 |  | 205,21 |  |  |
-| Satz 2 |  |  | 205,21 |  |
-| § 14a |  |  |  | 183,44 |
-| § 15 | Abs. 1 Satz 1 | Nr. 1 | mit Zusatzqualifikation | 482,25 |
-| ohne Zusatzqualifikation | 424,12 |  |  |  |
-| Nr. 2 | mit Zusatzqualifikation | 433,00 |  |  |
-| ohne Zusatzqualifikation | 374,86 |  |  |  |
-| Abs. 2 |  |  | 61,58 |  |
-| § 16 | Abs. 1 |  |  | 51,30 |
-| Abs. 2 |  |  | 20,52 |  |
+| § 13 | Abs. 1 |  |  | 21,10 |
+| Abs. 2 |  |  | 63,32 |  |
+| Abs. 3 |  |  | 84,42 |  |
+| Abs. 4 |  |  | 163,55 |  |
+| § 14 | Satz 1 | Nr. 1 |  | 343,89 |
+| Nr. 2, 3 |  | 211,00 |  |  |
+| Satz 2 |  |  | 211,00 |  |
+| § 14a |  |  |  | 188,61 |
+| § 15 | Abs. 1 Satz 1 | Nr. 1 | mit Zusatzqualifikation | 495,85 |
+| ohne Zusatzqualifikation | 436,08 |  |  |  |
+| Nr. 2 | mit Zusatzqualifikation | 445,21 |  |  |
+| ohne Zusatzqualifikation | 385,43 |  |  |  |
+| Abs. 2 |  |  | 63,32 |  |
+| § 16 | Abs. 1 |  |  | 52,75 |
+| Abs. 2 |  |  | 21,10 |  |
 |  |  |  |  | **je Stunde** |
-| § 17 Abs. 3 Satz 1 in Verbindung mit § 17 Abs. 2 Satz 1 | Nr. 1 |  |  | 3,69 |
-| Nr. 2 | Tauchtiefe | bis zu 5 m | 15,33 |  |
-| mehr als 5 m | 18,59 |  |  |  |
-| mehr als 10 m | 23,08 |  |  |  |
-| mehr als 15 m bis zu 20 m | 29,74 |  |  |  |
-| je weitere 5 m | 5,93 |  |  |  |
-| § 18 | Abs. 1 | je Einsatz |  | 34,19 |
-| monatlicher Höchstbetrag |  | 512,95 |  |  |
-| Abs. 2 Satz 1 | je Einsatz bis zu |  | 342,04 |  |
-| Abs. 3 | monatlicher Gesamtbetrag |  | 1 094,50 |  |
-| Abs. 4 | je Einsatz |  | 20,52 |  |
-| monatlicher Höchstbetrag |  | 307,86 |  |  |
+| § 17 Abs. 3 Satz 1 in Verbindung mit § 17 Abs. 2 Satz 1 | Nr. 1 |  |  | 3,79 |
+| Nr. 2 | Tauchtiefe | bis zu 5 m | 15,76 |  |
+|  |  | mehr als 5 m | 19,11 |  |
+|  |  | mehr als 10 m | 23,73 |  |
+|  |  | mehr als 15 m bis zu 20 m | 30,58 |  |
+|  |  | je weitere 5 m | 6,10 |  |
+| § 18 | Abs. 1 |  | je Einsatz | 35,15 |
+| monatlicher Höchstbetrag | 527,42 |  |  |  |
+| Abs. 2 Satz 1 |  | je Einsatz bis zu | 351,69 |  |
+| Abs. 3 |  | monatlicher Gesamtbetrag | 1 125,36 |  |
+| Abs. 4 |  | je Einsatz | 21,10 |  |
+| monatlicher Höchstbetrag | 316,54 |  |  |  |
