@@ -3,14 +3,14 @@ land: BY
 abkuerzung: BezO
 titel: Bezirksordnung für den Freistaat Bayern
 kurztitel: Bezirksordnung
-stand: Fassung gültig ab 01.08.2026
-gilt_ab: '2026-08-01'
+stand: Fassung gültig ab 01.10.2026
+gilt_ab: '2026-10-01'
 quelle: https://www.gesetze-bayern.de/Content/Document/BayBezO
 ---
 
 # Bezirksordnung für den Freistaat Bayern (BezO)
 
-Stand: Fassung gültig ab 01.08.2026
+Stand: Fassung gültig ab 01.10.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BayBezO>
 
@@ -156,6 +156,10 @@ Die Bezirksbürgerinnen und Bezirksbürger wählen den Bezirkstag.
 (3) Für die Bezirkstagspräsidentinnen und Bezirkstagspräsidenten sowie ihre gewählte Stellvertretung gelten die besonderen gesetzlichen Vorschriften.
 
 (4) ¹Vergütungen für Tätigkeiten, die ehrenamtlich tätige Personen kraft Amts oder auf Vorschlag oder Veranlassung des Bezirks in einem Aufsichtsrat, Vorstand oder sonstigen Organ oder Gremium eines privatrechtlich oder öffentlich-rechtlich organisierten Unternehmens wahrnehmen, sind an den Bezirk abzuführen, soweit sie insgesamt einen Betrag von 8 767,25 € im Kalenderjahr übersteigen; mit einem Vomhundertsatz benannte Änderungen des Grundgehalts der Beamtinnen und Beamten mit einer Besoldung nach Besoldungsgruppe A 13 gelten ab dem auf das Inkrafttreten der Änderung folgenden Kalenderjahr mit dem gleichen Vomhundertsatz für den in Halbsatz 1 genannten Betrag. ²Das Staatsministerium des Innern, für Sport und Integration macht bei einer Anpassung nach Satz 1 Halbsatz 2 den neuen Betrag im Bayerischen Ministerialblatt bekannt. ³Vom Bezirk veranlasst sind auch Tätigkeiten, die von einem Unternehmen, an dem er unmittelbar oder mittelbar ganz oder mehrheitlich beteiligt ist, einer ehrenamtlich tätigen Person übertragen werden. ⁴Der Betrag verdoppelt sich für Vorsitzende des Aufsichtsrats oder eines vergleichbaren Organs der in Satz 1 genannten Unternehmen und erhöht sich für deren Stellvertreter um 50 v.H. ⁵Bei der Festsetzung des abzuführenden Betrags sind von den Vergütungen Aufwendungen abzusetzen, die im Zusammenhang mit der Tätigkeit nachweislich entstanden sind. ⁶Die Ablieferungsregelungen nach dem beamtenrechtlichen Nebentätigkeitsrecht finden keine Anwendung.
+
+> **Fußnote**
+>
+> Gem. Bek. v. 28.10.2026 (BayMBl. Nr. 487) gilt für das Jahr 2027 ein Betrag von 9 014,49 € und ab 2028 gilt ein Betrag von 9 286,73 €.
 
 <!-- norm id="art15" -->
 #### Art. 15 Benutzung öffentlicher Einrichtungen; Tragung der Bezirkslasten

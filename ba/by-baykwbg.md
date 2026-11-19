@@ -3,14 +3,14 @@ land: BY
 abkuerzung: KWBG
 titel: Gesetz über kommunale Wahlbeamte und Wahlbeamtinnen
 kurztitel: Kommunal-Wahlbeamten-Gesetz
-stand: Fassung gültig ab 01.01.2026
-gilt_ab: '2026-01-01'
+stand: Fassung gültig ab 01.10.2026
+gilt_ab: '2026-10-01'
 quelle: https://www.gesetze-bayern.de/Content/Document/BayKWBG
 ---
 
 # Gesetz über kommunale Wahlbeamte und Wahlbeamtinnen (KWBG)
 
-Stand: Fassung gültig ab 01.01.2026
+Stand: Fassung gültig ab 01.10.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BayKWBG>
 
@@ -601,7 +601,7 @@ maßgebliche Vomhundertsatz. ³Das Staatsministerium des Innern, für Sport und 
 
 > **Fußnote**
 >
-> Gem. Bek. v. 10.9.2024 (BayMBl. Nr. 434) gilt ab 1.11.2024 ein Grenzbetrag von 4 646,12 €; ab 1.2.2025 gilt ein Grenzbetrag von 4 860,23 € und ab dem 1.1.2026 gilt ein Grenzbertrag von 5 094,56 €.
+> Gem. Bek. v. 28.10.2026 (BayMBl. Nr. 487) gilt für das Jahr 2026 ein Grenzbetrag von 5 130,48 €; für das Jahr 2027 gilt ein Grenzbetrag von 5 273,15 € und ab 2028 gilt ein Grenzbetrag von 5 396,42 €.
 
 <!-- norm id="art56" -->
 #### Art. 56 Reisekosten
@@ -667,13 +667,13 @@ nicht übersteigen.
 
 > **Fußnote**
 >
-> Gem. Bek. v. 10.9.2024 (BayMBl. Nr. 434) gilt ab 1.2.2025 ein Grenzbetrag von 1 328,78€.
+> Gem. Bek. v. 28.10.2026 (BayMBl. Nr. 487) gilt ab 1.10.2026 ein Höchstbetrag von 1 366,25 €.
 >
-> Gem. Bek. v. 10.9.2024 (BayMBl. Nr. 434) gilt ab 1.2.2025 ein Grenzbetrag von 797,27€.
+> Gem. Bek. v. 28.10.2026 (BayMBl. Nr. 487) gilt ab 1.10.2026 ein Höchstbetrag von 819,75 €.
 >
-> Gem. Bek. v. 10.9.2024 (BayMBl. Nr. 434) gilt ab 1.2.2025 ein Grenzbetrag von 2 154,81 €.
+> Gem. Bek. v. 28.10.2026 (BayMBl. Nr. 487) gilt ab 1.10.2026 ein Höchstbetrag von 2 215,58 €.
 >
-> Gem. Bek. v. 10.9.2024 (BayMBl. Nr. 434) gilt ab 1.2.2025 ein Grenzbetrag von 1 292,89 €.
+> Gem. Bek. v. 28.10.2026 (BayMBl. Nr. 487) gilt ab 1.10.2026 ein Höchstbetrag von 1 329,35 €.
 
 <!-- norm id="art61" -->
 #### Art. 61 Jährliche Sonderzahlung
@@ -796,9 +796,9 @@ Horst Seehofer
 
 > **Fußnote**
 >
-> Gem. Bek. v. 10.9.2024 (BayMBl. Nr. 434) gilt Anlage 2 zu Art. 46 Abs. 1 KWBG ab 1.2.2025 in folgender Fassung:
+> Gem. Bek. v. 28.10.2026 (BayMBl. Nr. 487) gilt Anlage 2 zu Art. 46 Abs. 1 KWBG ab 1.10.2026 in folgender Fassung:
 >
-> (gültig ab 1. Februar 2025) | | | | | **Rahmensätze** | | | |---|---|---|---|---|---|---| | A. | Erste Bürgermeister und Bürgermeisterinnen | | | | | | | | 1. | kreisangehöriger Gemeinden | | 267,14 € | bis | 878,10 € | | | 2. | kreisfreier Gemeinden und Großer Kreisstädte | | | | | | | | a) | bis 50 000 Einwohner | 471,24 € | bis | 1 283,59 € | | | | b) | von 50 001 bis 100 000 Einwohner | 673,96 € | bis | 1 487,69 € | | | | c) | über 100 000 Einwohner | 878,10 € | bis | 1 690,44 € | | B. | Weitere Bürgermeister und Bürgermeisterinnen und berufsmäßige Gemeinderatsmitglieder | | | | | | | | 1. | kreisangehöriger Gemeinden | | 227,38 € | bis | 715,08 € | | | 2. | kreisfreier Gemeinden und Großer Kreisstädte | | | | | | | | a) | bis 50 000 Einwohner | 389,04 € | bis | 1 039,77 € | | | | b) | von 50 001 bis 100 000 Einwohner | 552,07 € | bis | 1 202,76 € | | | | c) | über 100 000 Einwohner | 715,08 € | bis | 1 365,78 € | | C. | Landräte und Landrätinnen | | | 1 080,84 € | bis | 1 487,69 € |
+> (gültig ab 1. Oktober 2026) | | | | | | |---|---|---|---|---| | | | Rahmensätze | | | | A. | Erste Bürgermeister und Bürgermeisterinnen | | | | | | 1. kreisangehöriger Gemeinden | 274,67 € | bis | 902,86 € | | | 2. kreisfreier Gemeinden und Großer Kreisstädte | | | | | | a) bis 50 000 Einwohner | 484,53 € | bis | 1 319,79 € | | | b) von 50 001 bis 100 000 Einwohner | 692,97 € | bis | 1 529,64 € | | | c) über 100 000 Einwohner | 902,86 € | bis | 1 738,11 € | | B. | Weitere Bürgermeister und Bürgermeisterinnen und berufsmäßige Gemeinderatsmitglieder | | | | | | 1. kreisangehöriger Gemeinden | 233,79 € | bis | 735,25 € | | | 2. kreisfreier Gemeinden und Großer Kreisstädte | | | | | | a) bis 50 000 Einwohner | 400,01 € | bis | 1 069,09 € | | | b) von 50 001 bis 100 000 Einwohner | 567,64 € | bis | 1 236,68 € | | | c) über 100 000 Einwohner | 735,25 € | bis | 1 404,29 € | | C. | Landräte und Landrätinnen | 1 111,32 € | bis | 1 529,64 € |
 
 <!-- norm id="anlage3" -->
 ### Anlage 3 (zu Art. 53 Abs. 2 und 3) Monatliche Entschädigungen für die Ehrenbeamten und Ehrenbeamtinnen
@@ -822,6 +822,6 @@ Horst Seehofer
 
 > **Fußnote**
 >
-> Gem. Bek. v. 10.9.2024 (BayMBl. Nr. 434) gilt Anlage 3 zu Art. 53 Abs. 2 und 3 KWBG ab 1.2.2025 in folgender Fassung:
+> Gem. Bek. v. 28.10.2026 (BayMBl. Nr. 487) gilt Anlage 3 zu Art. 53 Abs. 2 und 3 KWBG ab 1.10.2026 in folgender Fassung:
 >
-> (gültig ab 1. Februar 2025)1.Ehrenamtliche erste Bürgermeister und Bürgermeisterinnen | Einwohner der Gemeinde | | | Rahmensätze | | | |---|---|---|---|---|---| | | bis | 1 000 | 1 435,13 € | bis | 3 731,23 € | | 1 001 | bis | 3 000 | 3 587,73 € | bis | 5 381,60 € | | 3 001 | bis | 5 000 | 4 735,78 € | bis | 6 386,13 € | | | über | 5 000 | 5 453,36 € | bis | 6 888,43 € | 2.Bezirkstagspräsidenten und Bezirkstagspräsidentinnen | Einwohner des Bezirks | | | Höchstbetrag | | | |---|---|---|---|---|---| | | bis | 1 500 000 | 8 430,29 € | | | | 1 500 001 | bis | 3 000 000 | 8 759,06 € | | | | | über | 3 000 000 | 9 087,83 € | | |
+> (gültig ab 1. Oktober 2026) - 1\. **Ehrenamtliche erste Bürgermeister und Bürgermeisterinnen** | | | |---|---| | Einwohner der Gemeinde | Rahmensätze | | bis 1 000 | 1 475,60 € bis 3 836,45 € | | 1 001 bis 3 000 | 3 688,90 € bis 5 533,37 € | | 3 001 bis 5 000 | 4 869,33 € bis 6 566,22 € | | über 5 000 | 5 607,14 € bis 7 082,67 € | - 2\. **Bezirkstagspräsidenten und Bezirkstagspräsidentinnen** | | | |---|---| | Einwohner des Bezirks | Höchstbetrag | | bis 1 500 000 | 8 666,34 € | | 1 500 001 bis 3 000 000 | 9 004,31 € | | über 3 000 000 | 9 342,29 € |
