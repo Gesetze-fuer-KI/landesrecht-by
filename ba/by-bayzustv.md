@@ -2,14 +2,14 @@
 land: BY
 abkuerzung: ZustV
 titel: Zuständigkeitsverordnung
-stand: Fassung gültig ab 01.10.2026
-gilt_ab: '2026-10-01'
+stand: Fassung gültig ab 20.11.2026
+gilt_ab: '2026-11-20'
 quelle: https://www.gesetze-bayern.de/Content/Document/BayZustV
 ---
 
 # Zuständigkeitsverordnung (ZustV)
 
-Stand: Fassung gültig ab 01.10.2026
+Stand: Fassung gültig ab 20.11.2026
 
 Quelle: <https://www.gesetze-bayern.de/Content/Document/BayZustV>
 
@@ -488,8 +488,8 @@ sind die Gemeinden zuständig. ²Sie sind in diesen Fällen auch zuständige Beh
 (7) ¹Die Industrie- und Handelskammern sind zuständig
 
 - 1\. neben der Gemeinde nach § 14 Abs. 1 und § 15 Abs. 1 GewO; sie unterrichten die Gemeinden unverzüglich über alle bei ihnen eingegangenen Daten der Gewerbeanzeigen,
-- 2\. nach § 34c Abs. 1 Satz 1, § 34f Abs. 1 Satz 1, Abs. 4 Satz 2, §§ 34h und 34i GewO sowie für die Ausführung der nach § 34c Abs. 3, §§ 34g und 34j GewO erlassenen Rechtsverordnungen,
-- 3\. als öffentliche Stellen nach den §§ 11b, 13a bis 13c und 46 Abs. 3 GewO sowie neben den Kreisverwaltungsbehörden nach § 29 GewO, soweit sich diese Vorschriften auf Gewerbetreibende beziehen, die den §§ 34c, 34d, 34f, 34h oder 34i GewO unterliegen.
+- 2\. nach § 34c Abs. 1 Satz 1, § 34f Abs. 1 Satz 1, Abs. 4 Satz 2, §§ 34h, 34i und 34k Abs. 1 und 6 Satz 6 GewO sowie für die Ausführung der nach § 34c Abs. 3, §§ 34g, 34j und 34l GewO erlassenen Rechtsverordnungen,
+- 3\. als öffentliche Stellen nach den §§ 11b, 13a bis 13c und 46 Abs. 3 GewO sowie neben den Kreisverwaltungsbehörden nach § 29 GewO, soweit sich diese Vorschriften auf Gewerbetreibende beziehen, die den §§ 34c, 34d, 34f, 34h, 34i oder § 34k GewO unterliegen.
 
 ²Satz 1 Nr. 1 gilt für die Handwerkskammern entsprechend.
 
@@ -1335,10 +1335,10 @@ Für die Verfolgung und Ahndung von Zuwiderhandlungen nach
 - 7\. § 39 Abs. 1 Nr. 7 des Bundesjagdgesetzes und Art. 56 Abs. 1 Nr. 15 des Bayerischen Jagdgesetzes, soweit Vorschriften über das Aussetzen von Tierarten betroffen sind,
 - 8\. Art. 46 des Waldgesetzes für Bayern,
 - 9\.
-  - a) § 144 Abs. 1 Nr. 1 Buchst. h bis o GewO,
+  - a) § 144 Abs. 1 Nr. 1 Buchst. h bis p GewO,
   - b) § 144 Abs. 2 Nr. 1b GewO, soweit sich die Vorschrift auf § 34e Abs. 1 Satz 1 Nr. 2, 4 oder 7, Abs. 2 oder 3 GewO bezieht,
   - c) § 144 Abs. 2 Nr. 3 GewO, soweit sich die Vorschrift auf § 34d Abs. 4 Satz 1 GewO, auch in Verbindung mit Abs. 6 Satz 3 GewO bezieht,
-  - d) § 144 Abs. 2 Nr. 5 bis 11 GewO,
+  - d) § 144 Abs. 2 Nr. 5 bis 12 GewO,
 - 10\. § 146 Abs. 2 Nr. 2 GewO, soweit eine Anzeige bei den Industrie- und Handelskammern oder den Handwerkskammern nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet wurde,
 - 11\. § 146 Abs. 2 Nr. 4 GewO, soweit eine Auskunft gegenüber den Industrie- und Handelskammern nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt wurde,
 - 12\. § 147d GewO,

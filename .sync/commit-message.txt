@@ -1,6 +1,3 @@
-Bayern Stand 2026-11-19: 4 geändert, 0 neu, 0 entfernt
+Bayern Stand 2026-11-20: 1 geändert, 0 neu, 0 entfernt
 
-- BezO: Fassung gültig ab 01.10.2026
-- GO: Fassung gültig ab 01.10.2026
-- KWBG: Fassung gültig ab 01.10.2026
-- LKrO: Fassung gültig ab 01.10.2026
+- ZustV: Fassung gültig ab 20.11.2026
